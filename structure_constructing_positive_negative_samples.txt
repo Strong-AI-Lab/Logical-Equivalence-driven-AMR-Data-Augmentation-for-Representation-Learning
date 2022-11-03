@@ -1,0 +1,67 @@
+input: sentence
+output: 
+sentence1(logical equivalence)
+sentence2(logical inequivalence)
+
+contraposition law
+(positive) 
+if A then B  <=> If not B then not A
+if A then not B  <=> If B then not A
+if not A then B  <=> If not B then A
+if not A then not B  <=> If not B then not A
+(negative) 
+If A then B  => If A then not B
+If A then not B => If A then B
+If not A then B => If not A then not B
+If not A then not B => If not A then B 
+
+commutative law
+(positive)
+A and B <=> B and A
+
+(negative)
+A and B => A and not B / not A and B / not A and not B
+
+
+implication law
+(positive)
+if A then B  <=> A or B
+
+(negative)
+If A then B => not A or not B
+
+=======================================
+Synthetic sentence generation  + (paraphraser model to paraphrase sentence, one sentence paraphrase one new sentence if there is at least one word different)
+We obtain the subject, verb and adjective from pararule.
+subject list []
+verb list [] 
+adjective list [] 
+
+double negation 
+	the sentence that without including negation
+	subject, verb, adjective
+
+contraposition law
+	if A then B
+	if A then not B
+	if not A then B
+	If not A then not B 
+
+commutative law
+	A and B
+	A, B are two sentences which include subject, verb and object
+
+implication law
+	If A then B
+	A or B
+	A, B are two sentences which include subject, verb and object
+========================================
+Pararule-plus with logical equivalence and inequivalence to replace one of the rules and construct new samples
+Depth=2
+Depth=3
+Depth=4
+Depth=5
+	Replace one key rule using logical equivalence and keep the same answer
+	Replace one key rule using logical inequivalence and change the answer to the other one
+	
+def contraposition(df_output, id, sub1, sub2, verb, adj1, adj2):

@@ -1,0 +1,19 @@
+sentence1,sentence2,label,prediction
+"If Harry is not huge, then Harry is angry.","Whether he was huge or angry, Harry was huge.",0,1
+"If Dave is not wealthy, then Fiona is lazy.","Dave isn't a wealthless person, or Fiona is lazy.",1,0
+"If the wolf is not sad, then the bald eagle is high.",wolf sad or bald eagle high?,0,1
+"If the crocodile is not reckless, then the cat is not angry.",-Root or - Crocodiles are not angry at cats.,1,0
+"If the cat is not powerful, then the rabbit is not clever.","Whether it's the power of the cat or the cleverness of the bunny, it's not the root.",0,1
+"If the bear is not rough, then the cat is not furry.","Bears are rough, cats aren't furry.",0,1
+"If the dinosaur is not kind, then the dinosaur is not clever.","Whether the dinosaurs were kind or clever, they were not.",0,1
+"If the wolf is not cute, then the mouse is dull.","If the Wolf was cute, the mouse wouldn't be dull.",1,0
+"If the rabbit is not sleepy, then the rabbit is not angry.",Whether the bunny is sleepy or not angry.,1,0
+"If Erin is not tired, then Erin is funny.","Whether she's tired or funny, Erin is.",0,1
+"If Erin is not clever, then Gary is bad.",Whether it's Erin's inept or Gary's bad.,0,1
+"If the bear is not tired, then the dog is angry.",-Number of bears or anger of dogs,0,1
+"If the dinosaur is not clever, then Charlie is quiet.","a href=""http://www.thedaily.com/articles/2012/01/daily-news/daily-news/2012/01/daily-news/2012/01/daily-news/2012/01/daily-news/2012/01/daily-news/2012/01/daily-news/2012/01/daily-news/2012/01/daily",1,0
+"If Harry is quiet, then Alan is not smart.","Alan is smart, Harry is quiet, he is quiet.",1,0
+"If the squirrel is quiet, then the lion is smart.","The squirrels are quiet, if not smart, not a smart lion.",1,0
+"If the dog is tired, then the dog is angry.",nascent or angry with the dog.,1,0
+"If the cat is not tired, then the wolf is awful.",-Treating cats or wolfing awful.,1,0
+"If Anne is not poor, then the dinosaur is beautiful.",Whether Anne was poor or the dinosaur was beautiful.,1,0

@@ -1,0 +1,43 @@
+sentence1,sentence2,label,prediction
+"If Harry is not sleepy, then Harry is cute.",Whether he's sleepy or cute.,1,0
+"If Anne is slow, then Alan is not high.",Anne wasn't slow or Alan high.,0,1
+"If the dog is not awful, then Bob is poor.",The dog is awful or Bob is poor.,0,1
+"If Harry is not huge, then the crocodile is dull.",Harry is huge or the crocodile is dull.,0,1
+"If the cat is not horrible, then Dave is rough.",Whether the cat is horrible or Dave rough.,0,1
+"If the bald eagle is not short, then Alan is not slow.",Bald Eagle Short of Time Alan,1,0
+"If the mouse is dull, then the cat is not dull.",No mouse or cat dull.,0,1
+"If the dog is not lazy, then Charlie is sad.",Whether it's because Charlie is lazy or sad.,0,1
+"If the lion is not fierce, then the rabbit is not poor.",Lion is fierce or bunny is poor.,0,1
+"If the snake is not nice, then the tiger is boring.","Nice snake, if the tiger is bored.",0,1
+"If the wolf is not slow, then the lion is not boring.",wolf slow or lion bored.,1,0
+"If the snake is not dull, then the bear is short.",Snake dull or bear short.,0,1
+"If Dave is not tired, then the lion is high.",rooted in a tired Dave or a high lion.,0,1
+"If Erin is not kind, then the dinosaur is not wealthy.",Erin is not kind or wealthy dinosaurs.,1,0
+"If the crocodile is not slow, then the dinosaur is small.",Crocodiles are slow or dinosaurs are small.,0,1
+"If the cat is not short, then Gary is slow.",The cat is short or Gary is slow.,0,1
+"If the bald eagle is not poor, then the bald eagle is not nice.",A poor bald eagle isn't nice.,0,1
+"If the cat is not rough, then Gary is poor.",The cat is rough or Gary is poor.,0,1
+"If the bear is not angry, then the cat is funny.",Whether the bear is angry or the cat is funny.,0,1
+"If the rabbit is short, then Alan is not high.",The rabbit isn't short or high Alan.,0,1
+"If the bear is not tired, then Harry is little.",rooted in the tiresomeness of bears or a little Harry.,1,0
+"If the rabbit is boring, then Dave is not smart.",The rabbit isn't boring or smart Dave.,1,0
+"If the mouse is not dull, then the squirrel is not heavy.",Mouse dull or squirrel heavy.,1,0
+"If Harry is short, then Anne is smart.","Harry isn't short, Anne isn't smart.",1,0
+"If the snake is not nice, then the tiger is boring.",Tigers aren't boring if the snakes are nice.,1,0
+"If the rabbit is not small, then Gary is not slow.",The rabbit is small or Gary slow.,0,1
+"If the squirrel is wealthy, then the squirrel is not poor.",The squirrel isn't wealthy or poor.,0,1
+"If Alan is not smart, then Bob is slow.",Alan is smart or Bob is slow.,0,1
+"If the rabbit is kind, then the dog is wealthy.",Rabbits aren't kind or wealthy dogs.,0,1
+"If Anne is tiny, then the crocodile is high.",Anne isn't tiny or a crocodile high.,0,1
+the mouse is rough and the mouse is rough.,"No mouse, no mouse.",0,1
+"If the tiger is lazy, then the crocodile is not fierce.","Tigers aren't lazy, crocodiles are fierce.",1,0
+"If the squirrel is not strong, then Bob is reckless.",Whether the squirrel is strong or Bob is reckless.,0,1
+"If the wolf is not sleepy, then the dog is sad.",wolf sleepy or sad dog.,0,1
+"If Erin is not sad, then the bald eagle is not lazy.",Whether it's the sadness of Erin or the lazyness of the bald eagle.,1,0
+"If the tiger is not cute, then the tiger is not dull.",Tigers are cute or dull.,0,1
+"If the rabbit is not huge, then Dave is poor.",The rabbit is huge or Dave is poor.,0,1
+"If the crocodile is not reckless, then the bald eagle is dull.",Crocodiles are reckless or bald eagles are dull.,0,1
+"If Gary is not wealthy, then the wolf is tiny.",Gary is wealthy or wolf is tiny.,0,1
+"If the dog is not horrible, then the rabbit is not smart.",Whether the dog is horrible or the bunny isn't smart.,0,1
+"If the bear is not clever, then the rabbit is not high.",Bear clever or bunny high?,1,0
+"If the dog is tiny, then the dog is poor.",The dog isn't tiny or poor.,0,1

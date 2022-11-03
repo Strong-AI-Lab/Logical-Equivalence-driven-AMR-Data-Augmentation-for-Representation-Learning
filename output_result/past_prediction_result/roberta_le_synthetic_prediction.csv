@@ -1,0 +1,1316 @@
+ID,Sentence1,Sentence2,Label,Tag,Prediction
+0,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+0,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+1,Bob is cute.,Bob is not cute.,0,Double Negation,0.7878180146217346
+2,the crocodile is clever.,the crocodile is not clever.,0,Double Negation,0.9135974049568176
+3,Gary is strong.,Gary is not weak.,1,Double Negation,0.6983900666236877
+3,Gary is strong.,Gary is not strong.,0,Double Negation,0.7895911931991577
+4,the bear is round.,the bear is not round.,0,Double Negation,0.8398705124855042
+5,the dog is sleepy.,the dog is not sleepy.,0,Double Negation,0.8588411808013916
+6,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+6,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+7,the snake is rough.,the snake is not rough.,0,Double Negation,0.8640956282615662
+8,the wolf is smart.,the wolf is not smart.,0,Double Negation,0.8664330244064331
+9,the leopard is lazy.,the leopard is not lazy.,0,Double Negation,0.8631678223609924
+10,Anne is furry.,Anne is not furry.,0,Double Negation,0.8594934344291687
+11,the rabbit is tired.,the rabbit is not tired.,0,Double Negation,0.9069334864616394
+12,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+12,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+13,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+14,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+15,the bear is round.,the bear is not round.,0,Double Negation,0.8398705124855042
+16,Fiona is awful.,Fiona is not awful.,0,Double Negation,0.9160231947898865
+17,Bob is cute.,Bob is not cute.,0,Double Negation,0.7878180146217346
+18,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+18,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+19,the dinosaur is dull.,the dinosaur is not dull.,0,Double Negation,0.7741131782531738
+20,the bald eagle is kind.,the bald eagle is not kind.,0,Double Negation,0.9567059278488159
+21,the crocodile is clever.,the crocodile is not clever.,0,Double Negation,0.9135974049568176
+22,Charlie is lovely.,Charlie is not lovely.,0,Double Negation,0.7344498038291931
+23,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+24,Fiona is awful.,Fiona is not awful.,0,Double Negation,0.9160231947898865
+25,the cat is slow.,the cat is not accelerate.,1,Double Negation,0.8913199305534363
+25,the cat is slow.,the cat is not slow.,0,Double Negation,0.9207487106323242
+26,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+27,the dinosaur is dull.,the dinosaur is not dull.,0,Double Negation,0.7741131782531738
+28,the tiger is quiet.,the tiger is not quiet.,0,Double Negation,0.9363613724708557
+29,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+30,Fiona is awful.,Fiona is not awful.,0,Double Negation,0.9160231947898865
+31,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+32,the squirrel is reckless.,the squirrel is not reckless.,0,Double Negation,0.9500114321708679
+33,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+34,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+34,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+35,the leopard is lazy.,the leopard is not lazy.,0,Double Negation,0.8631678223609924
+36,the wolf is smart.,the wolf is not smart.,0,Double Negation,0.8664330244064331
+37,Fiona is awful.,Fiona is not awful.,0,Double Negation,0.9160231947898865
+38,the squirrel is reckless.,the squirrel is not reckless.,0,Double Negation,0.9500114321708679
+39,Charlie is lovely.,Charlie is not lovely.,0,Double Negation,0.7344498038291931
+40,the bear is round.,the bear is not round.,0,Double Negation,0.8398705124855042
+41,the bald eagle is kind.,the bald eagle is not kind.,0,Double Negation,0.9567059278488159
+42,the rabbit is tired.,the rabbit is not tired.,0,Double Negation,0.9069334864616394
+43,the squirrel is reckless.,the squirrel is not reckless.,0,Double Negation,0.9500114321708679
+44,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+45,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+46,the squirrel is reckless.,the squirrel is not reckless.,0,Double Negation,0.9500114321708679
+47,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+47,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+48,the rabbit is tired.,the rabbit is not tired.,0,Double Negation,0.9069334864616394
+49,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+50,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+50,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+51,Bob is cute.,Bob is not cute.,0,Double Negation,0.7878180146217346
+52,the rabbit is tired.,the rabbit is not tired.,0,Double Negation,0.9069334864616394
+53,Bob is cute.,Bob is not cute.,0,Double Negation,0.7878180146217346
+54,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+55,the crocodile is clever.,the crocodile is not clever.,0,Double Negation,0.9135974049568176
+56,the dog is sleepy.,the dog is not sleepy.,0,Double Negation,0.8588411808013916
+57,the snake is rough.,the snake is not rough.,0,Double Negation,0.8640956282615662
+58,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+59,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+59,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+60,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+61,the snake is rough.,the snake is not rough.,0,Double Negation,0.8640956282615662
+62,the leopard is lazy.,the leopard is not lazy.,0,Double Negation,0.8631678223609924
+63,Bob is cute.,Bob is not cute.,0,Double Negation,0.7878180146217346
+64,the crocodile is clever.,the crocodile is not clever.,0,Double Negation,0.9135974049568176
+65,the dinosaur is dull.,the dinosaur is not dull.,0,Double Negation,0.7741131782531738
+66,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+67,the bald eagle is kind.,the bald eagle is not kind.,0,Double Negation,0.9567059278488159
+68,Gary is strong.,Gary is not weak.,1,Double Negation,0.6983900666236877
+68,Gary is strong.,Gary is not strong.,0,Double Negation,0.7895911931991577
+69,the crocodile is clever.,the crocodile is not clever.,0,Double Negation,0.9135974049568176
+70,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+71,the leopard is lazy.,the leopard is not lazy.,0,Double Negation,0.8631678223609924
+72,the dinosaur is dull.,the dinosaur is not dull.,0,Double Negation,0.7741131782531738
+73,the dog is sleepy.,the dog is not sleepy.,0,Double Negation,0.8588411808013916
+74,Fiona is awful.,Fiona is not awful.,0,Double Negation,0.9160231947898865
+75,the dinosaur is dull.,the dinosaur is not dull.,0,Double Negation,0.7741131782531738
+76,Harry is big.,Harry is not small.,1,Double Negation,0.8742141127586365
+76,Harry is big.,Harry is not big.,0,Double Negation,0.9073663353919983
+77,the dog is sleepy.,the dog is not sleepy.,0,Double Negation,0.8588411808013916
+78,the snake is rough.,the snake is not rough.,0,Double Negation,0.8640956282615662
+79,the dinosaur is dull.,the dinosaur is not dull.,0,Double Negation,0.7741131782531738
+80,Harry is big.,Harry is not small.,1,Double Negation,0.8742141127586365
+80,Harry is big.,Harry is not big.,0,Double Negation,0.9073663353919983
+81,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+82,the snake is rough.,the snake is not rough.,0,Double Negation,0.8640956282615662
+83,the crocodile is clever.,the crocodile is not clever.,0,Double Negation,0.9135974049568176
+84,the cat is slow.,the cat is not accelerate.,1,Double Negation,0.8913199305534363
+84,the cat is slow.,the cat is not slow.,0,Double Negation,0.9207487106323242
+85,Charlie is lovely.,Charlie is not lovely.,0,Double Negation,0.7344498038291931
+86,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+87,Dave is beautiful.,Dave is not ugly.,1,Double Negation,0.5428717732429504
+87,Dave is beautiful.,Dave is not beautiful.,0,Double Negation,0.698289692401886
+88,the dog is sleepy.,the dog is not sleepy.,0,Double Negation,0.8588411808013916
+89,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+90,Alan is small.,Alan is not small.,0,Double Negation,0.9253695011138916
+91,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+92,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+93,the squirrel is reckless.,the squirrel is not reckless.,0,Double Negation,0.9500114321708679
+94,the rabbit is tired.,the rabbit is not tired.,0,Double Negation,0.9069334864616394
+95,the lion is nice.,the lion is not nice.,0,Double Negation,0.9322179555892944
+96,Bob is cute.,Bob is not cute.,0,Double Negation,0.7878180146217346
+97,Anne is furry.,Anne is not furry.,0,Double Negation,0.8594934344291687
+98,the leopard is lazy.,the leopard is not lazy.,0,Double Negation,0.8631678223609924
+99,the mouse is boring.,the mouse is not boring.,0,Double Negation,0.8290486335754395
+100,the snake is rough and the tiger is little.,the tiger is little and the snake is rough.,1,Commutative,0.9513872861862183
+100,the snake is rough and the tiger is little.,the snake is rough and the snake is not rough.,0,Commutative,0.38042110204696655
+101,the lion is nice and Dave is little.,Dave is little and the lion is nice.,1,Commutative,0.9127064347267151
+101,the lion is nice and Dave is little.,the lion is nice and the lion is not nice.,0,Commutative,0.8506259918212891
+102,the rabbit is tired and the crocodile is short.,the crocodile is short and the rabbit is tired.,1,Commutative,0.9456077814102173
+102,the rabbit is tired and the crocodile is short.,the rabbit is tired and the rabbit is not tired.,0,Commutative,0.4780570864677429
+103,the crocodile is clever and the lion is dull.,the lion is dull and the crocodile is clever.,1,Commutative,0.9590064287185669
+103,the crocodile is clever and the lion is dull.,the crocodile is clever and the crocodile is not clever.,0,Commutative,0.5176660418510437
+104,Anne is furry and Erin is boring.,Erin is boring and Anne is furry.,1,Commutative,0.9407951831817627
+104,Anne is furry and Erin is boring.,Anne is furry and Anne is not furry.,0,Commutative,0.771083652973175
+105,the mouse is boring and the tiger is heavy.,the tiger is heavy and the mouse is boring.,1,Commutative,0.9483128786087036
+105,the mouse is boring and the tiger is heavy.,the mouse is boring and the mouse is not boring.,0,Commutative,0.4967859983444214
+106,Fiona is awful and the lion is fierce.,the lion is fierce and Fiona is awful.,1,Commutative,0.9504892230033875
+106,Fiona is awful and the lion is fierce.,Fiona is awful and Fiona is not awful.,0,Commutative,0.4973200559616089
+107,the bear is round and the rabbit is dull.,the rabbit is dull and the bear is round.,1,Commutative,0.9716423749923706
+107,the bear is round and the rabbit is dull.,the bear is round and the bear is not round.,0,Commutative,0.6073606610298157
+108,the mouse is boring and the dog is horrible.,the dog is horrible and the mouse is boring.,1,Commutative,0.9036226868629456
+108,the mouse is boring and the dog is horrible.,the mouse is boring and the mouse is not boring.,0,Commutative,0.1483173817396164
+109,Erin is funny and the mouse is fierce.,the mouse is fierce and Erin is funny.,1,Commutative,0.9319944381713867
+109,Erin is funny and the mouse is fierce.,Erin is funny and Erin is not funny.,0,Commutative,0.6794214248657227
+110,Fiona is awful and the squirrel is cute.,the squirrel is cute and Fiona is awful.,1,Commutative,0.9257985949516296
+110,Fiona is awful and the squirrel is cute.,Fiona is awful and Fiona is not awful.,0,Commutative,0.4865666329860687
+111,Alan is small and the snake is lazy.,the snake is lazy and Alan is small.,1,Commutative,0.9615612626075745
+111,Alan is small and the snake is lazy.,Alan is small and Alan is not small.,0,Commutative,0.44400832056999207
+112,Charlie is lovely and the dog is slow.,the dog is slow and Charlie is lovely.,1,Commutative,0.9217942357063293
+112,Charlie is lovely and the dog is slow.,Charlie is lovely and Charlie is not lovely.,0,Commutative,0.7242103219032288
+113,Gary is strong and Bob is huge.,Bob is huge and Gary is strong.,1,Commutative,0.9571452736854553
+113,Gary is strong and Bob is huge.,Gary is strong and Gary is not strong.,0,Commutative,0.7427588105201721
+114,the crocodile is clever and Charlie is rough.,Charlie is rough and the crocodile is clever.,1,Commutative,0.9198595881462097
+114,the crocodile is clever and Charlie is rough.,the crocodile is clever and the crocodile is not clever.,0,Commutative,0.6133724451065063
+115,Dave is beautiful and the rabbit is quiet.,the rabbit is quiet and Dave is beautiful.,1,Commutative,0.9290719628334045
+115,Dave is beautiful and the rabbit is quiet.,Dave is beautiful and Dave is not beautiful.,0,Commutative,0.6860498785972595
+116,Fiona is awful and the bear is tired.,the bear is tired and Fiona is awful.,1,Commutative,0.9142612814903259
+116,Fiona is awful and the bear is tired.,Fiona is awful and Fiona is not awful.,0,Commutative,0.5826236009597778
+117,Alan is small and the dog is little.,the dog is little and Alan is small.,1,Commutative,0.9625545144081116
+117,Alan is small and the dog is little.,Alan is small and Alan is not small.,0,Commutative,0.4909502863883972
+118,Fiona is awful and Harry is wealthy.,Harry is wealthy and Fiona is awful.,1,Commutative,0.938119649887085
+118,Fiona is awful and Harry is wealthy.,Fiona is awful and Fiona is not awful.,0,Commutative,0.6104231476783752
+119,Alan is small and Harry is slow.,Harry is slow and Alan is small.,1,Commutative,0.9386637210845947
+119,Alan is small and Harry is slow.,Alan is small and Alan is not small.,0,Commutative,0.6574440002441406
+120,Erin is funny and the lion is dull.,the lion is dull and Erin is funny.,1,Commutative,0.9256133437156677
+120,Erin is funny and the lion is dull.,Erin is funny and Erin is not funny.,0,Commutative,0.5965616703033447
+121,Alan is small and Fiona is thin.,Fiona is thin and Alan is small.,1,Commutative,0.963121771812439
+121,Alan is small and Fiona is thin.,Alan is small and Alan is not small.,0,Commutative,0.48850032687187195
+122,the snake is rough and the crocodile is bad.,the crocodile is bad and the snake is rough.,1,Commutative,0.9714677929878235
+122,the snake is rough and the crocodile is bad.,the snake is rough and the snake is not rough.,0,Commutative,0.31483229994773865
+123,Erin is funny and Anne is tired.,Anne is tired and Erin is funny.,1,Commutative,0.9320408701896667
+123,Erin is funny and Anne is tired.,Erin is funny and Erin is not funny.,0,Commutative,0.8008164763450623
+124,Harry is big and Charlie is reckless.,Charlie is reckless and Harry is big.,1,Commutative,0.9592150449752808
+124,Harry is big and Charlie is reckless.,Harry is big and Harry is not big.,0,Commutative,0.7982420921325684
+125,the squirrel is reckless and the lion is furry.,the lion is furry and the squirrel is reckless.,1,Commutative,0.8812398910522461
+125,the squirrel is reckless and the lion is furry.,the squirrel is reckless and the squirrel is not reckless.,0,Commutative,0.25426968932151794
+126,Bob is cute and the cat is awful.,the cat is awful and Bob is cute.,1,Commutative,0.924901008605957
+126,Bob is cute and the cat is awful.,Bob is cute and Bob is not cute.,0,Commutative,0.7355704307556152
+127,Charlie is lovely and Bob is sleepy.,Bob is sleepy and Charlie is lovely.,1,Commutative,0.9265637993812561
+127,Charlie is lovely and Bob is sleepy.,Charlie is lovely and Charlie is not lovely.,0,Commutative,0.8183714747428894
+128,Harry is big and the dinosaur is awful.,the dinosaur is awful and Harry is big.,1,Commutative,0.8965485095977783
+128,Harry is big and the dinosaur is awful.,Harry is big and Harry is not big.,0,Commutative,0.736674427986145
+129,Fiona is awful and the bald eagle is bad.,the bald eagle is bad and Fiona is awful.,1,Commutative,0.9352012872695923
+129,Fiona is awful and the bald eagle is bad.,Fiona is awful and Fiona is not awful.,0,Commutative,0.6160975694656372
+130,Anne is furry and Charlie is lovely.,Charlie is lovely and Anne is furry.,1,Commutative,0.9242647290229797
+130,Anne is furry and Charlie is lovely.,Anne is furry and Anne is not furry.,0,Commutative,0.7147867679595947
+131,the lion is nice and Harry is dull.,Harry is dull and the lion is nice.,1,Commutative,0.9136937260627747
+131,the lion is nice and Harry is dull.,the lion is nice and the lion is not nice.,0,Commutative,0.812633752822876
+132,Bob is cute and the rabbit is lovely.,the rabbit is lovely and Bob is cute.,1,Commutative,0.9224349856376648
+132,Bob is cute and the rabbit is lovely.,Bob is cute and Bob is not cute.,0,Commutative,0.787542998790741
+133,the dinosaur is dull and the leopard is nice.,the leopard is nice and the dinosaur is dull.,1,Commutative,0.915984570980072
+133,the dinosaur is dull and the leopard is nice.,the dinosaur is dull and the dinosaur is not dull.,0,Commutative,0.7356541156768799
+134,the leopard is lazy and Anne is tired.,Anne is tired and the leopard is lazy.,1,Commutative,0.9121211171150208
+134,the leopard is lazy and Anne is tired.,the leopard is lazy and the leopard is not lazy.,0,Commutative,0.7375351190567017
+135,the cat is slow and Harry is tired.,Harry is tired and the cat is slow.,1,Commutative,0.8888794183731079
+135,the cat is slow and Harry is tired.,the cat is slow and the cat is not slow.,0,Commutative,0.772285521030426
+136,Gary is strong and the squirrel is bad.,the squirrel is bad and Gary is strong.,1,Commutative,0.821182370185852
+136,Gary is strong and the squirrel is bad.,Gary is strong and Gary is not strong.,0,Commutative,0.4984722435474396
+137,Gary is strong and the dinosaur is dull.,the dinosaur is dull and Gary is strong.,1,Commutative,0.9385271668434143
+137,Gary is strong and the dinosaur is dull.,Gary is strong and Gary is not strong.,0,Commutative,0.6350962519645691
+138,Anne is furry and the dog is thin.,the dog is thin and Anne is furry.,1,Commutative,0.9441155195236206
+138,Anne is furry and the dog is thin.,Anne is furry and Anne is not furry.,0,Commutative,0.5704606175422668
+139,Erin is funny and the dinosaur is fierce.,the dinosaur is fierce and Erin is funny.,1,Commutative,0.8899921774864197
+139,Erin is funny and the dinosaur is fierce.,Erin is funny and Erin is not funny.,0,Commutative,0.6424551606178284
+140,the bear is round and the squirrel is big.,the squirrel is big and the bear is round.,1,Commutative,0.9700701832771301
+140,the bear is round and the squirrel is big.,the bear is round and the bear is not round.,0,Commutative,0.5898097157478333
+141,the dinosaur is dull and the bald eagle is dull.,the bald eagle is dull and the dinosaur is dull.,1,Commutative,0.9592211842536926
+141,the dinosaur is dull and the bald eagle is dull.,the dinosaur is dull and the dinosaur is not dull.,0,Commutative,0.756135106086731
+142,Erin is funny and the snake is small.,the snake is small and Erin is funny.,1,Commutative,0.8840982913970947
+142,Erin is funny and the snake is small.,Erin is funny and Erin is not funny.,0,Commutative,0.44774729013442993
+143,the bear is round and the rabbit is strong.,the rabbit is strong and the bear is round.,1,Commutative,0.944455087184906
+143,the bear is round and the rabbit is strong.,the bear is round and the bear is not round.,0,Commutative,0.6340246200561523
+144,the cat is slow and the leopard is strong.,the leopard is strong and the cat is slow.,1,Commutative,0.9728735089302063
+144,the cat is slow and the leopard is strong.,the cat is slow and the cat is not slow.,0,Commutative,0.514132022857666
+145,Alan is small and Harry is thin.,Harry is thin and Alan is small.,1,Commutative,0.9609384536743164
+145,Alan is small and Harry is thin.,Alan is small and Alan is not small.,0,Commutative,0.593128502368927
+146,Fiona is awful and Dave is heavy.,Dave is heavy and Fiona is awful.,1,Commutative,0.9363571405410767
+146,Fiona is awful and Dave is heavy.,Fiona is awful and Fiona is not awful.,0,Commutative,0.731367826461792
+147,the bald eagle is kind and Dave is tired.,Dave is tired and the bald eagle is kind.,1,Commutative,0.903837263584137
+147,the bald eagle is kind and Dave is tired.,the bald eagle is kind and the bald eagle is not kind.,0,Commutative,0.7735798954963684
+148,the snake is rough and the dinosaur is nice.,the dinosaur is nice and the snake is rough.,1,Commutative,0.883712887763977
+148,the snake is rough and the dinosaur is nice.,the snake is rough and the snake is not rough.,0,Commutative,0.27390989661216736
+149,the dog is sleepy and the bear is sad.,the bear is sad and the dog is sleepy.,1,Commutative,0.9766129851341248
+149,the dog is sleepy and the bear is sad.,the dog is sleepy and the dog is not sleepy.,0,Commutative,0.41991183161735535
+150,the lion is nice and the mouse is lovely.,the mouse is lovely and the lion is nice.,1,Commutative,0.9755576848983765
+150,the lion is nice and the mouse is lovely.,the lion is nice and the lion is not nice.,0,Commutative,0.8437430262565613
+151,the mouse is boring and the leopard is tiny.,the leopard is tiny and the mouse is boring.,1,Commutative,0.9241178631782532
+151,the mouse is boring and the leopard is tiny.,the mouse is boring and the mouse is not boring.,0,Commutative,0.3551904261112213
+152,Harry is big and Dave is tired.,Dave is tired and Harry is big.,1,Commutative,0.9345749616622925
+152,Harry is big and Dave is tired.,Harry is big and Harry is not big.,0,Commutative,0.7987525463104248
+153,the crocodile is clever and Fiona is horrible.,Fiona is horrible and the crocodile is clever.,1,Commutative,0.896255612373352
+153,the crocodile is clever and Fiona is horrible.,the crocodile is clever and the crocodile is not clever.,0,Commutative,0.6727597117424011
+154,the lion is nice and the bear is bad.,the bear is bad and the lion is nice.,1,Commutative,0.8260151147842407
+154,the lion is nice and the bear is bad.,the lion is nice and the lion is not nice.,0,Commutative,0.7522106766700745
+155,the snake is rough and the leopard is nice.,the leopard is nice and the snake is rough.,1,Commutative,0.9698120355606079
+155,the snake is rough and the leopard is nice.,the snake is rough and the snake is not rough.,0,Commutative,0.3471623361110687
+156,the wolf is smart and the lion is slow.,the lion is slow and the wolf is smart.,1,Commutative,0.9590288996696472
+156,the wolf is smart and the lion is slow.,the wolf is smart and the wolf is not smart.,0,Commutative,0.6424167156219482
+157,Fiona is awful and the cat is furry.,the cat is furry and Fiona is awful.,1,Commutative,0.9383590221405029
+157,Fiona is awful and the cat is furry.,Fiona is awful and Fiona is not awful.,0,Commutative,0.3944486677646637
+158,Harry is big and Charlie is huge.,Charlie is huge and Harry is big.,1,Commutative,0.9237724542617798
+158,Harry is big and Charlie is huge.,Harry is big and Harry is not big.,0,Commutative,0.7090935707092285
+159,the crocodile is clever and Bob is lazy.,Bob is lazy and the crocodile is clever.,1,Commutative,0.9337193369865417
+159,the crocodile is clever and Bob is lazy.,the crocodile is clever and the crocodile is not clever.,0,Commutative,0.7295718789100647
+160,the wolf is smart and the tiger is wealthy.,the tiger is wealthy and the wolf is smart.,1,Commutative,0.9614884257316589
+160,the wolf is smart and the tiger is wealthy.,the wolf is smart and the wolf is not smart.,0,Commutative,0.6238671541213989
+161,the lion is nice and Bob is dull.,Bob is dull and the lion is nice.,1,Commutative,0.8851945400238037
+161,the lion is nice and Bob is dull.,the lion is nice and the lion is not nice.,0,Commutative,0.8292906284332275
+162,Anne is furry and Fiona is furry.,Fiona is furry and Anne is furry.,1,Commutative,0.9544453620910645
+162,Anne is furry and Fiona is furry.,Anne is furry and Anne is not furry.,0,Commutative,0.7228978276252747
+163,Alan is small and the lion is tired.,the lion is tired and Alan is small.,1,Commutative,0.9013293385505676
+163,Alan is small and the lion is tired.,Alan is small and Alan is not small.,0,Commutative,0.6582615375518799
+164,Bob is cute and Dave is beautiful.,Dave is beautiful and Bob is cute.,1,Commutative,0.9533094763755798
+164,Bob is cute and Dave is beautiful.,Bob is cute and Bob is not cute.,0,Commutative,0.7735722661018372
+165,Charlie is lovely and Alan is quiet.,Alan is quiet and Charlie is lovely.,1,Commutative,0.9053036570549011
+165,Charlie is lovely and Alan is quiet.,Charlie is lovely and Charlie is not lovely.,0,Commutative,0.7814277410507202
+166,Harry is big and the tiger is sad.,the tiger is sad and Harry is big.,1,Commutative,0.9501897692680359
+166,Harry is big and the tiger is sad.,Harry is big and Harry is not big.,0,Commutative,0.8036898374557495
+167,Anne is furry and the crocodile is awful.,the crocodile is awful and Anne is furry.,1,Commutative,0.9417253136634827
+167,Anne is furry and the crocodile is awful.,Anne is furry and Anne is not furry.,0,Commutative,0.6688819527626038
+168,the wolf is smart and the tiger is dull.,the tiger is dull and the wolf is smart.,1,Commutative,0.9757915139198303
+168,the wolf is smart and the tiger is dull.,the wolf is smart and the wolf is not smart.,0,Commutative,0.5590947270393372
+169,Alan is small and the mouse is rough.,the mouse is rough and Alan is small.,1,Commutative,0.9545841217041016
+169,Alan is small and the mouse is rough.,Alan is small and Alan is not small.,0,Commutative,0.5329326391220093
+170,the tiger is quiet and the cat is tired.,the cat is tired and the tiger is quiet.,1,Commutative,0.9583696722984314
+170,the tiger is quiet and the cat is tired.,the tiger is quiet and the tiger is not quiet.,0,Commutative,0.7474560737609863
+171,the bald eagle is kind and the snake is dull.,the snake is dull and the bald eagle is kind.,1,Commutative,0.9406759142875671
+171,the bald eagle is kind and the snake is dull.,the bald eagle is kind and the bald eagle is not kind.,0,Commutative,0.5485970377922058
+172,Harry is big and the bald eagle is sad.,the bald eagle is sad and Harry is big.,1,Commutative,0.9240861535072327
+172,Harry is big and the bald eagle is sad.,Harry is big and Harry is not big.,0,Commutative,0.8297401070594788
+173,the bear is round and the leopard is beautiful.,the leopard is beautiful and the bear is round.,1,Commutative,0.9487029910087585
+173,the bear is round and the leopard is beautiful.,the bear is round and the bear is not round.,0,Commutative,0.6227820515632629
+174,the bear is round and Alan is rough.,Alan is rough and the bear is round.,1,Commutative,0.949859619140625
+174,the bear is round and Alan is rough.,the bear is round and the bear is not round.,0,Commutative,0.6886508464813232
+175,Dave is beautiful and Erin is thin.,Erin is thin and Dave is beautiful.,1,Commutative,0.9248932600021362
+175,Dave is beautiful and Erin is thin.,Dave is beautiful and Dave is not beautiful.,0,Commutative,0.6515910029411316
+176,the bald eagle is kind and the rabbit is quiet.,the rabbit is quiet and the bald eagle is kind.,1,Commutative,0.9568225145339966
+176,the bald eagle is kind and the rabbit is quiet.,the bald eagle is kind and the bald eagle is not kind.,0,Commutative,0.6055372953414917
+177,the snake is rough and Dave is slow.,Dave is slow and the snake is rough.,1,Commutative,0.9507961869239807
+177,the snake is rough and Dave is slow.,the snake is rough and the snake is not rough.,0,Commutative,0.4881325364112854
+178,Bob is cute and Charlie is poor.,Charlie is poor and Bob is cute.,1,Commutative,0.9314641356468201
+178,Bob is cute and Charlie is poor.,Bob is cute and Bob is not cute.,0,Commutative,0.766592800617218
+179,Anne is furry and the dog is furry.,the dog is furry and Anne is furry.,1,Commutative,0.9339030385017395
+179,Anne is furry and the dog is furry.,Anne is furry and Anne is not furry.,0,Commutative,0.6557711958885193
+180,Alan is small and Dave is powerful.,Dave is powerful and Alan is small.,1,Commutative,0.9049910306930542
+180,Alan is small and Dave is powerful.,Alan is small and Alan is not small.,0,Commutative,0.7185696959495544
+181,the tiger is quiet and the dinosaur is fierce.,the dinosaur is fierce and the tiger is quiet.,1,Commutative,0.9807191491127014
+181,the tiger is quiet and the dinosaur is fierce.,the tiger is quiet and the tiger is not quiet.,0,Commutative,0.670891523361206
+182,Harry is big and the tiger is tiny.,the tiger is tiny and Harry is big.,1,Commutative,0.9608371257781982
+182,Harry is big and the tiger is tiny.,Harry is big and Harry is not big.,0,Commutative,0.7667909860610962
+183,the leopard is lazy and the snake is sleepy.,the snake is sleepy and the leopard is lazy.,1,Commutative,0.9669228792190552
+183,the leopard is lazy and the snake is sleepy.,the leopard is lazy and the leopard is not lazy.,0,Commutative,0.45982950925827026
+184,the leopard is lazy and the bald eagle is slow.,the bald eagle is slow and the leopard is lazy.,1,Commutative,0.9076496958732605
+184,the leopard is lazy and the bald eagle is slow.,the leopard is lazy and the leopard is not lazy.,0,Commutative,0.6892196536064148
+185,Anne is furry and the crocodile is sad.,the crocodile is sad and Anne is furry.,1,Commutative,0.9508627653121948
+185,Anne is furry and the crocodile is sad.,Anne is furry and Anne is not furry.,0,Commutative,0.7212997078895569
+186,the cat is slow and the leopard is rough.,the leopard is rough and the cat is slow.,1,Commutative,0.9519387483596802
+186,the cat is slow and the leopard is rough.,the cat is slow and the cat is not slow.,0,Commutative,0.5389347672462463
+187,the wolf is smart and the leopard is heavy.,the leopard is heavy and the wolf is smart.,1,Commutative,0.9736600518226624
+187,the wolf is smart and the leopard is heavy.,the wolf is smart and the wolf is not smart.,0,Commutative,0.6612082123756409
+188,the squirrel is reckless and Erin is dull.,Erin is dull and the squirrel is reckless.,1,Commutative,0.9165835976600647
+188,the squirrel is reckless and Erin is dull.,the squirrel is reckless and the squirrel is not reckless.,0,Commutative,0.4675936698913574
+189,the leopard is lazy and Erin is big.,Erin is big and the leopard is lazy.,1,Commutative,0.928587019443512
+189,the leopard is lazy and Erin is big.,the leopard is lazy and the leopard is not lazy.,0,Commutative,0.694908618927002
+190,the bald eagle is kind and the leopard is lovely.,the leopard is lovely and the bald eagle is kind.,1,Commutative,0.9561381340026855
+190,the bald eagle is kind and the leopard is lovely.,the bald eagle is kind and the bald eagle is not kind.,0,Commutative,0.6718765497207642
+191,the dinosaur is dull and the wolf is short.,the wolf is short and the dinosaur is dull.,1,Commutative,0.9726369976997375
+191,the dinosaur is dull and the wolf is short.,the dinosaur is dull and the dinosaur is not dull.,0,Commutative,0.6815512776374817
+192,Anne is furry and Erin is lovely.,Erin is lovely and Anne is furry.,1,Commutative,0.9000734686851501
+192,Anne is furry and Erin is lovely.,Anne is furry and Anne is not furry.,0,Commutative,0.749075710773468
+193,Erin is funny and the mouse is slow.,the mouse is slow and Erin is funny.,1,Commutative,0.91986083984375
+193,Erin is funny and the mouse is slow.,Erin is funny and Erin is not funny.,0,Commutative,0.7134395241737366
+194,the lion is nice and Gary is clever.,Gary is clever and the lion is nice.,1,Commutative,0.9262604117393494
+194,the lion is nice and Gary is clever.,the lion is nice and the lion is not nice.,0,Commutative,0.7896584272384644
+195,the wolf is smart and Alan is reckless.,Alan is reckless and the wolf is smart.,1,Commutative,0.9502384066581726
+195,the wolf is smart and Alan is reckless.,the wolf is smart and the wolf is not smart.,0,Commutative,0.6638136506080627
+196,Gary is strong and the leopard is round.,the leopard is round and Gary is strong.,1,Commutative,0.8940590023994446
+196,Gary is strong and the leopard is round.,Gary is strong and Gary is not strong.,0,Commutative,0.7096084952354431
+197,the tiger is quiet and the rabbit is quiet.,the rabbit is quiet and the tiger is quiet.,1,Commutative,0.9851239323616028
+197,the tiger is quiet and the rabbit is quiet.,the tiger is quiet and the tiger is not quiet.,0,Commutative,0.7234323620796204
+198,the snake is rough and Gary is smart.,Gary is smart and the snake is rough.,1,Commutative,0.945933997631073
+198,the snake is rough and Gary is smart.,the snake is rough and the snake is not rough.,0,Commutative,0.5279010534286499
+199,Alan is small and Gary is sleepy.,Gary is sleepy and Alan is small.,1,Commutative,0.9527500867843628
+199,Alan is small and Gary is sleepy.,Alan is small and Alan is not small.,0,Commutative,0.6192513108253479
+200,"If the mouse is dull, then Dave is big.","If Dave is not big, then the mouse is not dull.",1,Contraposition,0.9743752479553223
+200,"If the mouse is dull, then Dave is big.","If the mouse is dull, then Dave is not big.",0,Contraposition,0.9930127859115601
+200,"If the mouse is dull, then Dave is not big.","If Dave is big, then the mouse is not dull.",1,Contraposition,0.9894455671310425
+200,"If the mouse is dull, then Dave is not big.","If the mouse is dull, then Dave is big.",0,Contraposition,0.9930127859115601
+200,"If the mouse is not dull, then Dave is big.","If Dave is not big, then the mouse is dull.",1,Contraposition,0.9944621324539185
+200,"If the mouse is not dull, then Dave is big.","If the mouse is not dull, then Dave is not big.",0,Contraposition,0.9923839569091797
+200,"If the mouse is not dull, then Dave is not big.","If Dave is not big, then the mouse is not dull.",1,Contraposition,0.9890165328979492
+200,"If the mouse is not dull, then Dave is not big.","If the mouse is not dull, then Dave is big.",0,Contraposition,0.9923839569091797
+201,"If the cat is rough, then the bald eagle is cute.","If the bald eagle is not cute, then the cat is not rough.",1,Contraposition,0.9521371126174927
+201,"If the cat is rough, then the bald eagle is cute.","If the cat is rough, then the bald eagle is not cute.",0,Contraposition,0.9853410720825195
+201,"If the cat is rough, then the bald eagle is not cute.","If the bald eagle is cute, then the cat is not rough.",1,Contraposition,0.987599790096283
+201,"If the cat is rough, then the bald eagle is not cute.","If the cat is rough, then the bald eagle is cute.",0,Contraposition,0.9853410720825195
+201,"If the cat is not rough, then the bald eagle is cute.","If the bald eagle is not cute, then the cat is rough.",1,Contraposition,0.9927159547805786
+201,"If the cat is not rough, then the bald eagle is cute.","If the cat is not rough, then the bald eagle is not cute.",0,Contraposition,0.9898461103439331
+201,"If the cat is not rough, then the bald eagle is not cute.","If the bald eagle is not cute, then the cat is not rough.",1,Contraposition,0.9947828650474548
+201,"If the cat is not rough, then the bald eagle is not cute.","If the cat is not rough, then the bald eagle is cute.",0,Contraposition,0.9898461103439331
+202,"If the dog is lovely, then the mouse is wealthy.","If the mouse is not wealthy, then the dog is not lovely.",1,Contraposition,0.9873124957084656
+202,"If the dog is lovely, then the mouse is wealthy.","If the dog is lovely, then the mouse is not wealthy.",0,Contraposition,0.9973980784416199
+202,"If the dog is lovely, then the mouse is not wealthy.","If the mouse is wealthy, then the dog is not lovely.",1,Contraposition,0.9970529675483704
+202,"If the dog is lovely, then the mouse is not wealthy.","If the dog is lovely, then the mouse is wealthy.",0,Contraposition,0.9973980784416199
+202,"If the dog is not lovely, then the mouse is wealthy.","If the mouse is not wealthy, then the dog is lovely.",1,Contraposition,0.9970799684524536
+202,"If the dog is not lovely, then the mouse is wealthy.","If the dog is not lovely, then the mouse is not wealthy.",0,Contraposition,0.9980777502059937
+202,"If the dog is not lovely, then the mouse is not wealthy.","If the mouse is not wealthy, then the dog is not lovely.",1,Contraposition,0.9975160360336304
+202,"If the dog is not lovely, then the mouse is not wealthy.","If the dog is not lovely, then the mouse is wealthy.",0,Contraposition,0.9980777502059937
+203,"If Gary is high, then Anne is funny.","If Anne is not funny, then Gary is not high.",1,Contraposition,0.950402557849884
+203,"If Gary is high, then Anne is funny.","If Gary is high, then Anne is not funny.",0,Contraposition,0.978310227394104
+203,"If Gary is high, then Anne is not funny.","If Anne is funny, then Gary is not high.",1,Contraposition,0.9926615357398987
+203,"If Gary is high, then Anne is not funny.","If Gary is high, then Anne is funny.",0,Contraposition,0.978310227394104
+203,"If Gary is not high, then Anne is funny.","If Anne is not funny, then Gary is high.",1,Contraposition,0.988943338394165
+203,"If Gary is not high, then Anne is funny.","If Gary is not high, then Anne is not funny.",0,Contraposition,0.9826036691665649
+203,"If Gary is not high, then Anne is not funny.","If Anne is not funny, then Gary is not high.",1,Contraposition,0.992938756942749
+203,"If Gary is not high, then Anne is not funny.","If Gary is not high, then Anne is funny.",0,Contraposition,0.9826036691665649
+204,"If Fiona is boring, then Gary is furry.","If Gary is not furry, then Fiona is not boring.",1,Contraposition,0.9788570404052734
+204,"If Fiona is boring, then Gary is furry.","If Fiona is boring, then Gary is not furry.",0,Contraposition,0.9922690987586975
+204,"If Fiona is boring, then Gary is not furry.","If Gary is furry, then Fiona is not boring.",1,Contraposition,0.9976890683174133
+204,"If Fiona is boring, then Gary is not furry.","If Fiona is boring, then Gary is furry.",0,Contraposition,0.9922690987586975
+204,"If Fiona is not boring, then Gary is furry.","If Gary is not furry, then Fiona is boring.",1,Contraposition,0.9948431849479675
+204,"If Fiona is not boring, then Gary is furry.","If Fiona is not boring, then Gary is not furry.",0,Contraposition,0.9938686490058899
+204,"If Fiona is not boring, then Gary is not furry.","If Gary is not furry, then Fiona is not boring.",1,Contraposition,0.997121274471283
+204,"If Fiona is not boring, then Gary is not furry.","If Fiona is not boring, then Gary is furry.",0,Contraposition,0.9938686490058899
+205,"If Dave is small, then Fiona is huge.","If Fiona is not huge, then Dave is not small.",1,Contraposition,0.9624689817428589
+205,"If Dave is small, then Fiona is huge.","If Dave is small, then Fiona is not huge.",0,Contraposition,0.9889605641365051
+205,"If Dave is small, then Fiona is not huge.","If Fiona is huge, then Dave is not small.",1,Contraposition,0.9969582557678223
+205,"If Dave is small, then Fiona is not huge.","If Dave is small, then Fiona is huge.",0,Contraposition,0.9889605641365051
+205,"If Dave is not small, then Fiona is huge.","If Fiona is not huge, then Dave is small.",1,Contraposition,0.9942408800125122
+205,"If Dave is not small, then Fiona is huge.","If Dave is not small, then Fiona is not huge.",0,Contraposition,0.987297773361206
+205,"If Dave is not small, then Fiona is not huge.","If Fiona is not huge, then Dave is not small.",1,Contraposition,0.994207501411438
+205,"If Dave is not small, then Fiona is not huge.","If Dave is not small, then Fiona is huge.",0,Contraposition,0.987297773361206
+206,"If the bear is huge, then Charlie is small.","If Charlie is not small, then the bear is not huge.",1,Contraposition,0.9736523628234863
+206,"If the bear is huge, then Charlie is small.","If the bear is huge, then Charlie is not small.",0,Contraposition,0.9846187829971313
+206,"If the bear is huge, then Charlie is not small.","If Charlie is small, then the bear is not huge.",1,Contraposition,0.9971948266029358
+206,"If the bear is huge, then Charlie is not small.","If the bear is huge, then Charlie is small.",0,Contraposition,0.9846187829971313
+206,"If the bear is not huge, then Charlie is small.","If Charlie is not small, then the bear is huge.",1,Contraposition,0.9951348304748535
+206,"If the bear is not huge, then Charlie is small.","If the bear is not huge, then Charlie is not small.",0,Contraposition,0.978439211845398
+206,"If the bear is not huge, then Charlie is not small.","If Charlie is not small, then the bear is not huge.",1,Contraposition,0.9879966974258423
+206,"If the bear is not huge, then Charlie is not small.","If the bear is not huge, then Charlie is small.",0,Contraposition,0.978439211845398
+207,"If the squirrel is awful, then the bear is short.","If the bear is not short, then the squirrel is not awful.",1,Contraposition,0.9853148460388184
+207,"If the squirrel is awful, then the bear is short.","If the squirrel is awful, then the bear is not short.",0,Contraposition,0.9900222420692444
+207,"If the squirrel is awful, then the bear is not short.","If the bear is short, then the squirrel is not awful.",1,Contraposition,0.9940802454948425
+207,"If the squirrel is awful, then the bear is not short.","If the squirrel is awful, then the bear is short.",0,Contraposition,0.9900222420692444
+207,"If the squirrel is not awful, then the bear is short.","If the bear is not short, then the squirrel is awful.",1,Contraposition,0.9933628439903259
+207,"If the squirrel is not awful, then the bear is short.","If the squirrel is not awful, then the bear is not short.",0,Contraposition,0.9892099499702454
+207,"If the squirrel is not awful, then the bear is not short.","If the bear is not short, then the squirrel is not awful.",1,Contraposition,0.9927371740341187
+207,"If the squirrel is not awful, then the bear is not short.","If the squirrel is not awful, then the bear is short.",0,Contraposition,0.9892099499702454
+208,"If the lion is awful, then the leopard is horrible.","If the leopard is not horrible, then the lion is not awful.",1,Contraposition,0.9727698564529419
+208,"If the lion is awful, then the leopard is horrible.","If the lion is awful, then the leopard is not horrible.",0,Contraposition,0.9842754006385803
+208,"If the lion is awful, then the leopard is not horrible.","If the leopard is horrible, then the lion is not awful.",1,Contraposition,0.99862140417099
+208,"If the lion is awful, then the leopard is not horrible.","If the lion is awful, then the leopard is horrible.",0,Contraposition,0.9842754006385803
+208,"If the lion is not awful, then the leopard is horrible.","If the leopard is not horrible, then the lion is awful.",1,Contraposition,0.998590350151062
+208,"If the lion is not awful, then the leopard is horrible.","If the lion is not awful, then the leopard is not horrible.",0,Contraposition,0.9865458607673645
+208,"If the lion is not awful, then the leopard is not horrible.","If the leopard is not horrible, then the lion is not awful.",1,Contraposition,0.9971743822097778
+208,"If the lion is not awful, then the leopard is not horrible.","If the lion is not awful, then the leopard is horrible.",0,Contraposition,0.9865458607673645
+209,"If Alan is small, then the bald eagle is sleepy.","If the bald eagle is not sleepy, then Alan is not small.",1,Contraposition,0.966080367565155
+209,"If Alan is small, then the bald eagle is sleepy.","If Alan is small, then the bald eagle is not sleepy.",0,Contraposition,0.9867793321609497
+209,"If Alan is small, then the bald eagle is not sleepy.","If the bald eagle is sleepy, then Alan is not small.",1,Contraposition,0.996921181678772
+209,"If Alan is small, then the bald eagle is not sleepy.","If Alan is small, then the bald eagle is sleepy.",0,Contraposition,0.9867793321609497
+209,"If Alan is not small, then the bald eagle is sleepy.","If the bald eagle is not sleepy, then Alan is small.",1,Contraposition,0.994398832321167
+209,"If Alan is not small, then the bald eagle is sleepy.","If Alan is not small, then the bald eagle is not sleepy.",0,Contraposition,0.986473023891449
+209,"If Alan is not small, then the bald eagle is not sleepy.","If the bald eagle is not sleepy, then Alan is not small.",1,Contraposition,0.993094801902771
+209,"If Alan is not small, then the bald eagle is not sleepy.","If Alan is not small, then the bald eagle is sleepy.",0,Contraposition,0.986473023891449
+210,"If Erin is angry, then the rabbit is powerful.","If the rabbit is not powerful, then Erin is not angry.",1,Contraposition,0.9715520739555359
+210,"If Erin is angry, then the rabbit is powerful.","If Erin is angry, then the rabbit is not powerful.",0,Contraposition,0.9935439825057983
+210,"If Erin is angry, then the rabbit is not powerful.","If the rabbit is powerful, then Erin is not angry.",1,Contraposition,0.9842451214790344
+210,"If Erin is angry, then the rabbit is not powerful.","If Erin is angry, then the rabbit is powerful.",0,Contraposition,0.9935439825057983
+210,"If Erin is not angry, then the rabbit is powerful.","If the rabbit is not powerful, then Erin is angry.",1,Contraposition,0.9957577586174011
+210,"If Erin is not angry, then the rabbit is powerful.","If Erin is not angry, then the rabbit is not powerful.",0,Contraposition,0.9929393529891968
+210,"If Erin is not angry, then the rabbit is not powerful.","If the rabbit is not powerful, then Erin is not angry.",1,Contraposition,0.9829571843147278
+210,"If Erin is not angry, then the rabbit is not powerful.","If Erin is not angry, then the rabbit is powerful.",0,Contraposition,0.9929393529891968
+211,"If Fiona is awful, then the wolf is slow.","If the wolf is not slow, then Fiona is not awful.",1,Contraposition,0.9830393195152283
+211,"If Fiona is awful, then the wolf is slow.","If Fiona is awful, then the wolf is not slow.",0,Contraposition,0.9892520904541016
+211,"If Fiona is awful, then the wolf is not slow.","If the wolf is slow, then Fiona is not awful.",1,Contraposition,0.9936381578445435
+211,"If Fiona is awful, then the wolf is not slow.","If Fiona is awful, then the wolf is slow.",0,Contraposition,0.9892520904541016
+211,"If Fiona is not awful, then the wolf is slow.","If the wolf is not slow, then Fiona is awful.",1,Contraposition,0.9926425218582153
+211,"If Fiona is not awful, then the wolf is slow.","If Fiona is not awful, then the wolf is not slow.",0,Contraposition,0.9909265041351318
+211,"If Fiona is not awful, then the wolf is not slow.","If the wolf is not slow, then Fiona is not awful.",1,Contraposition,0.9915765523910522
+211,"If Fiona is not awful, then the wolf is not slow.","If Fiona is not awful, then the wolf is slow.",0,Contraposition,0.9909265041351318
+212,"If the dog is awful, then the cat is big.","If the cat is not big, then the dog is not awful.",1,Contraposition,0.9768233895301819
+212,"If the dog is awful, then the cat is big.","If the dog is awful, then the cat is not big.",0,Contraposition,0.9903300404548645
+212,"If the dog is awful, then the cat is not big.","If the cat is big, then the dog is not awful.",1,Contraposition,0.9926377534866333
+212,"If the dog is awful, then the cat is not big.","If the dog is awful, then the cat is big.",0,Contraposition,0.9903300404548645
+212,"If the dog is not awful, then the cat is big.","If the cat is not big, then the dog is awful.",1,Contraposition,0.9954429864883423
+212,"If the dog is not awful, then the cat is big.","If the dog is not awful, then the cat is not big.",0,Contraposition,0.9894452691078186
+212,"If the dog is not awful, then the cat is not big.","If the cat is not big, then the dog is not awful.",1,Contraposition,0.9944984316825867
+212,"If the dog is not awful, then the cat is not big.","If the dog is not awful, then the cat is big.",0,Contraposition,0.9894452691078186
+213,"If the cat is small, then Dave is round.","If Dave is not round, then the cat is not small.",1,Contraposition,0.9653287529945374
+213,"If the cat is small, then Dave is round.","If the cat is small, then Dave is not round.",0,Contraposition,0.9920179843902588
+213,"If the cat is small, then Dave is not round.","If Dave is round, then the cat is not small.",1,Contraposition,0.9932852983474731
+213,"If the cat is small, then Dave is not round.","If the cat is small, then Dave is round.",0,Contraposition,0.9920179843902588
+213,"If the cat is not small, then Dave is round.","If Dave is not round, then the cat is small.",1,Contraposition,0.9947183132171631
+213,"If the cat is not small, then Dave is round.","If the cat is not small, then Dave is not round.",0,Contraposition,0.9937142729759216
+213,"If the cat is not small, then Dave is not round.","If Dave is not round, then the cat is not small.",1,Contraposition,0.9922139644622803
+213,"If the cat is not small, then Dave is not round.","If the cat is not small, then Dave is round.",0,Contraposition,0.9937142729759216
+214,"If the mouse is awful, then the wolf is boring.","If the wolf is not boring, then the mouse is not awful.",1,Contraposition,0.9773938655853271
+214,"If the mouse is awful, then the wolf is boring.","If the mouse is awful, then the wolf is not boring.",0,Contraposition,0.984158992767334
+214,"If the mouse is awful, then the wolf is not boring.","If the wolf is boring, then the mouse is not awful.",1,Contraposition,0.993858814239502
+214,"If the mouse is awful, then the wolf is not boring.","If the mouse is awful, then the wolf is boring.",0,Contraposition,0.984158992767334
+214,"If the mouse is not awful, then the wolf is boring.","If the wolf is not boring, then the mouse is awful.",1,Contraposition,0.9965591430664062
+214,"If the mouse is not awful, then the wolf is boring.","If the mouse is not awful, then the wolf is not boring.",0,Contraposition,0.9824823141098022
+214,"If the mouse is not awful, then the wolf is not boring.","If the wolf is not boring, then the mouse is not awful.",1,Contraposition,0.9900849461555481
+214,"If the mouse is not awful, then the wolf is not boring.","If the mouse is not awful, then the wolf is boring.",0,Contraposition,0.9824823141098022
+215,"If Bob is short, then the cat is slow.","If the cat is not slow, then Bob is not short.",1,Contraposition,0.9802152514457703
+215,"If Bob is short, then the cat is slow.","If Bob is short, then the cat is not slow.",0,Contraposition,0.9955452680587769
+215,"If Bob is short, then the cat is not slow.","If the cat is slow, then Bob is not short.",1,Contraposition,0.9973896145820618
+215,"If Bob is short, then the cat is not slow.","If Bob is short, then the cat is slow.",0,Contraposition,0.9955452680587769
+215,"If Bob is not short, then the cat is slow.","If the cat is not slow, then Bob is short.",1,Contraposition,0.9960014820098877
+215,"If Bob is not short, then the cat is slow.","If Bob is not short, then the cat is not slow.",0,Contraposition,0.9963210821151733
+215,"If Bob is not short, then the cat is not slow.","If the cat is not slow, then Bob is not short.",1,Contraposition,0.9960176348686218
+215,"If Bob is not short, then the cat is not slow.","If Bob is not short, then the cat is slow.",0,Contraposition,0.9963210821151733
+216,"If Bob is reckless, then Charlie is awful.","If Charlie is not awful, then Bob is not reckless.",1,Contraposition,0.9842431545257568
+216,"If Bob is reckless, then Charlie is awful.","If Bob is reckless, then Charlie is not awful.",0,Contraposition,0.9891389608383179
+216,"If Bob is reckless, then Charlie is not awful.","If Charlie is awful, then Bob is not reckless.",1,Contraposition,0.9961004853248596
+216,"If Bob is reckless, then Charlie is not awful.","If Bob is reckless, then Charlie is awful.",0,Contraposition,0.9891389608383179
+216,"If Bob is not reckless, then Charlie is awful.","If Charlie is not awful, then Bob is reckless.",1,Contraposition,0.9924105405807495
+216,"If Bob is not reckless, then Charlie is awful.","If Bob is not reckless, then Charlie is not awful.",0,Contraposition,0.9943795800209045
+216,"If Bob is not reckless, then Charlie is not awful.","If Charlie is not awful, then Bob is not reckless.",1,Contraposition,0.9954995512962341
+216,"If Bob is not reckless, then Charlie is not awful.","If Bob is not reckless, then Charlie is awful.",0,Contraposition,0.9943795800209045
+217,"If the rabbit is little, then the lion is dull.","If the lion is not dull, then the rabbit is not little.",1,Contraposition,0.978660523891449
+217,"If the rabbit is little, then the lion is dull.","If the rabbit is little, then the lion is not dull.",0,Contraposition,0.9891794919967651
+217,"If the rabbit is little, then the lion is not dull.","If the lion is dull, then the rabbit is not little.",1,Contraposition,0.9964742660522461
+217,"If the rabbit is little, then the lion is not dull.","If the rabbit is little, then the lion is dull.",0,Contraposition,0.9891794919967651
+217,"If the rabbit is not little, then the lion is dull.","If the lion is not dull, then the rabbit is little.",1,Contraposition,0.9967880845069885
+217,"If the rabbit is not little, then the lion is dull.","If the rabbit is not little, then the lion is not dull.",0,Contraposition,0.9880318641662598
+217,"If the rabbit is not little, then the lion is not dull.","If the lion is not dull, then the rabbit is not little.",1,Contraposition,0.9977579116821289
+217,"If the rabbit is not little, then the lion is not dull.","If the rabbit is not little, then the lion is dull.",0,Contraposition,0.9880318641662598
+218,"If the bear is strong, then the cat is high.","If the cat is not high, then the bear is not strong.",1,Contraposition,0.9912532567977905
+218,"If the bear is strong, then the cat is high.","If the bear is strong, then the cat is not high.",0,Contraposition,0.9948614239692688
+218,"If the bear is strong, then the cat is not high.","If the cat is high, then the bear is not strong.",1,Contraposition,0.9977483153343201
+218,"If the bear is strong, then the cat is not high.","If the bear is strong, then the cat is high.",0,Contraposition,0.9948614239692688
+218,"If the bear is not strong, then the cat is high.","If the cat is not high, then the bear is strong.",1,Contraposition,0.9973071813583374
+218,"If the bear is not strong, then the cat is high.","If the bear is not strong, then the cat is not high.",0,Contraposition,0.9914584159851074
+218,"If the bear is not strong, then the cat is not high.","If the cat is not high, then the bear is not strong.",1,Contraposition,0.9971897006034851
+218,"If the bear is not strong, then the cat is not high.","If the bear is not strong, then the cat is high.",0,Contraposition,0.9914584159851074
+219,"If Dave is heavy, then the dinosaur is big.","If the dinosaur is not big, then Dave is not heavy.",1,Contraposition,0.9783210754394531
+219,"If Dave is heavy, then the dinosaur is big.","If Dave is heavy, then the dinosaur is not big.",0,Contraposition,0.9874178767204285
+219,"If Dave is heavy, then the dinosaur is not big.","If the dinosaur is big, then Dave is not heavy.",1,Contraposition,0.9934636950492859
+219,"If Dave is heavy, then the dinosaur is not big.","If Dave is heavy, then the dinosaur is big.",0,Contraposition,0.9874178767204285
+219,"If Dave is not heavy, then the dinosaur is big.","If the dinosaur is not big, then Dave is heavy.",1,Contraposition,0.993914783000946
+219,"If Dave is not heavy, then the dinosaur is big.","If Dave is not heavy, then the dinosaur is not big.",0,Contraposition,0.9837783575057983
+219,"If Dave is not heavy, then the dinosaur is not big.","If the dinosaur is not big, then Dave is not heavy.",1,Contraposition,0.993111252784729
+219,"If Dave is not heavy, then the dinosaur is not big.","If Dave is not heavy, then the dinosaur is big.",0,Contraposition,0.9837783575057983
+220,"If the cat is horrible, then the bald eagle is awful.","If the bald eagle is not awful, then the cat is not horrible.",1,Contraposition,0.9659116268157959
+220,"If the cat is horrible, then the bald eagle is awful.","If the cat is horrible, then the bald eagle is not awful.",0,Contraposition,0.9871163964271545
+220,"If the cat is horrible, then the bald eagle is not awful.","If the bald eagle is awful, then the cat is not horrible.",1,Contraposition,0.9975400567054749
+220,"If the cat is horrible, then the bald eagle is not awful.","If the cat is horrible, then the bald eagle is awful.",0,Contraposition,0.9871163964271545
+220,"If the cat is not horrible, then the bald eagle is awful.","If the bald eagle is not awful, then the cat is horrible.",1,Contraposition,0.9971755743026733
+220,"If the cat is not horrible, then the bald eagle is awful.","If the cat is not horrible, then the bald eagle is not awful.",0,Contraposition,0.9930729269981384
+220,"If the cat is not horrible, then the bald eagle is not awful.","If the bald eagle is not awful, then the cat is not horrible.",1,Contraposition,0.9987889528274536
+220,"If the cat is not horrible, then the bald eagle is not awful.","If the cat is not horrible, then the bald eagle is awful.",0,Contraposition,0.9930729269981384
+221,"If the bear is high, then Bob is reckless.","If Bob is not reckless, then the bear is not high.",1,Contraposition,0.9547238945960999
+221,"If the bear is high, then Bob is reckless.","If the bear is high, then Bob is not reckless.",0,Contraposition,0.9899126887321472
+221,"If the bear is high, then Bob is not reckless.","If Bob is reckless, then the bear is not high.",1,Contraposition,0.9881384372711182
+221,"If the bear is high, then Bob is not reckless.","If the bear is high, then Bob is reckless.",0,Contraposition,0.9899126887321472
+221,"If the bear is not high, then Bob is reckless.","If Bob is not reckless, then the bear is high.",1,Contraposition,0.9827227592468262
+221,"If the bear is not high, then Bob is reckless.","If the bear is not high, then Bob is not reckless.",0,Contraposition,0.9941042065620422
+221,"If the bear is not high, then Bob is not reckless.","If Bob is not reckless, then the bear is not high.",1,Contraposition,0.9848674535751343
+221,"If the bear is not high, then Bob is not reckless.","If the bear is not high, then Bob is reckless.",0,Contraposition,0.9941042065620422
+222,"If Fiona is cute, then the lion is funny.","If the lion is not funny, then Fiona is not cute.",1,Contraposition,0.9575318098068237
+222,"If Fiona is cute, then the lion is funny.","If Fiona is cute, then the lion is not funny.",0,Contraposition,0.9667739868164062
+222,"If Fiona is cute, then the lion is not funny.","If the lion is funny, then Fiona is not cute.",1,Contraposition,0.9916098117828369
+222,"If Fiona is cute, then the lion is not funny.","If Fiona is cute, then the lion is funny.",0,Contraposition,0.9667739868164062
+222,"If Fiona is not cute, then the lion is funny.","If the lion is not funny, then Fiona is cute.",1,Contraposition,0.9929971098899841
+222,"If Fiona is not cute, then the lion is funny.","If Fiona is not cute, then the lion is not funny.",0,Contraposition,0.981749415397644
+222,"If Fiona is not cute, then the lion is not funny.","If the lion is not funny, then Fiona is not cute.",1,Contraposition,0.9947258830070496
+222,"If Fiona is not cute, then the lion is not funny.","If Fiona is not cute, then the lion is funny.",0,Contraposition,0.981749415397644
+223,"If Bob is reckless, then the bear is thin.","If the bear is not thin, then Bob is not reckless.",1,Contraposition,0.9833396077156067
+223,"If Bob is reckless, then the bear is thin.","If Bob is reckless, then the bear is not thin.",0,Contraposition,0.9879159927368164
+223,"If Bob is reckless, then the bear is not thin.","If the bear is thin, then Bob is not reckless.",1,Contraposition,0.9899344444274902
+223,"If Bob is reckless, then the bear is not thin.","If Bob is reckless, then the bear is thin.",0,Contraposition,0.9879159927368164
+223,"If Bob is not reckless, then the bear is thin.","If the bear is not thin, then Bob is reckless.",1,Contraposition,0.9881798028945923
+223,"If Bob is not reckless, then the bear is thin.","If Bob is not reckless, then the bear is not thin.",0,Contraposition,0.9854316711425781
+223,"If Bob is not reckless, then the bear is not thin.","If the bear is not thin, then Bob is not reckless.",1,Contraposition,0.9869032502174377
+223,"If Bob is not reckless, then the bear is not thin.","If Bob is not reckless, then the bear is thin.",0,Contraposition,0.9854316711425781
+224,"If Dave is thin, then Anne is horrible.","If Anne is not horrible, then Dave is not thin.",1,Contraposition,0.9613139629364014
+224,"If Dave is thin, then Anne is horrible.","If Dave is thin, then Anne is not horrible.",0,Contraposition,0.9866976737976074
+224,"If Dave is thin, then Anne is not horrible.","If Anne is horrible, then Dave is not thin.",1,Contraposition,0.9943901300430298
+224,"If Dave is thin, then Anne is not horrible.","If Dave is thin, then Anne is horrible.",0,Contraposition,0.9866976737976074
+224,"If Dave is not thin, then Anne is horrible.","If Anne is not horrible, then Dave is thin.",1,Contraposition,0.9924260973930359
+224,"If Dave is not thin, then Anne is horrible.","If Dave is not thin, then Anne is not horrible.",0,Contraposition,0.9930292367935181
+224,"If Dave is not thin, then Anne is not horrible.","If Anne is not horrible, then Dave is not thin.",1,Contraposition,0.993902325630188
+224,"If Dave is not thin, then Anne is not horrible.","If Dave is not thin, then Anne is horrible.",0,Contraposition,0.9930292367935181
+225,"If Charlie is kind, then the tiger is reckless.","If the tiger is not reckless, then Charlie is not kind.",1,Contraposition,0.971967339515686
+225,"If Charlie is kind, then the tiger is reckless.","If Charlie is kind, then the tiger is not reckless.",0,Contraposition,0.9795103073120117
+225,"If Charlie is kind, then the tiger is not reckless.","If the tiger is reckless, then Charlie is not kind.",1,Contraposition,0.9939543604850769
+225,"If Charlie is kind, then the tiger is not reckless.","If Charlie is kind, then the tiger is reckless.",0,Contraposition,0.9795103073120117
+225,"If Charlie is not kind, then the tiger is reckless.","If the tiger is not reckless, then Charlie is kind.",1,Contraposition,0.9784061312675476
+225,"If Charlie is not kind, then the tiger is reckless.","If Charlie is not kind, then the tiger is not reckless.",0,Contraposition,0.9860506653785706
+225,"If Charlie is not kind, then the tiger is not reckless.","If the tiger is not reckless, then Charlie is not kind.",1,Contraposition,0.9928051233291626
+225,"If Charlie is not kind, then the tiger is not reckless.","If Charlie is not kind, then the tiger is reckless.",0,Contraposition,0.9860506653785706
+226,"If the rabbit is heavy, then the crocodile is dull.","If the crocodile is not dull, then the rabbit is not heavy.",1,Contraposition,0.9879794716835022
+226,"If the rabbit is heavy, then the crocodile is dull.","If the rabbit is heavy, then the crocodile is not dull.",0,Contraposition,0.9869179129600525
+226,"If the rabbit is heavy, then the crocodile is not dull.","If the crocodile is dull, then the rabbit is not heavy.",1,Contraposition,0.9955956935882568
+226,"If the rabbit is heavy, then the crocodile is not dull.","If the rabbit is heavy, then the crocodile is dull.",0,Contraposition,0.9869179129600525
+226,"If the rabbit is not heavy, then the crocodile is dull.","If the crocodile is not dull, then the rabbit is heavy.",1,Contraposition,0.9956458210945129
+226,"If the rabbit is not heavy, then the crocodile is dull.","If the rabbit is not heavy, then the crocodile is not dull.",0,Contraposition,0.9858940243721008
+226,"If the rabbit is not heavy, then the crocodile is not dull.","If the crocodile is not dull, then the rabbit is not heavy.",1,Contraposition,0.9893321990966797
+226,"If the rabbit is not heavy, then the crocodile is not dull.","If the rabbit is not heavy, then the crocodile is dull.",0,Contraposition,0.9858940243721008
+227,"If the bald eagle is clever, then the lion is fierce.","If the lion is not fierce, then the bald eagle is not clever.",1,Contraposition,0.9795557856559753
+227,"If the bald eagle is clever, then the lion is fierce.","If the bald eagle is clever, then the lion is not fierce.",0,Contraposition,0.9836210012435913
+227,"If the bald eagle is clever, then the lion is not fierce.","If the lion is fierce, then the bald eagle is not clever.",1,Contraposition,0.9969058632850647
+227,"If the bald eagle is clever, then the lion is not fierce.","If the bald eagle is clever, then the lion is fierce.",0,Contraposition,0.9836210012435913
+227,"If the bald eagle is not clever, then the lion is fierce.","If the lion is not fierce, then the bald eagle is clever.",1,Contraposition,0.9963429570198059
+227,"If the bald eagle is not clever, then the lion is fierce.","If the bald eagle is not clever, then the lion is not fierce.",0,Contraposition,0.9898226857185364
+227,"If the bald eagle is not clever, then the lion is not fierce.","If the lion is not fierce, then the bald eagle is not clever.",1,Contraposition,0.997438371181488
+227,"If the bald eagle is not clever, then the lion is not fierce.","If the bald eagle is not clever, then the lion is fierce.",0,Contraposition,0.9898226857185364
+228,"If the dog is quiet, then the bear is cute.","If the bear is not cute, then the dog is not quiet.",1,Contraposition,0.9749488234519958
+228,"If the dog is quiet, then the bear is cute.","If the dog is quiet, then the bear is not cute.",0,Contraposition,0.9843865036964417
+228,"If the dog is quiet, then the bear is not cute.","If the bear is cute, then the dog is not quiet.",1,Contraposition,0.9884488582611084
+228,"If the dog is quiet, then the bear is not cute.","If the dog is quiet, then the bear is cute.",0,Contraposition,0.9843865036964417
+228,"If the dog is not quiet, then the bear is cute.","If the bear is not cute, then the dog is quiet.",1,Contraposition,0.9924408197402954
+228,"If the dog is not quiet, then the bear is cute.","If the dog is not quiet, then the bear is not cute.",0,Contraposition,0.981550395488739
+228,"If the dog is not quiet, then the bear is not cute.","If the bear is not cute, then the dog is not quiet.",1,Contraposition,0.9926660060882568
+228,"If the dog is not quiet, then the bear is not cute.","If the dog is not quiet, then the bear is cute.",0,Contraposition,0.981550395488739
+229,"If the tiger is dull, then the crocodile is heavy.","If the crocodile is not heavy, then the tiger is not dull.",1,Contraposition,0.9776948690414429
+229,"If the tiger is dull, then the crocodile is heavy.","If the tiger is dull, then the crocodile is not heavy.",0,Contraposition,0.9925195574760437
+229,"If the tiger is dull, then the crocodile is not heavy.","If the crocodile is heavy, then the tiger is not dull.",1,Contraposition,0.99543297290802
+229,"If the tiger is dull, then the crocodile is not heavy.","If the tiger is dull, then the crocodile is heavy.",0,Contraposition,0.9925195574760437
+229,"If the tiger is not dull, then the crocodile is heavy.","If the crocodile is not heavy, then the tiger is dull.",1,Contraposition,0.9957566261291504
+229,"If the tiger is not dull, then the crocodile is heavy.","If the tiger is not dull, then the crocodile is not heavy.",0,Contraposition,0.9966039657592773
+229,"If the tiger is not dull, then the crocodile is not heavy.","If the crocodile is not heavy, then the tiger is not dull.",1,Contraposition,0.9932143688201904
+229,"If the tiger is not dull, then the crocodile is not heavy.","If the tiger is not dull, then the crocodile is heavy.",0,Contraposition,0.9966039657592773
+230,"If the crocodile is nice, then Charlie is heavy.","If Charlie is not heavy, then the crocodile is not nice.",1,Contraposition,0.98210209608078
+230,"If the crocodile is nice, then Charlie is heavy.","If the crocodile is nice, then Charlie is not heavy.",0,Contraposition,0.9926812648773193
+230,"If the crocodile is nice, then Charlie is not heavy.","If Charlie is heavy, then the crocodile is not nice.",1,Contraposition,0.9718223214149475
+230,"If the crocodile is nice, then Charlie is not heavy.","If the crocodile is nice, then Charlie is heavy.",0,Contraposition,0.9926812648773193
+230,"If the crocodile is not nice, then Charlie is heavy.","If Charlie is not heavy, then the crocodile is nice.",1,Contraposition,0.9900885224342346
+230,"If the crocodile is not nice, then Charlie is heavy.","If the crocodile is not nice, then Charlie is not heavy.",0,Contraposition,0.9944964647293091
+230,"If the crocodile is not nice, then Charlie is not heavy.","If Charlie is not heavy, then the crocodile is not nice.",1,Contraposition,0.9900713562965393
+230,"If the crocodile is not nice, then Charlie is not heavy.","If the crocodile is not nice, then Charlie is heavy.",0,Contraposition,0.9944964647293091
+231,"If the leopard is awful, then the bear is dull.","If the bear is not dull, then the leopard is not awful.",1,Contraposition,0.9826592803001404
+231,"If the leopard is awful, then the bear is dull.","If the leopard is awful, then the bear is not dull.",0,Contraposition,0.9900979399681091
+231,"If the leopard is awful, then the bear is not dull.","If the bear is dull, then the leopard is not awful.",1,Contraposition,0.9955393671989441
+231,"If the leopard is awful, then the bear is not dull.","If the leopard is awful, then the bear is dull.",0,Contraposition,0.9900979399681091
+231,"If the leopard is not awful, then the bear is dull.","If the bear is not dull, then the leopard is awful.",1,Contraposition,0.9943467974662781
+231,"If the leopard is not awful, then the bear is dull.","If the leopard is not awful, then the bear is not dull.",0,Contraposition,0.9919050335884094
+231,"If the leopard is not awful, then the bear is not dull.","If the bear is not dull, then the leopard is not awful.",1,Contraposition,0.9954458475112915
+231,"If the leopard is not awful, then the bear is not dull.","If the leopard is not awful, then the bear is dull.",0,Contraposition,0.9919050335884094
+232,"If Charlie is rough, then the bear is fierce.","If the bear is not fierce, then Charlie is not rough.",1,Contraposition,0.9767134189605713
+232,"If Charlie is rough, then the bear is fierce.","If Charlie is rough, then the bear is not fierce.",0,Contraposition,0.9857414364814758
+232,"If Charlie is rough, then the bear is not fierce.","If the bear is fierce, then Charlie is not rough.",1,Contraposition,0.9947099685668945
+232,"If Charlie is rough, then the bear is not fierce.","If Charlie is rough, then the bear is fierce.",0,Contraposition,0.9857414364814758
+232,"If Charlie is not rough, then the bear is fierce.","If the bear is not fierce, then Charlie is rough.",1,Contraposition,0.9905954003334045
+232,"If Charlie is not rough, then the bear is fierce.","If Charlie is not rough, then the bear is not fierce.",0,Contraposition,0.9931420683860779
+232,"If Charlie is not rough, then the bear is not fierce.","If the bear is not fierce, then Charlie is not rough.",1,Contraposition,0.9939339756965637
+232,"If Charlie is not rough, then the bear is not fierce.","If Charlie is not rough, then the bear is fierce.",0,Contraposition,0.9931420683860779
+233,"If the snake is rough, then the bald eagle is nice.","If the bald eagle is not nice, then the snake is not rough.",1,Contraposition,0.9581358432769775
+233,"If the snake is rough, then the bald eagle is nice.","If the snake is rough, then the bald eagle is not nice.",0,Contraposition,0.9915265440940857
+233,"If the snake is rough, then the bald eagle is not nice.","If the bald eagle is nice, then the snake is not rough.",1,Contraposition,0.9812763333320618
+233,"If the snake is rough, then the bald eagle is not nice.","If the snake is rough, then the bald eagle is nice.",0,Contraposition,0.9915265440940857
+233,"If the snake is not rough, then the bald eagle is nice.","If the bald eagle is not nice, then the snake is rough.",1,Contraposition,0.9893310070037842
+233,"If the snake is not rough, then the bald eagle is nice.","If the snake is not rough, then the bald eagle is not nice.",0,Contraposition,0.9959051609039307
+233,"If the snake is not rough, then the bald eagle is not nice.","If the bald eagle is not nice, then the snake is not rough.",1,Contraposition,0.9870282411575317
+233,"If the snake is not rough, then the bald eagle is not nice.","If the snake is not rough, then the bald eagle is nice.",0,Contraposition,0.9959051609039307
+234,"If the dinosaur is reckless, then the bald eagle is fierce.","If the bald eagle is not fierce, then the dinosaur is not reckless.",1,Contraposition,0.9856442213058472
+234,"If the dinosaur is reckless, then the bald eagle is fierce.","If the dinosaur is reckless, then the bald eagle is not fierce.",0,Contraposition,0.9884300827980042
+234,"If the dinosaur is reckless, then the bald eagle is not fierce.","If the bald eagle is fierce, then the dinosaur is not reckless.",1,Contraposition,0.9948511123657227
+234,"If the dinosaur is reckless, then the bald eagle is not fierce.","If the dinosaur is reckless, then the bald eagle is fierce.",0,Contraposition,0.9884300827980042
+234,"If the dinosaur is not reckless, then the bald eagle is fierce.","If the bald eagle is not fierce, then the dinosaur is reckless.",1,Contraposition,0.9877671599388123
+234,"If the dinosaur is not reckless, then the bald eagle is fierce.","If the dinosaur is not reckless, then the bald eagle is not fierce.",0,Contraposition,0.9916905164718628
+234,"If the dinosaur is not reckless, then the bald eagle is not fierce.","If the bald eagle is not fierce, then the dinosaur is not reckless.",1,Contraposition,0.9949967265129089
+234,"If the dinosaur is not reckless, then the bald eagle is not fierce.","If the dinosaur is not reckless, then the bald eagle is fierce.",0,Contraposition,0.9916905164718628
+235,"If the mouse is dull, then Gary is lovely.","If Gary is not lovely, then the mouse is not dull.",1,Contraposition,0.9709914326667786
+235,"If the mouse is dull, then Gary is lovely.","If the mouse is dull, then Gary is not lovely.",0,Contraposition,0.9936445355415344
+235,"If the mouse is dull, then Gary is not lovely.","If Gary is lovely, then the mouse is not dull.",1,Contraposition,0.9915801882743835
+235,"If the mouse is dull, then Gary is not lovely.","If the mouse is dull, then Gary is lovely.",0,Contraposition,0.9936445355415344
+235,"If the mouse is not dull, then Gary is lovely.","If Gary is not lovely, then the mouse is dull.",1,Contraposition,0.9946532249450684
+235,"If the mouse is not dull, then Gary is lovely.","If the mouse is not dull, then Gary is not lovely.",0,Contraposition,0.9933673739433289
+235,"If the mouse is not dull, then Gary is not lovely.","If Gary is not lovely, then the mouse is not dull.",1,Contraposition,0.9949493408203125
+235,"If the mouse is not dull, then Gary is not lovely.","If the mouse is not dull, then Gary is lovely.",0,Contraposition,0.9933673739433289
+236,"If Gary is sleepy, then the mouse is nice.","If the mouse is not nice, then Gary is not sleepy.",1,Contraposition,0.9794934391975403
+236,"If Gary is sleepy, then the mouse is nice.","If Gary is sleepy, then the mouse is not nice.",0,Contraposition,0.9901602268218994
+236,"If Gary is sleepy, then the mouse is not nice.","If the mouse is nice, then Gary is not sleepy.",1,Contraposition,0.9941419363021851
+236,"If Gary is sleepy, then the mouse is not nice.","If Gary is sleepy, then the mouse is nice.",0,Contraposition,0.9901602268218994
+236,"If Gary is not sleepy, then the mouse is nice.","If the mouse is not nice, then Gary is sleepy.",1,Contraposition,0.9895825982093811
+236,"If Gary is not sleepy, then the mouse is nice.","If Gary is not sleepy, then the mouse is not nice.",0,Contraposition,0.9948288202285767
+236,"If Gary is not sleepy, then the mouse is not nice.","If the mouse is not nice, then Gary is not sleepy.",1,Contraposition,0.9950862526893616
+236,"If Gary is not sleepy, then the mouse is not nice.","If Gary is not sleepy, then the mouse is nice.",0,Contraposition,0.9948288202285767
+237,"If Charlie is strong, then the cat is big.","If the cat is not big, then Charlie is not strong.",1,Contraposition,0.981113076210022
+237,"If Charlie is strong, then the cat is big.","If Charlie is strong, then the cat is not big.",0,Contraposition,0.9894863367080688
+237,"If Charlie is strong, then the cat is not big.","If the cat is big, then Charlie is not strong.",1,Contraposition,0.9931110143661499
+237,"If Charlie is strong, then the cat is not big.","If Charlie is strong, then the cat is big.",0,Contraposition,0.9894863367080688
+237,"If Charlie is not strong, then the cat is big.","If the cat is not big, then Charlie is strong.",1,Contraposition,0.9946516156196594
+237,"If Charlie is not strong, then the cat is big.","If Charlie is not strong, then the cat is not big.",0,Contraposition,0.9875839352607727
+237,"If Charlie is not strong, then the cat is not big.","If the cat is not big, then Charlie is not strong.",1,Contraposition,0.9941360950469971
+237,"If Charlie is not strong, then the cat is not big.","If Charlie is not strong, then the cat is big.",0,Contraposition,0.9875839352607727
+238,"If the mouse is lovely, then the lion is rough.","If the lion is not rough, then the mouse is not lovely.",1,Contraposition,0.9623819589614868
+238,"If the mouse is lovely, then the lion is rough.","If the mouse is lovely, then the lion is not rough.",0,Contraposition,0.9739477038383484
+238,"If the mouse is lovely, then the lion is not rough.","If the lion is rough, then the mouse is not lovely.",1,Contraposition,0.9926957488059998
+238,"If the mouse is lovely, then the lion is not rough.","If the mouse is lovely, then the lion is rough.",0,Contraposition,0.9739477038383484
+238,"If the mouse is not lovely, then the lion is rough.","If the lion is not rough, then the mouse is lovely.",1,Contraposition,0.9903714060783386
+238,"If the mouse is not lovely, then the lion is rough.","If the mouse is not lovely, then the lion is not rough.",0,Contraposition,0.9717069864273071
+238,"If the mouse is not lovely, then the lion is not rough.","If the lion is not rough, then the mouse is not lovely.",1,Contraposition,0.9954093098640442
+238,"If the mouse is not lovely, then the lion is not rough.","If the mouse is not lovely, then the lion is rough.",0,Contraposition,0.9717069864273071
+239,"If the lion is nice, then Gary is lovely.","If Gary is not lovely, then the lion is not nice.",1,Contraposition,0.9798731803894043
+239,"If the lion is nice, then Gary is lovely.","If the lion is nice, then Gary is not lovely.",0,Contraposition,0.9916844964027405
+239,"If the lion is nice, then Gary is not lovely.","If Gary is lovely, then the lion is not nice.",1,Contraposition,0.9953100681304932
+239,"If the lion is nice, then Gary is not lovely.","If the lion is nice, then Gary is lovely.",0,Contraposition,0.9916844964027405
+239,"If the lion is not nice, then Gary is lovely.","If Gary is not lovely, then the lion is nice.",1,Contraposition,0.9939975738525391
+239,"If the lion is not nice, then Gary is lovely.","If the lion is not nice, then Gary is not lovely.",0,Contraposition,0.9937156438827515
+239,"If the lion is not nice, then Gary is not lovely.","If Gary is not lovely, then the lion is not nice.",1,Contraposition,0.9962941408157349
+239,"If the lion is not nice, then Gary is not lovely.","If the lion is not nice, then Gary is lovely.",0,Contraposition,0.9937156438827515
+240,"If the wolf is poor, then Gary is huge.","If Gary is not huge, then the wolf is not poor.",1,Contraposition,0.9639820456504822
+240,"If the wolf is poor, then Gary is huge.","If the wolf is poor, then Gary is not huge.",0,Contraposition,0.9898609519004822
+240,"If the wolf is poor, then Gary is not huge.","If Gary is huge, then the wolf is not poor.",1,Contraposition,0.996512770652771
+240,"If the wolf is poor, then Gary is not huge.","If the wolf is poor, then Gary is huge.",0,Contraposition,0.9898609519004822
+240,"If the wolf is not poor, then Gary is huge.","If Gary is not huge, then the wolf is poor.",1,Contraposition,0.9963067173957825
+240,"If the wolf is not poor, then Gary is huge.","If the wolf is not poor, then Gary is not huge.",0,Contraposition,0.9905113577842712
+240,"If the wolf is not poor, then Gary is not huge.","If Gary is not huge, then the wolf is not poor.",1,Contraposition,0.9958739876747131
+240,"If the wolf is not poor, then Gary is not huge.","If the wolf is not poor, then Gary is huge.",0,Contraposition,0.9905113577842712
+241,"If the bear is quiet, then the dinosaur is powerful.","If the dinosaur is not powerful, then the bear is not quiet.",1,Contraposition,0.984103262424469
+241,"If the bear is quiet, then the dinosaur is powerful.","If the bear is quiet, then the dinosaur is not powerful.",0,Contraposition,0.9925211071968079
+241,"If the bear is quiet, then the dinosaur is not powerful.","If the dinosaur is powerful, then the bear is not quiet.",1,Contraposition,0.9890994429588318
+241,"If the bear is quiet, then the dinosaur is not powerful.","If the bear is quiet, then the dinosaur is powerful.",0,Contraposition,0.9925211071968079
+241,"If the bear is not quiet, then the dinosaur is powerful.","If the dinosaur is not powerful, then the bear is quiet.",1,Contraposition,0.9935299754142761
+241,"If the bear is not quiet, then the dinosaur is powerful.","If the bear is not quiet, then the dinosaur is not powerful.",0,Contraposition,0.9883337616920471
+241,"If the bear is not quiet, then the dinosaur is not powerful.","If the dinosaur is not powerful, then the bear is not quiet.",1,Contraposition,0.9952250719070435
+241,"If the bear is not quiet, then the dinosaur is not powerful.","If the bear is not quiet, then the dinosaur is powerful.",0,Contraposition,0.9883337616920471
+242,"If the mouse is round, then the bald eagle is tiny.","If the bald eagle is not tiny, then the mouse is not round.",1,Contraposition,0.9780203700065613
+242,"If the mouse is round, then the bald eagle is tiny.","If the mouse is round, then the bald eagle is not tiny.",0,Contraposition,0.9885513782501221
+242,"If the mouse is round, then the bald eagle is not tiny.","If the bald eagle is tiny, then the mouse is not round.",1,Contraposition,0.9958879351615906
+242,"If the mouse is round, then the bald eagle is not tiny.","If the mouse is round, then the bald eagle is tiny.",0,Contraposition,0.9885513782501221
+242,"If the mouse is not round, then the bald eagle is tiny.","If the bald eagle is not tiny, then the mouse is round.",1,Contraposition,0.9945761561393738
+242,"If the mouse is not round, then the bald eagle is tiny.","If the mouse is not round, then the bald eagle is not tiny.",0,Contraposition,0.975503146648407
+242,"If the mouse is not round, then the bald eagle is not tiny.","If the bald eagle is not tiny, then the mouse is not round.",1,Contraposition,0.9880942702293396
+242,"If the mouse is not round, then the bald eagle is not tiny.","If the mouse is not round, then the bald eagle is tiny.",0,Contraposition,0.975503146648407
+243,"If Fiona is angry, then the lion is awful.","If the lion is not awful, then Fiona is not angry.",1,Contraposition,0.9578485488891602
+243,"If Fiona is angry, then the lion is awful.","If Fiona is angry, then the lion is not awful.",0,Contraposition,0.9778755307197571
+243,"If Fiona is angry, then the lion is not awful.","If the lion is awful, then Fiona is not angry.",1,Contraposition,0.991742730140686
+243,"If Fiona is angry, then the lion is not awful.","If Fiona is angry, then the lion is awful.",0,Contraposition,0.9778755307197571
+243,"If Fiona is not angry, then the lion is awful.","If the lion is not awful, then Fiona is angry.",1,Contraposition,0.9950609803199768
+243,"If Fiona is not angry, then the lion is awful.","If Fiona is not angry, then the lion is not awful.",0,Contraposition,0.9897665977478027
+243,"If Fiona is not angry, then the lion is not awful.","If the lion is not awful, then Fiona is not angry.",1,Contraposition,0.9876958727836609
+243,"If Fiona is not angry, then the lion is not awful.","If Fiona is not angry, then the lion is awful.",0,Contraposition,0.9897665977478027
+244,"If the rabbit is slow, then the crocodile is lazy.","If the crocodile is not lazy, then the rabbit is not slow.",1,Contraposition,0.9770756363868713
+244,"If the rabbit is slow, then the crocodile is lazy.","If the rabbit is slow, then the crocodile is not lazy.",0,Contraposition,0.9848749041557312
+244,"If the rabbit is slow, then the crocodile is not lazy.","If the crocodile is lazy, then the rabbit is not slow.",1,Contraposition,0.9974608421325684
+244,"If the rabbit is slow, then the crocodile is not lazy.","If the rabbit is slow, then the crocodile is lazy.",0,Contraposition,0.9848749041557312
+244,"If the rabbit is not slow, then the crocodile is lazy.","If the crocodile is not lazy, then the rabbit is slow.",1,Contraposition,0.9966458082199097
+244,"If the rabbit is not slow, then the crocodile is lazy.","If the rabbit is not slow, then the crocodile is not lazy.",0,Contraposition,0.987578809261322
+244,"If the rabbit is not slow, then the crocodile is not lazy.","If the crocodile is not lazy, then the rabbit is not slow.",1,Contraposition,0.9971188902854919
+244,"If the rabbit is not slow, then the crocodile is not lazy.","If the rabbit is not slow, then the crocodile is lazy.",0,Contraposition,0.987578809261322
+245,"If Alan is wealthy, then Bob is strong.","If Bob is not strong, then Alan is not wealthy.",1,Contraposition,0.9903098940849304
+245,"If Alan is wealthy, then Bob is strong.","If Alan is wealthy, then Bob is not strong.",0,Contraposition,0.9945266842842102
+245,"If Alan is wealthy, then Bob is not strong.","If Bob is strong, then Alan is not wealthy.",1,Contraposition,0.9979576468467712
+245,"If Alan is wealthy, then Bob is not strong.","If Alan is wealthy, then Bob is strong.",0,Contraposition,0.9945266842842102
+245,"If Alan is not wealthy, then Bob is strong.","If Bob is not strong, then Alan is wealthy.",1,Contraposition,0.9979787468910217
+245,"If Alan is not wealthy, then Bob is strong.","If Alan is not wealthy, then Bob is not strong.",0,Contraposition,0.9966603517532349
+245,"If Alan is not wealthy, then Bob is not strong.","If Bob is not strong, then Alan is not wealthy.",1,Contraposition,0.9988145232200623
+245,"If Alan is not wealthy, then Bob is not strong.","If Alan is not wealthy, then Bob is strong.",0,Contraposition,0.9966603517532349
+246,"If the wolf is cute, then the rabbit is fierce.","If the rabbit is not fierce, then the wolf is not cute.",1,Contraposition,0.9602735638618469
+246,"If the wolf is cute, then the rabbit is fierce.","If the wolf is cute, then the rabbit is not fierce.",0,Contraposition,0.9845292568206787
+246,"If the wolf is cute, then the rabbit is not fierce.","If the rabbit is fierce, then the wolf is not cute.",1,Contraposition,0.9946768283843994
+246,"If the wolf is cute, then the rabbit is not fierce.","If the wolf is cute, then the rabbit is fierce.",0,Contraposition,0.9845292568206787
+246,"If the wolf is not cute, then the rabbit is fierce.","If the rabbit is not fierce, then the wolf is cute.",1,Contraposition,0.9950048923492432
+246,"If the wolf is not cute, then the rabbit is fierce.","If the wolf is not cute, then the rabbit is not fierce.",0,Contraposition,0.9934136867523193
+246,"If the wolf is not cute, then the rabbit is not fierce.","If the rabbit is not fierce, then the wolf is not cute.",1,Contraposition,0.9946724772453308
+246,"If the wolf is not cute, then the rabbit is not fierce.","If the wolf is not cute, then the rabbit is fierce.",0,Contraposition,0.9934136867523193
+247,"If Harry is poor, then Alan is fierce.","If Alan is not fierce, then Harry is not poor.",1,Contraposition,0.9656590819358826
+247,"If Harry is poor, then Alan is fierce.","If Harry is poor, then Alan is not fierce.",0,Contraposition,0.9875307083129883
+247,"If Harry is poor, then Alan is not fierce.","If Alan is fierce, then Harry is not poor.",1,Contraposition,0.994218111038208
+247,"If Harry is poor, then Alan is not fierce.","If Harry is poor, then Alan is fierce.",0,Contraposition,0.9875307083129883
+247,"If Harry is not poor, then Alan is fierce.","If Alan is not fierce, then Harry is poor.",1,Contraposition,0.9889311790466309
+247,"If Harry is not poor, then Alan is fierce.","If Harry is not poor, then Alan is not fierce.",0,Contraposition,0.9941098093986511
+247,"If Harry is not poor, then Alan is not fierce.","If Alan is not fierce, then Harry is not poor.",1,Contraposition,0.99006587266922
+247,"If Harry is not poor, then Alan is not fierce.","If Harry is not poor, then Alan is fierce.",0,Contraposition,0.9941098093986511
+248,"If Harry is reckless, then the dog is huge.","If the dog is not huge, then Harry is not reckless.",1,Contraposition,0.9867275953292847
+248,"If Harry is reckless, then the dog is huge.","If Harry is reckless, then the dog is not huge.",0,Contraposition,0.9873728156089783
+248,"If Harry is reckless, then the dog is not huge.","If the dog is huge, then Harry is not reckless.",1,Contraposition,0.9853087663650513
+248,"If Harry is reckless, then the dog is not huge.","If Harry is reckless, then the dog is huge.",0,Contraposition,0.9873728156089783
+248,"If Harry is not reckless, then the dog is huge.","If the dog is not huge, then Harry is reckless.",1,Contraposition,0.9868742227554321
+248,"If Harry is not reckless, then the dog is huge.","If Harry is not reckless, then the dog is not huge.",0,Contraposition,0.9862484335899353
+248,"If Harry is not reckless, then the dog is not huge.","If the dog is not huge, then Harry is not reckless.",1,Contraposition,0.984100341796875
+248,"If Harry is not reckless, then the dog is not huge.","If Harry is not reckless, then the dog is huge.",0,Contraposition,0.9862484335899353
+249,"If Gary is round, then the leopard is funny.","If the leopard is not funny, then Gary is not round.",1,Contraposition,0.9730072617530823
+249,"If Gary is round, then the leopard is funny.","If Gary is round, then the leopard is not funny.",0,Contraposition,0.9863182306289673
+249,"If Gary is round, then the leopard is not funny.","If the leopard is funny, then Gary is not round.",1,Contraposition,0.9910488724708557
+249,"If Gary is round, then the leopard is not funny.","If Gary is round, then the leopard is funny.",0,Contraposition,0.9863182306289673
+249,"If Gary is not round, then the leopard is funny.","If the leopard is not funny, then Gary is round.",1,Contraposition,0.9930684566497803
+249,"If Gary is not round, then the leopard is funny.","If Gary is not round, then the leopard is not funny.",0,Contraposition,0.9809410572052002
+249,"If Gary is not round, then the leopard is not funny.","If the leopard is not funny, then Gary is not round.",1,Contraposition,0.995069146156311
+249,"If Gary is not round, then the leopard is not funny.","If Gary is not round, then the leopard is funny.",0,Contraposition,0.9809410572052002
+250,"If Alan is poor, then the tiger is lazy.","If the tiger is not lazy, then Alan is not poor.",1,Contraposition,0.9810078144073486
+250,"If Alan is poor, then the tiger is lazy.","If Alan is poor, then the tiger is not lazy.",0,Contraposition,0.9915106296539307
+250,"If Alan is poor, then the tiger is not lazy.","If the tiger is lazy, then Alan is not poor.",1,Contraposition,0.9983747601509094
+250,"If Alan is poor, then the tiger is not lazy.","If Alan is poor, then the tiger is lazy.",0,Contraposition,0.9915106296539307
+250,"If Alan is not poor, then the tiger is lazy.","If the tiger is not lazy, then Alan is poor.",1,Contraposition,0.9970582723617554
+250,"If Alan is not poor, then the tiger is lazy.","If Alan is not poor, then the tiger is not lazy.",0,Contraposition,0.9950500130653381
+250,"If Alan is not poor, then the tiger is not lazy.","If the tiger is not lazy, then Alan is not poor.",1,Contraposition,0.9978822469711304
+250,"If Alan is not poor, then the tiger is not lazy.","If Alan is not poor, then the tiger is lazy.",0,Contraposition,0.9950500130653381
+251,"If the cat is furry, then the wolf is bad.","If the wolf is not bad, then the cat is not furry.",1,Contraposition,0.9761579632759094
+251,"If the cat is furry, then the wolf is bad.","If the cat is furry, then the wolf is not bad.",0,Contraposition,0.9881378412246704
+251,"If the cat is furry, then the wolf is not bad.","If the wolf is bad, then the cat is not furry.",1,Contraposition,0.9956533908843994
+251,"If the cat is furry, then the wolf is not bad.","If the cat is furry, then the wolf is bad.",0,Contraposition,0.9881378412246704
+251,"If the cat is not furry, then the wolf is bad.","If the wolf is not bad, then the cat is furry.",1,Contraposition,0.9939448237419128
+251,"If the cat is not furry, then the wolf is bad.","If the cat is not furry, then the wolf is not bad.",0,Contraposition,0.9901177287101746
+251,"If the cat is not furry, then the wolf is not bad.","If the wolf is not bad, then the cat is not furry.",1,Contraposition,0.9975354671478271
+251,"If the cat is not furry, then the wolf is not bad.","If the cat is not furry, then the wolf is bad.",0,Contraposition,0.9901177287101746
+252,"If the dinosaur is lazy, then the crocodile is dull.","If the crocodile is not dull, then the dinosaur is not lazy.",1,Contraposition,0.9802650809288025
+252,"If the dinosaur is lazy, then the crocodile is dull.","If the dinosaur is lazy, then the crocodile is not dull.",0,Contraposition,0.9874793291091919
+252,"If the dinosaur is lazy, then the crocodile is not dull.","If the crocodile is dull, then the dinosaur is not lazy.",1,Contraposition,0.997917652130127
+252,"If the dinosaur is lazy, then the crocodile is not dull.","If the dinosaur is lazy, then the crocodile is dull.",0,Contraposition,0.9874793291091919
+252,"If the dinosaur is not lazy, then the crocodile is dull.","If the crocodile is not dull, then the dinosaur is lazy.",1,Contraposition,0.9975636601448059
+252,"If the dinosaur is not lazy, then the crocodile is dull.","If the dinosaur is not lazy, then the crocodile is not dull.",0,Contraposition,0.9871386289596558
+252,"If the dinosaur is not lazy, then the crocodile is not dull.","If the crocodile is not dull, then the dinosaur is not lazy.",1,Contraposition,0.995570957660675
+252,"If the dinosaur is not lazy, then the crocodile is not dull.","If the dinosaur is not lazy, then the crocodile is dull.",0,Contraposition,0.9871386289596558
+253,"If Erin is nice, then the dog is poor.","If the dog is not poor, then Erin is not nice.",1,Contraposition,0.9830905199050903
+253,"If Erin is nice, then the dog is poor.","If Erin is nice, then the dog is not poor.",0,Contraposition,0.9917495846748352
+253,"If Erin is nice, then the dog is not poor.","If the dog is poor, then Erin is not nice.",1,Contraposition,0.9645668268203735
+253,"If Erin is nice, then the dog is not poor.","If Erin is nice, then the dog is poor.",0,Contraposition,0.9917495846748352
+253,"If Erin is not nice, then the dog is poor.","If the dog is not poor, then Erin is nice.",1,Contraposition,0.9892310500144958
+253,"If Erin is not nice, then the dog is poor.","If Erin is not nice, then the dog is not poor.",0,Contraposition,0.9897115230560303
+253,"If Erin is not nice, then the dog is not poor.","If the dog is not poor, then Erin is not nice.",1,Contraposition,0.980644166469574
+253,"If Erin is not nice, then the dog is not poor.","If Erin is not nice, then the dog is poor.",0,Contraposition,0.9897115230560303
+254,"If the dog is reckless, then the bear is dull.","If the bear is not dull, then the dog is not reckless.",1,Contraposition,0.9898557066917419
+254,"If the dog is reckless, then the bear is dull.","If the dog is reckless, then the bear is not dull.",0,Contraposition,0.9910336136817932
+254,"If the dog is reckless, then the bear is not dull.","If the bear is dull, then the dog is not reckless.",1,Contraposition,0.9835669994354248
+254,"If the dog is reckless, then the bear is not dull.","If the dog is reckless, then the bear is dull.",0,Contraposition,0.9910336136817932
+254,"If the dog is not reckless, then the bear is dull.","If the bear is not dull, then the dog is reckless.",1,Contraposition,0.9918457269668579
+254,"If the dog is not reckless, then the bear is dull.","If the dog is not reckless, then the bear is not dull.",0,Contraposition,0.9922348856925964
+254,"If the dog is not reckless, then the bear is not dull.","If the bear is not dull, then the dog is not reckless.",1,Contraposition,0.9882127642631531
+254,"If the dog is not reckless, then the bear is not dull.","If the dog is not reckless, then the bear is dull.",0,Contraposition,0.9922348856925964
+255,"If the bear is lazy, then Dave is powerful.","If Dave is not powerful, then the bear is not lazy.",1,Contraposition,0.9793487787246704
+255,"If the bear is lazy, then Dave is powerful.","If the bear is lazy, then Dave is not powerful.",0,Contraposition,0.9930036664009094
+255,"If the bear is lazy, then Dave is not powerful.","If Dave is powerful, then the bear is not lazy.",1,Contraposition,0.9965771436691284
+255,"If the bear is lazy, then Dave is not powerful.","If the bear is lazy, then Dave is powerful.",0,Contraposition,0.9930036664009094
+255,"If the bear is not lazy, then Dave is powerful.","If Dave is not powerful, then the bear is lazy.",1,Contraposition,0.9962222576141357
+255,"If the bear is not lazy, then Dave is powerful.","If the bear is not lazy, then Dave is not powerful.",0,Contraposition,0.9959256649017334
+255,"If the bear is not lazy, then Dave is not powerful.","If Dave is not powerful, then the bear is not lazy.",1,Contraposition,0.9976905584335327
+255,"If the bear is not lazy, then Dave is not powerful.","If the bear is not lazy, then Dave is powerful.",0,Contraposition,0.9959256649017334
+256,"If the crocodile is funny, then Alan is thin.","If Alan is not thin, then the crocodile is not funny.",1,Contraposition,0.9549239873886108
+256,"If the crocodile is funny, then Alan is thin.","If the crocodile is funny, then Alan is not thin.",0,Contraposition,0.9881958365440369
+256,"If the crocodile is funny, then Alan is not thin.","If Alan is thin, then the crocodile is not funny.",1,Contraposition,0.9920713305473328
+256,"If the crocodile is funny, then Alan is not thin.","If the crocodile is funny, then Alan is thin.",0,Contraposition,0.9881958365440369
+256,"If the crocodile is not funny, then Alan is thin.","If Alan is not thin, then the crocodile is funny.",1,Contraposition,0.9941255450248718
+256,"If the crocodile is not funny, then Alan is thin.","If the crocodile is not funny, then Alan is not thin.",0,Contraposition,0.9861023426055908
+256,"If the crocodile is not funny, then Alan is not thin.","If Alan is not thin, then the crocodile is not funny.",1,Contraposition,0.9950963854789734
+256,"If the crocodile is not funny, then Alan is not thin.","If the crocodile is not funny, then Alan is thin.",0,Contraposition,0.9861023426055908
+257,"If the bald eagle is smart, then Dave is reckless.","If Dave is not reckless, then the bald eagle is not smart.",1,Contraposition,0.9629697203636169
+257,"If the bald eagle is smart, then Dave is reckless.","If the bald eagle is smart, then Dave is not reckless.",0,Contraposition,0.987974226474762
+257,"If the bald eagle is smart, then Dave is not reckless.","If Dave is reckless, then the bald eagle is not smart.",1,Contraposition,0.9937944412231445
+257,"If the bald eagle is smart, then Dave is not reckless.","If the bald eagle is smart, then Dave is reckless.",0,Contraposition,0.987974226474762
+257,"If the bald eagle is not smart, then Dave is reckless.","If Dave is not reckless, then the bald eagle is smart.",1,Contraposition,0.9884210824966431
+257,"If the bald eagle is not smart, then Dave is reckless.","If the bald eagle is not smart, then Dave is not reckless.",0,Contraposition,0.9894276857376099
+257,"If the bald eagle is not smart, then Dave is not reckless.","If Dave is not reckless, then the bald eagle is not smart.",1,Contraposition,0.994046151638031
+257,"If the bald eagle is not smart, then Dave is not reckless.","If the bald eagle is not smart, then Dave is reckless.",0,Contraposition,0.9894276857376099
+258,"If Bob is dull, then the dog is beautiful.","If the dog is not beautiful, then Bob is not dull.",1,Contraposition,0.9832879304885864
+258,"If Bob is dull, then the dog is beautiful.","If Bob is dull, then the dog is not beautiful.",0,Contraposition,0.9937020540237427
+258,"If Bob is dull, then the dog is not beautiful.","If the dog is beautiful, then Bob is not dull.",1,Contraposition,0.9959595203399658
+258,"If Bob is dull, then the dog is not beautiful.","If Bob is dull, then the dog is beautiful.",0,Contraposition,0.9937020540237427
+258,"If Bob is not dull, then the dog is beautiful.","If the dog is not beautiful, then Bob is dull.",1,Contraposition,0.9961512684822083
+258,"If Bob is not dull, then the dog is beautiful.","If Bob is not dull, then the dog is not beautiful.",0,Contraposition,0.9966049790382385
+258,"If Bob is not dull, then the dog is not beautiful.","If the dog is not beautiful, then Bob is not dull.",1,Contraposition,0.9937949776649475
+258,"If Bob is not dull, then the dog is not beautiful.","If Bob is not dull, then the dog is beautiful.",0,Contraposition,0.9966049790382385
+259,"If Alan is huge, then the snake is reckless.","If the snake is not reckless, then Alan is not huge.",1,Contraposition,0.9607898592948914
+259,"If Alan is huge, then the snake is reckless.","If Alan is huge, then the snake is not reckless.",0,Contraposition,0.9882113933563232
+259,"If Alan is huge, then the snake is not reckless.","If the snake is reckless, then Alan is not huge.",1,Contraposition,0.9914755821228027
+259,"If Alan is huge, then the snake is not reckless.","If Alan is huge, then the snake is reckless.",0,Contraposition,0.9882113933563232
+259,"If Alan is not huge, then the snake is reckless.","If the snake is not reckless, then Alan is huge.",1,Contraposition,0.9914264678955078
+259,"If Alan is not huge, then the snake is reckless.","If Alan is not huge, then the snake is not reckless.",0,Contraposition,0.9897928833961487
+259,"If Alan is not huge, then the snake is not reckless.","If the snake is not reckless, then Alan is not huge.",1,Contraposition,0.9921388626098633
+259,"If Alan is not huge, then the snake is not reckless.","If Alan is not huge, then the snake is reckless.",0,Contraposition,0.9897928833961487
+260,"If the leopard is tiny, then Fiona is boring.","If Fiona is not boring, then the leopard is not tiny.",1,Contraposition,0.9594190716743469
+260,"If the leopard is tiny, then Fiona is boring.","If the leopard is tiny, then Fiona is not boring.",0,Contraposition,0.9887958765029907
+260,"If the leopard is tiny, then Fiona is not boring.","If Fiona is boring, then the leopard is not tiny.",1,Contraposition,0.996669352054596
+260,"If the leopard is tiny, then Fiona is not boring.","If the leopard is tiny, then Fiona is boring.",0,Contraposition,0.9887958765029907
+260,"If the leopard is not tiny, then Fiona is boring.","If Fiona is not boring, then the leopard is tiny.",1,Contraposition,0.9950528144836426
+260,"If the leopard is not tiny, then Fiona is boring.","If the leopard is not tiny, then Fiona is not boring.",0,Contraposition,0.9897547364234924
+260,"If the leopard is not tiny, then Fiona is not boring.","If Fiona is not boring, then the leopard is not tiny.",1,Contraposition,0.995388388633728
+260,"If the leopard is not tiny, then Fiona is not boring.","If the leopard is not tiny, then Fiona is boring.",0,Contraposition,0.9897547364234924
+261,"If the rabbit is reckless, then Bob is sleepy.","If Bob is not sleepy, then the rabbit is not reckless.",1,Contraposition,0.9836475253105164
+261,"If the rabbit is reckless, then Bob is sleepy.","If the rabbit is reckless, then Bob is not sleepy.",0,Contraposition,0.9899313449859619
+261,"If the rabbit is reckless, then Bob is not sleepy.","If Bob is sleepy, then the rabbit is not reckless.",1,Contraposition,0.9904890060424805
+261,"If the rabbit is reckless, then Bob is not sleepy.","If the rabbit is reckless, then Bob is sleepy.",0,Contraposition,0.9899313449859619
+261,"If the rabbit is not reckless, then Bob is sleepy.","If Bob is not sleepy, then the rabbit is reckless.",1,Contraposition,0.9758878350257874
+261,"If the rabbit is not reckless, then Bob is sleepy.","If the rabbit is not reckless, then Bob is not sleepy.",0,Contraposition,0.9954103231430054
+261,"If the rabbit is not reckless, then Bob is not sleepy.","If Bob is not sleepy, then the rabbit is not reckless.",1,Contraposition,0.9945774078369141
+261,"If the rabbit is not reckless, then Bob is not sleepy.","If the rabbit is not reckless, then Bob is sleepy.",0,Contraposition,0.9954103231430054
+262,"If the leopard is tiny, then the bald eagle is thin.","If the bald eagle is not thin, then the leopard is not tiny.",1,Contraposition,0.9525096416473389
+262,"If the leopard is tiny, then the bald eagle is thin.","If the leopard is tiny, then the bald eagle is not thin.",0,Contraposition,0.9920495748519897
+262,"If the leopard is tiny, then the bald eagle is not thin.","If the bald eagle is thin, then the leopard is not tiny.",1,Contraposition,0.9962092041969299
+262,"If the leopard is tiny, then the bald eagle is not thin.","If the leopard is tiny, then the bald eagle is thin.",0,Contraposition,0.9920495748519897
+262,"If the leopard is not tiny, then the bald eagle is thin.","If the bald eagle is not thin, then the leopard is tiny.",1,Contraposition,0.9976337552070618
+262,"If the leopard is not tiny, then the bald eagle is thin.","If the leopard is not tiny, then the bald eagle is not thin.",0,Contraposition,0.9916858077049255
+262,"If the leopard is not tiny, then the bald eagle is not thin.","If the bald eagle is not thin, then the leopard is not tiny.",1,Contraposition,0.9830590486526489
+262,"If the leopard is not tiny, then the bald eagle is not thin.","If the leopard is not tiny, then the bald eagle is thin.",0,Contraposition,0.9916858077049255
+263,"If Alan is cute, then the dog is awful.","If the dog is not awful, then Alan is not cute.",1,Contraposition,0.971635103225708
+263,"If Alan is cute, then the dog is awful.","If Alan is cute, then the dog is not awful.",0,Contraposition,0.9926080703735352
+263,"If Alan is cute, then the dog is not awful.","If the dog is awful, then Alan is not cute.",1,Contraposition,0.9909720420837402
+263,"If Alan is cute, then the dog is not awful.","If Alan is cute, then the dog is awful.",0,Contraposition,0.9926080703735352
+263,"If Alan is not cute, then the dog is awful.","If the dog is not awful, then Alan is cute.",1,Contraposition,0.992642343044281
+263,"If Alan is not cute, then the dog is awful.","If Alan is not cute, then the dog is not awful.",0,Contraposition,0.9957382082939148
+263,"If Alan is not cute, then the dog is not awful.","If the dog is not awful, then Alan is not cute.",1,Contraposition,0.9946707487106323
+263,"If Alan is not cute, then the dog is not awful.","If Alan is not cute, then the dog is awful.",0,Contraposition,0.9957382082939148
+264,"If the leopard is sad, then Dave is tired.","If Dave is not tired, then the leopard is not sad.",1,Contraposition,0.9678961634635925
+264,"If the leopard is sad, then Dave is tired.","If the leopard is sad, then Dave is not tired.",0,Contraposition,0.9868587851524353
+264,"If the leopard is sad, then Dave is not tired.","If Dave is tired, then the leopard is not sad.",1,Contraposition,0.9958625435829163
+264,"If the leopard is sad, then Dave is not tired.","If the leopard is sad, then Dave is tired.",0,Contraposition,0.9868587851524353
+264,"If the leopard is not sad, then Dave is tired.","If Dave is not tired, then the leopard is sad.",1,Contraposition,0.9931933283805847
+264,"If the leopard is not sad, then Dave is tired.","If the leopard is not sad, then Dave is not tired.",0,Contraposition,0.9952557682991028
+264,"If the leopard is not sad, then Dave is not tired.","If Dave is not tired, then the leopard is not sad.",1,Contraposition,0.9921941757202148
+264,"If the leopard is not sad, then Dave is not tired.","If the leopard is not sad, then Dave is tired.",0,Contraposition,0.9952557682991028
+265,"If the snake is lazy, then the leopard is small.","If the leopard is not small, then the snake is not lazy.",1,Contraposition,0.9834893345832825
+265,"If the snake is lazy, then the leopard is small.","If the snake is lazy, then the leopard is not small.",0,Contraposition,0.9897238612174988
+265,"If the snake is lazy, then the leopard is not small.","If the leopard is small, then the snake is not lazy.",1,Contraposition,0.9973394274711609
+265,"If the snake is lazy, then the leopard is not small.","If the snake is lazy, then the leopard is small.",0,Contraposition,0.9897238612174988
+265,"If the snake is not lazy, then the leopard is small.","If the leopard is not small, then the snake is lazy.",1,Contraposition,0.9972940683364868
+265,"If the snake is not lazy, then the leopard is small.","If the snake is not lazy, then the leopard is not small.",0,Contraposition,0.9813719391822815
+265,"If the snake is not lazy, then the leopard is not small.","If the leopard is not small, then the snake is not lazy.",1,Contraposition,0.9920305013656616
+265,"If the snake is not lazy, then the leopard is not small.","If the snake is not lazy, then the leopard is small.",0,Contraposition,0.9813719391822815
+266,"If the lion is rough, then the bald eagle is awful.","If the bald eagle is not awful, then the lion is not rough.",1,Contraposition,0.950947105884552
+266,"If the lion is rough, then the bald eagle is awful.","If the lion is rough, then the bald eagle is not awful.",0,Contraposition,0.9838897585868835
+266,"If the lion is rough, then the bald eagle is not awful.","If the bald eagle is awful, then the lion is not rough.",1,Contraposition,0.9927811622619629
+266,"If the lion is rough, then the bald eagle is not awful.","If the lion is rough, then the bald eagle is awful.",0,Contraposition,0.9838897585868835
+266,"If the lion is not rough, then the bald eagle is awful.","If the bald eagle is not awful, then the lion is rough.",1,Contraposition,0.9947227835655212
+266,"If the lion is not rough, then the bald eagle is awful.","If the lion is not rough, then the bald eagle is not awful.",0,Contraposition,0.9897540211677551
+266,"If the lion is not rough, then the bald eagle is not awful.","If the bald eagle is not awful, then the lion is not rough.",1,Contraposition,0.9937438368797302
+266,"If the lion is not rough, then the bald eagle is not awful.","If the lion is not rough, then the bald eagle is awful.",0,Contraposition,0.9897540211677551
+267,"If the cat is angry, then Gary is horrible.","If Gary is not horrible, then the cat is not angry.",1,Contraposition,0.9366951584815979
+267,"If the cat is angry, then Gary is horrible.","If the cat is angry, then Gary is not horrible.",0,Contraposition,0.9878905415534973
+267,"If the cat is angry, then Gary is not horrible.","If Gary is horrible, then the cat is not angry.",1,Contraposition,0.9769824743270874
+267,"If the cat is angry, then Gary is not horrible.","If the cat is angry, then Gary is horrible.",0,Contraposition,0.9878905415534973
+267,"If the cat is not angry, then Gary is horrible.","If Gary is not horrible, then the cat is angry.",1,Contraposition,0.9929926991462708
+267,"If the cat is not angry, then Gary is horrible.","If the cat is not angry, then Gary is not horrible.",0,Contraposition,0.991740345954895
+267,"If the cat is not angry, then Gary is not horrible.","If Gary is not horrible, then the cat is not angry.",1,Contraposition,0.9596168398857117
+267,"If the cat is not angry, then Gary is not horrible.","If the cat is not angry, then Gary is horrible.",0,Contraposition,0.991740345954895
+268,"If the cat is sad, then Harry is small.","If Harry is not small, then the cat is not sad.",1,Contraposition,0.9827760457992554
+268,"If the cat is sad, then Harry is small.","If the cat is sad, then Harry is not small.",0,Contraposition,0.9921905398368835
+268,"If the cat is sad, then Harry is not small.","If Harry is small, then the cat is not sad.",1,Contraposition,0.9878084063529968
+268,"If the cat is sad, then Harry is not small.","If the cat is sad, then Harry is small.",0,Contraposition,0.9921905398368835
+268,"If the cat is not sad, then Harry is small.","If Harry is not small, then the cat is sad.",1,Contraposition,0.9925129413604736
+268,"If the cat is not sad, then Harry is small.","If the cat is not sad, then Harry is not small.",0,Contraposition,0.9929368495941162
+268,"If the cat is not sad, then Harry is not small.","If Harry is not small, then the cat is not sad.",1,Contraposition,0.988206684589386
+268,"If the cat is not sad, then Harry is not small.","If the cat is not sad, then Harry is small.",0,Contraposition,0.9929368495941162
+269,"If Bob is clever, then the cat is funny.","If the cat is not funny, then Bob is not clever.",1,Contraposition,0.9725533723831177
+269,"If Bob is clever, then the cat is funny.","If Bob is clever, then the cat is not funny.",0,Contraposition,0.9764078855514526
+269,"If Bob is clever, then the cat is not funny.","If the cat is funny, then Bob is not clever.",1,Contraposition,0.9941882491111755
+269,"If Bob is clever, then the cat is not funny.","If Bob is clever, then the cat is funny.",0,Contraposition,0.9764078855514526
+269,"If Bob is not clever, then the cat is funny.","If the cat is not funny, then Bob is clever.",1,Contraposition,0.9929651618003845
+269,"If Bob is not clever, then the cat is funny.","If Bob is not clever, then the cat is not funny.",0,Contraposition,0.9778507351875305
+269,"If Bob is not clever, then the cat is not funny.","If the cat is not funny, then Bob is not clever.",1,Contraposition,0.9926145672798157
+269,"If Bob is not clever, then the cat is not funny.","If Bob is not clever, then the cat is funny.",0,Contraposition,0.9778507351875305
+270,"If Alan is lovely, then the wolf is powerful.","If the wolf is not powerful, then Alan is not lovely.",1,Contraposition,0.9872235059738159
+270,"If Alan is lovely, then the wolf is powerful.","If Alan is lovely, then the wolf is not powerful.",0,Contraposition,0.9928139448165894
+270,"If Alan is lovely, then the wolf is not powerful.","If the wolf is powerful, then Alan is not lovely.",1,Contraposition,0.9952046871185303
+270,"If Alan is lovely, then the wolf is not powerful.","If Alan is lovely, then the wolf is powerful.",0,Contraposition,0.9928139448165894
+270,"If Alan is not lovely, then the wolf is powerful.","If the wolf is not powerful, then Alan is lovely.",1,Contraposition,0.9938015341758728
+270,"If Alan is not lovely, then the wolf is powerful.","If Alan is not lovely, then the wolf is not powerful.",0,Contraposition,0.995148241519928
+270,"If Alan is not lovely, then the wolf is not powerful.","If the wolf is not powerful, then Alan is not lovely.",1,Contraposition,0.996978759765625
+270,"If Alan is not lovely, then the wolf is not powerful.","If Alan is not lovely, then the wolf is powerful.",0,Contraposition,0.995148241519928
+271,"If Dave is slow, then the wolf is small.","If the wolf is not small, then Dave is not slow.",1,Contraposition,0.9860614538192749
+271,"If Dave is slow, then the wolf is small.","If Dave is slow, then the wolf is not small.",0,Contraposition,0.9904367923736572
+271,"If Dave is slow, then the wolf is not small.","If the wolf is small, then Dave is not slow.",1,Contraposition,0.9961844086647034
+271,"If Dave is slow, then the wolf is not small.","If Dave is slow, then the wolf is small.",0,Contraposition,0.9904367923736572
+271,"If Dave is not slow, then the wolf is small.","If the wolf is not small, then Dave is slow.",1,Contraposition,0.9970350861549377
+271,"If Dave is not slow, then the wolf is small.","If Dave is not slow, then the wolf is not small.",0,Contraposition,0.9857589602470398
+271,"If Dave is not slow, then the wolf is not small.","If the wolf is not small, then Dave is not slow.",1,Contraposition,0.9898966550827026
+271,"If Dave is not slow, then the wolf is not small.","If Dave is not slow, then the wolf is small.",0,Contraposition,0.9857589602470398
+272,"If Anne is boring, then the bald eagle is slow.","If the bald eagle is not slow, then Anne is not boring.",1,Contraposition,0.9794518947601318
+272,"If Anne is boring, then the bald eagle is slow.","If Anne is boring, then the bald eagle is not slow.",0,Contraposition,0.9930195212364197
+272,"If Anne is boring, then the bald eagle is not slow.","If the bald eagle is slow, then Anne is not boring.",1,Contraposition,0.9965788125991821
+272,"If Anne is boring, then the bald eagle is not slow.","If Anne is boring, then the bald eagle is slow.",0,Contraposition,0.9930195212364197
+272,"If Anne is not boring, then the bald eagle is slow.","If the bald eagle is not slow, then Anne is boring.",1,Contraposition,0.994788408279419
+272,"If Anne is not boring, then the bald eagle is slow.","If Anne is not boring, then the bald eagle is not slow.",0,Contraposition,0.9918567538261414
+272,"If Anne is not boring, then the bald eagle is not slow.","If the bald eagle is not slow, then Anne is not boring.",1,Contraposition,0.9973729252815247
+272,"If Anne is not boring, then the bald eagle is not slow.","If Anne is not boring, then the bald eagle is slow.",0,Contraposition,0.9918567538261414
+273,"If the lion is sleepy, then the snake is horrible.","If the snake is not horrible, then the lion is not sleepy.",1,Contraposition,0.9706827402114868
+273,"If the lion is sleepy, then the snake is horrible.","If the lion is sleepy, then the snake is not horrible.",0,Contraposition,0.9802601337432861
+273,"If the lion is sleepy, then the snake is not horrible.","If the snake is horrible, then the lion is not sleepy.",1,Contraposition,0.9968492984771729
+273,"If the lion is sleepy, then the snake is not horrible.","If the lion is sleepy, then the snake is horrible.",0,Contraposition,0.9802601337432861
+273,"If the lion is not sleepy, then the snake is horrible.","If the snake is not horrible, then the lion is sleepy.",1,Contraposition,0.9944194555282593
+273,"If the lion is not sleepy, then the snake is horrible.","If the lion is not sleepy, then the snake is not horrible.",0,Contraposition,0.9873504042625427
+273,"If the lion is not sleepy, then the snake is not horrible.","If the snake is not horrible, then the lion is not sleepy.",1,Contraposition,0.9972986578941345
+273,"If the lion is not sleepy, then the snake is not horrible.","If the lion is not sleepy, then the snake is horrible.",0,Contraposition,0.9873504042625427
+274,"If the rabbit is bad, then the wolf is sleepy.","If the wolf is not sleepy, then the rabbit is not bad.",1,Contraposition,0.9715287089347839
+274,"If the rabbit is bad, then the wolf is sleepy.","If the rabbit is bad, then the wolf is not sleepy.",0,Contraposition,0.9833545684814453
+274,"If the rabbit is bad, then the wolf is not sleepy.","If the wolf is sleepy, then the rabbit is not bad.",1,Contraposition,0.9953948855400085
+274,"If the rabbit is bad, then the wolf is not sleepy.","If the rabbit is bad, then the wolf is sleepy.",0,Contraposition,0.9833545684814453
+274,"If the rabbit is not bad, then the wolf is sleepy.","If the wolf is not sleepy, then the rabbit is bad.",1,Contraposition,0.9952065348625183
+274,"If the rabbit is not bad, then the wolf is sleepy.","If the rabbit is not bad, then the wolf is not sleepy.",0,Contraposition,0.9902858734130859
+274,"If the rabbit is not bad, then the wolf is not sleepy.","If the wolf is not sleepy, then the rabbit is not bad.",1,Contraposition,0.9953839182853699
+274,"If the rabbit is not bad, then the wolf is not sleepy.","If the rabbit is not bad, then the wolf is sleepy.",0,Contraposition,0.9902858734130859
+275,"If Alan is sleepy, then the dinosaur is dull.","If the dinosaur is not dull, then Alan is not sleepy.",1,Contraposition,0.9868075847625732
+275,"If Alan is sleepy, then the dinosaur is dull.","If Alan is sleepy, then the dinosaur is not dull.",0,Contraposition,0.9875558614730835
+275,"If Alan is sleepy, then the dinosaur is not dull.","If the dinosaur is dull, then Alan is not sleepy.",1,Contraposition,0.9903252124786377
+275,"If Alan is sleepy, then the dinosaur is not dull.","If Alan is sleepy, then the dinosaur is dull.",0,Contraposition,0.9875558614730835
+275,"If Alan is not sleepy, then the dinosaur is dull.","If the dinosaur is not dull, then Alan is sleepy.",1,Contraposition,0.9919350147247314
+275,"If Alan is not sleepy, then the dinosaur is dull.","If Alan is not sleepy, then the dinosaur is not dull.",0,Contraposition,0.9901455044746399
+275,"If Alan is not sleepy, then the dinosaur is not dull.","If the dinosaur is not dull, then Alan is not sleepy.",1,Contraposition,0.9883885383605957
+275,"If Alan is not sleepy, then the dinosaur is not dull.","If Alan is not sleepy, then the dinosaur is dull.",0,Contraposition,0.9901455044746399
+276,"If the crocodile is quiet, then the squirrel is small.","If the squirrel is not small, then the crocodile is not quiet.",1,Contraposition,0.9850789904594421
+276,"If the crocodile is quiet, then the squirrel is small.","If the crocodile is quiet, then the squirrel is not small.",0,Contraposition,0.9916895031929016
+276,"If the crocodile is quiet, then the squirrel is not small.","If the squirrel is small, then the crocodile is not quiet.",1,Contraposition,0.9855066537857056
+276,"If the crocodile is quiet, then the squirrel is not small.","If the crocodile is quiet, then the squirrel is small.",0,Contraposition,0.9916895031929016
+276,"If the crocodile is not quiet, then the squirrel is small.","If the squirrel is not small, then the crocodile is quiet.",1,Contraposition,0.9901700019836426
+276,"If the crocodile is not quiet, then the squirrel is small.","If the crocodile is not quiet, then the squirrel is not small.",0,Contraposition,0.9844473004341125
+276,"If the crocodile is not quiet, then the squirrel is not small.","If the squirrel is not small, then the crocodile is not quiet.",1,Contraposition,0.9876914024353027
+276,"If the crocodile is not quiet, then the squirrel is not small.","If the crocodile is not quiet, then the squirrel is small.",0,Contraposition,0.9844473004341125
+277,"If Alan is reckless, then the crocodile is kind.","If the crocodile is not kind, then Alan is not reckless.",1,Contraposition,0.9867610931396484
+277,"If Alan is reckless, then the crocodile is kind.","If Alan is reckless, then the crocodile is not kind.",0,Contraposition,0.992519736289978
+277,"If Alan is reckless, then the crocodile is not kind.","If the crocodile is kind, then Alan is not reckless.",1,Contraposition,0.9948046803474426
+277,"If Alan is reckless, then the crocodile is not kind.","If Alan is reckless, then the crocodile is kind.",0,Contraposition,0.992519736289978
+277,"If Alan is not reckless, then the crocodile is kind.","If the crocodile is not kind, then Alan is reckless.",1,Contraposition,0.9783839583396912
+277,"If Alan is not reckless, then the crocodile is kind.","If Alan is not reckless, then the crocodile is not kind.",0,Contraposition,0.9963312149047852
+277,"If Alan is not reckless, then the crocodile is not kind.","If the crocodile is not kind, then Alan is not reckless.",1,Contraposition,0.9945964813232422
+277,"If Alan is not reckless, then the crocodile is not kind.","If Alan is not reckless, then the crocodile is kind.",0,Contraposition,0.9963312149047852
+278,"If the crocodile is smart, then Bob is sleepy.","If Bob is not sleepy, then the crocodile is not smart.",1,Contraposition,0.9724352955818176
+278,"If the crocodile is smart, then Bob is sleepy.","If the crocodile is smart, then Bob is not sleepy.",0,Contraposition,0.9884722232818604
+278,"If the crocodile is smart, then Bob is not sleepy.","If Bob is sleepy, then the crocodile is not smart.",1,Contraposition,0.9950186610221863
+278,"If the crocodile is smart, then Bob is not sleepy.","If the crocodile is smart, then Bob is sleepy.",0,Contraposition,0.9884722232818604
+278,"If the crocodile is not smart, then Bob is sleepy.","If Bob is not sleepy, then the crocodile is smart.",1,Contraposition,0.9931093454360962
+278,"If the crocodile is not smart, then Bob is sleepy.","If the crocodile is not smart, then Bob is not sleepy.",0,Contraposition,0.9921665191650391
+278,"If the crocodile is not smart, then Bob is not sleepy.","If Bob is not sleepy, then the crocodile is not smart.",1,Contraposition,0.9954389929771423
+278,"If the crocodile is not smart, then Bob is not sleepy.","If the crocodile is not smart, then Bob is sleepy.",0,Contraposition,0.9921665191650391
+279,"If Gary is heavy, then Dave is beautiful.","If Dave is not beautiful, then Gary is not heavy.",1,Contraposition,0.9785624742507935
+279,"If Gary is heavy, then Dave is beautiful.","If Gary is heavy, then Dave is not beautiful.",0,Contraposition,0.9918197393417358
+279,"If Gary is heavy, then Dave is not beautiful.","If Dave is beautiful, then Gary is not heavy.",1,Contraposition,0.995231032371521
+279,"If Gary is heavy, then Dave is not beautiful.","If Gary is heavy, then Dave is beautiful.",0,Contraposition,0.9918197393417358
+279,"If Gary is not heavy, then Dave is beautiful.","If Dave is not beautiful, then Gary is heavy.",1,Contraposition,0.9964142441749573
+279,"If Gary is not heavy, then Dave is beautiful.","If Gary is not heavy, then Dave is not beautiful.",0,Contraposition,0.9950346946716309
+279,"If Gary is not heavy, then Dave is not beautiful.","If Dave is not beautiful, then Gary is not heavy.",1,Contraposition,0.9971787929534912
+279,"If Gary is not heavy, then Dave is not beautiful.","If Gary is not heavy, then Dave is beautiful.",0,Contraposition,0.9950346946716309
+280,"If Alan is little, then the tiger is powerful.","If the tiger is not powerful, then Alan is not little.",1,Contraposition,0.9786332249641418
+280,"If Alan is little, then the tiger is powerful.","If Alan is little, then the tiger is not powerful.",0,Contraposition,0.992763340473175
+280,"If Alan is little, then the tiger is not powerful.","If the tiger is powerful, then Alan is not little.",1,Contraposition,0.9954123497009277
+280,"If Alan is little, then the tiger is not powerful.","If Alan is little, then the tiger is powerful.",0,Contraposition,0.992763340473175
+280,"If Alan is not little, then the tiger is powerful.","If the tiger is not powerful, then Alan is little.",1,Contraposition,0.993619978427887
+280,"If Alan is not little, then the tiger is powerful.","If Alan is not little, then the tiger is not powerful.",0,Contraposition,0.9921375513076782
+280,"If Alan is not little, then the tiger is not powerful.","If the tiger is not powerful, then Alan is not little.",1,Contraposition,0.9960120320320129
+280,"If Alan is not little, then the tiger is not powerful.","If Alan is not little, then the tiger is powerful.",0,Contraposition,0.9921375513076782
+281,"If the snake is slow, then the wolf is nice.","If the wolf is not nice, then the snake is not slow.",1,Contraposition,0.9529317617416382
+281,"If the snake is slow, then the wolf is nice.","If the snake is slow, then the wolf is not nice.",0,Contraposition,0.985166609287262
+281,"If the snake is slow, then the wolf is not nice.","If the wolf is nice, then the snake is not slow.",1,Contraposition,0.9886452555656433
+281,"If the snake is slow, then the wolf is not nice.","If the snake is slow, then the wolf is nice.",0,Contraposition,0.985166609287262
+281,"If the snake is not slow, then the wolf is nice.","If the wolf is not nice, then the snake is slow.",1,Contraposition,0.9908953905105591
+281,"If the snake is not slow, then the wolf is nice.","If the snake is not slow, then the wolf is not nice.",0,Contraposition,0.9856908917427063
+281,"If the snake is not slow, then the wolf is not nice.","If the wolf is not nice, then the snake is not slow.",1,Contraposition,0.9929983615875244
+281,"If the snake is not slow, then the wolf is not nice.","If the snake is not slow, then the wolf is nice.",0,Contraposition,0.9856908917427063
+282,"If Bob is dull, then Dave is rough.","If Dave is not rough, then Bob is not dull.",1,Contraposition,0.9546326994895935
+282,"If Bob is dull, then Dave is rough.","If Bob is dull, then Dave is not rough.",0,Contraposition,0.9817968010902405
+282,"If Bob is dull, then Dave is not rough.","If Dave is rough, then Bob is not dull.",1,Contraposition,0.9888577461242676
+282,"If Bob is dull, then Dave is not rough.","If Bob is dull, then Dave is rough.",0,Contraposition,0.9817968010902405
+282,"If Bob is not dull, then Dave is rough.","If Dave is not rough, then Bob is dull.",1,Contraposition,0.9825459718704224
+282,"If Bob is not dull, then Dave is rough.","If Bob is not dull, then Dave is not rough.",0,Contraposition,0.9929655194282532
+282,"If Bob is not dull, then Dave is not rough.","If Dave is not rough, then Bob is not dull.",1,Contraposition,0.9781786799430847
+282,"If Bob is not dull, then Dave is not rough.","If Bob is not dull, then Dave is rough.",0,Contraposition,0.9929655194282532
+283,"If the mouse is tired, then the bald eagle is rough.","If the bald eagle is not rough, then the mouse is not tired.",1,Contraposition,0.9695281982421875
+283,"If the mouse is tired, then the bald eagle is rough.","If the mouse is tired, then the bald eagle is not rough.",0,Contraposition,0.9776816964149475
+283,"If the mouse is tired, then the bald eagle is not rough.","If the bald eagle is rough, then the mouse is not tired.",1,Contraposition,0.993822455406189
+283,"If the mouse is tired, then the bald eagle is not rough.","If the mouse is tired, then the bald eagle is rough.",0,Contraposition,0.9776816964149475
+283,"If the mouse is not tired, then the bald eagle is rough.","If the bald eagle is not rough, then the mouse is tired.",1,Contraposition,0.9947261810302734
+283,"If the mouse is not tired, then the bald eagle is rough.","If the mouse is not tired, then the bald eagle is not rough.",0,Contraposition,0.9856123924255371
+283,"If the mouse is not tired, then the bald eagle is not rough.","If the bald eagle is not rough, then the mouse is not tired.",1,Contraposition,0.9953009486198425
+283,"If the mouse is not tired, then the bald eagle is not rough.","If the mouse is not tired, then the bald eagle is rough.",0,Contraposition,0.9856123924255371
+284,"If the leopard is small, then the dinosaur is angry.","If the dinosaur is not angry, then the leopard is not small.",1,Contraposition,0.9354254603385925
+284,"If the leopard is small, then the dinosaur is angry.","If the leopard is small, then the dinosaur is not angry.",0,Contraposition,0.9606589674949646
+284,"If the leopard is small, then the dinosaur is not angry.","If the dinosaur is angry, then the leopard is not small.",1,Contraposition,0.9757259488105774
+284,"If the leopard is small, then the dinosaur is not angry.","If the leopard is small, then the dinosaur is angry.",0,Contraposition,0.9606589674949646
+284,"If the leopard is not small, then the dinosaur is angry.","If the dinosaur is not angry, then the leopard is small.",1,Contraposition,0.9930824637413025
+284,"If the leopard is not small, then the dinosaur is angry.","If the leopard is not small, then the dinosaur is not angry.",0,Contraposition,0.9635308384895325
+284,"If the leopard is not small, then the dinosaur is not angry.","If the dinosaur is not angry, then the leopard is not small.",1,Contraposition,0.9836210012435913
+284,"If the leopard is not small, then the dinosaur is not angry.","If the leopard is not small, then the dinosaur is angry.",0,Contraposition,0.9635308384895325
+285,"If Gary is fierce, then Erin is short.","If Erin is not short, then Gary is not fierce.",1,Contraposition,0.9814331531524658
+285,"If Gary is fierce, then Erin is short.","If Gary is fierce, then Erin is not short.",0,Contraposition,0.9868624806404114
+285,"If Gary is fierce, then Erin is not short.","If Erin is short, then Gary is not fierce.",1,Contraposition,0.9941446185112
+285,"If Gary is fierce, then Erin is not short.","If Gary is fierce, then Erin is short.",0,Contraposition,0.9868624806404114
+285,"If Gary is not fierce, then Erin is short.","If Erin is not short, then Gary is fierce.",1,Contraposition,0.9934314489364624
+285,"If Gary is not fierce, then Erin is short.","If Gary is not fierce, then Erin is not short.",0,Contraposition,0.9865180850028992
+285,"If Gary is not fierce, then Erin is not short.","If Erin is not short, then Gary is not fierce.",1,Contraposition,0.9941871762275696
+285,"If Gary is not fierce, then Erin is not short.","If Gary is not fierce, then Erin is short.",0,Contraposition,0.9865180850028992
+286,"If Bob is lazy, then the tiger is lovely.","If the tiger is not lovely, then Bob is not lazy.",1,Contraposition,0.97611004114151
+286,"If Bob is lazy, then the tiger is lovely.","If Bob is lazy, then the tiger is not lovely.",0,Contraposition,0.9866503477096558
+286,"If Bob is lazy, then the tiger is not lovely.","If the tiger is lovely, then Bob is not lazy.",1,Contraposition,0.9967251420021057
+286,"If Bob is lazy, then the tiger is not lovely.","If Bob is lazy, then the tiger is lovely.",0,Contraposition,0.9866503477096558
+286,"If Bob is not lazy, then the tiger is lovely.","If the tiger is not lovely, then Bob is lazy.",1,Contraposition,0.9958199262619019
+286,"If Bob is not lazy, then the tiger is lovely.","If Bob is not lazy, then the tiger is not lovely.",0,Contraposition,0.9881709218025208
+286,"If Bob is not lazy, then the tiger is not lovely.","If the tiger is not lovely, then Bob is not lazy.",1,Contraposition,0.9974197149276733
+286,"If Bob is not lazy, then the tiger is not lovely.","If Bob is not lazy, then the tiger is lovely.",0,Contraposition,0.9881709218025208
+287,"If Erin is nice, then Bob is poor.","If Bob is not poor, then Erin is not nice.",1,Contraposition,0.982440710067749
+287,"If Erin is nice, then Bob is poor.","If Erin is nice, then Bob is not poor.",0,Contraposition,0.9871950149536133
+287,"If Erin is nice, then Bob is not poor.","If Bob is poor, then Erin is not nice.",1,Contraposition,0.9810510277748108
+287,"If Erin is nice, then Bob is not poor.","If Erin is nice, then Bob is poor.",0,Contraposition,0.9871950149536133
+287,"If Erin is not nice, then Bob is poor.","If Bob is not poor, then Erin is nice.",1,Contraposition,0.9919641613960266
+287,"If Erin is not nice, then Bob is poor.","If Erin is not nice, then Bob is not poor.",0,Contraposition,0.987945020198822
+287,"If Erin is not nice, then Bob is not poor.","If Bob is not poor, then Erin is not nice.",1,Contraposition,0.9874887466430664
+287,"If Erin is not nice, then Bob is not poor.","If Erin is not nice, then Bob is poor.",0,Contraposition,0.987945020198822
+288,"If Charlie is little, then the snake is big.","If the snake is not big, then Charlie is not little.",1,Contraposition,0.9736179113388062
+288,"If Charlie is little, then the snake is big.","If Charlie is little, then the snake is not big.",0,Contraposition,0.9899345636367798
+288,"If Charlie is little, then the snake is not big.","If the snake is big, then Charlie is not little.",1,Contraposition,0.9948793649673462
+288,"If Charlie is little, then the snake is not big.","If Charlie is little, then the snake is big.",0,Contraposition,0.9899345636367798
+288,"If Charlie is not little, then the snake is big.","If the snake is not big, then Charlie is little.",1,Contraposition,0.9923833608627319
+288,"If Charlie is not little, then the snake is big.","If Charlie is not little, then the snake is not big.",0,Contraposition,0.9840189218521118
+288,"If Charlie is not little, then the snake is not big.","If the snake is not big, then Charlie is not little.",1,Contraposition,0.9933707118034363
+288,"If Charlie is not little, then the snake is not big.","If Charlie is not little, then the snake is big.",0,Contraposition,0.9840189218521118
+289,"If Erin is fierce, then Harry is dull.","If Harry is not dull, then Erin is not fierce.",1,Contraposition,0.9873118996620178
+289,"If Erin is fierce, then Harry is dull.","If Erin is fierce, then Harry is not dull.",0,Contraposition,0.9840614795684814
+289,"If Erin is fierce, then Harry is not dull.","If Harry is dull, then Erin is not fierce.",1,Contraposition,0.9863473176956177
+289,"If Erin is fierce, then Harry is not dull.","If Erin is fierce, then Harry is dull.",0,Contraposition,0.9840614795684814
+289,"If Erin is not fierce, then Harry is dull.","If Harry is not dull, then Erin is fierce.",1,Contraposition,0.990722119808197
+289,"If Erin is not fierce, then Harry is dull.","If Erin is not fierce, then Harry is not dull.",0,Contraposition,0.9908273816108704
+289,"If Erin is not fierce, then Harry is not dull.","If Harry is not dull, then Erin is not fierce.",1,Contraposition,0.9821369051933289
+289,"If Erin is not fierce, then Harry is not dull.","If Erin is not fierce, then Harry is dull.",0,Contraposition,0.9908273816108704
+290,"If the cat is rough, then Charlie is angry.","If Charlie is not angry, then the cat is not rough.",1,Contraposition,0.976162850856781
+290,"If the cat is rough, then Charlie is angry.","If the cat is rough, then Charlie is not angry.",0,Contraposition,0.9770721197128296
+290,"If the cat is rough, then Charlie is not angry.","If Charlie is angry, then the cat is not rough.",1,Contraposition,0.9874908924102783
+290,"If the cat is rough, then Charlie is not angry.","If the cat is rough, then Charlie is angry.",0,Contraposition,0.9770721197128296
+290,"If the cat is not rough, then Charlie is angry.","If Charlie is not angry, then the cat is rough.",1,Contraposition,0.987187385559082
+290,"If the cat is not rough, then Charlie is angry.","If the cat is not rough, then Charlie is not angry.",0,Contraposition,0.9860656261444092
+290,"If the cat is not rough, then Charlie is not angry.","If Charlie is not angry, then the cat is not rough.",1,Contraposition,0.9891277551651001
+290,"If the cat is not rough, then Charlie is not angry.","If the cat is not rough, then Charlie is angry.",0,Contraposition,0.9860656261444092
+291,"If the dog is wealthy, then Bob is clever.","If Bob is not clever, then the dog is not wealthy.",1,Contraposition,0.9865941405296326
+291,"If the dog is wealthy, then Bob is clever.","If the dog is wealthy, then Bob is not clever.",0,Contraposition,0.9918532967567444
+291,"If the dog is wealthy, then Bob is not clever.","If Bob is clever, then the dog is not wealthy.",1,Contraposition,0.9966428875923157
+291,"If the dog is wealthy, then Bob is not clever.","If the dog is wealthy, then Bob is clever.",0,Contraposition,0.9918532967567444
+291,"If the dog is not wealthy, then Bob is clever.","If Bob is not clever, then the dog is wealthy.",1,Contraposition,0.9958837628364563
+291,"If the dog is not wealthy, then Bob is clever.","If the dog is not wealthy, then Bob is not clever.",0,Contraposition,0.9938816428184509
+291,"If the dog is not wealthy, then Bob is not clever.","If Bob is not clever, then the dog is not wealthy.",1,Contraposition,0.9978621006011963
+291,"If the dog is not wealthy, then Bob is not clever.","If the dog is not wealthy, then Bob is clever.",0,Contraposition,0.9938816428184509
+292,"If Fiona is reckless, then the crocodile is slow.","If the crocodile is not slow, then Fiona is not reckless.",1,Contraposition,0.9846436977386475
+292,"If Fiona is reckless, then the crocodile is slow.","If Fiona is reckless, then the crocodile is not slow.",0,Contraposition,0.9871721267700195
+292,"If Fiona is reckless, then the crocodile is not slow.","If the crocodile is slow, then Fiona is not reckless.",1,Contraposition,0.9880321025848389
+292,"If Fiona is reckless, then the crocodile is not slow.","If Fiona is reckless, then the crocodile is slow.",0,Contraposition,0.9871721267700195
+292,"If Fiona is not reckless, then the crocodile is slow.","If the crocodile is not slow, then Fiona is reckless.",1,Contraposition,0.9875122904777527
+292,"If Fiona is not reckless, then the crocodile is slow.","If Fiona is not reckless, then the crocodile is not slow.",0,Contraposition,0.990816056728363
+292,"If Fiona is not reckless, then the crocodile is not slow.","If the crocodile is not slow, then Fiona is not reckless.",1,Contraposition,0.9897511005401611
+292,"If Fiona is not reckless, then the crocodile is not slow.","If Fiona is not reckless, then the crocodile is slow.",0,Contraposition,0.990816056728363
+293,"If Alan is funny, then the crocodile is smart.","If the crocodile is not smart, then Alan is not funny.",1,Contraposition,0.9618839621543884
+293,"If Alan is funny, then the crocodile is smart.","If Alan is funny, then the crocodile is not smart.",0,Contraposition,0.984847366809845
+293,"If Alan is funny, then the crocodile is not smart.","If the crocodile is smart, then Alan is not funny.",1,Contraposition,0.9902985692024231
+293,"If Alan is funny, then the crocodile is not smart.","If Alan is funny, then the crocodile is smart.",0,Contraposition,0.984847366809845
+293,"If Alan is not funny, then the crocodile is smart.","If the crocodile is not smart, then Alan is funny.",1,Contraposition,0.9914975762367249
+293,"If Alan is not funny, then the crocodile is smart.","If Alan is not funny, then the crocodile is not smart.",0,Contraposition,0.9917137622833252
+293,"If Alan is not funny, then the crocodile is not smart.","If the crocodile is not smart, then Alan is not funny.",1,Contraposition,0.9921090602874756
+293,"If Alan is not funny, then the crocodile is not smart.","If Alan is not funny, then the crocodile is smart.",0,Contraposition,0.9917137622833252
+294,"If the cat is tired, then the lion is reckless.","If the lion is not reckless, then the cat is not tired.",1,Contraposition,0.9808884859085083
+294,"If the cat is tired, then the lion is reckless.","If the cat is tired, then the lion is not reckless.",0,Contraposition,0.9834815859794617
+294,"If the cat is tired, then the lion is not reckless.","If the lion is reckless, then the cat is not tired.",1,Contraposition,0.9962036609649658
+294,"If the cat is tired, then the lion is not reckless.","If the cat is tired, then the lion is reckless.",0,Contraposition,0.9834815859794617
+294,"If the cat is not tired, then the lion is reckless.","If the lion is not reckless, then the cat is tired.",1,Contraposition,0.9954231977462769
+294,"If the cat is not tired, then the lion is reckless.","If the cat is not tired, then the lion is not reckless.",0,Contraposition,0.9865190386772156
+294,"If the cat is not tired, then the lion is not reckless.","If the lion is not reckless, then the cat is not tired.",1,Contraposition,0.9939184784889221
+294,"If the cat is not tired, then the lion is not reckless.","If the cat is not tired, then the lion is reckless.",0,Contraposition,0.9865190386772156
+295,"If the cat is smart, then Dave is round.","If Dave is not round, then the cat is not smart.",1,Contraposition,0.9769700765609741
+295,"If the cat is smart, then Dave is round.","If the cat is smart, then Dave is not round.",0,Contraposition,0.9900795221328735
+295,"If the cat is smart, then Dave is not round.","If Dave is round, then the cat is not smart.",1,Contraposition,0.992160975933075
+295,"If the cat is smart, then Dave is not round.","If the cat is smart, then Dave is round.",0,Contraposition,0.9900795221328735
+295,"If the cat is not smart, then Dave is round.","If Dave is not round, then the cat is smart.",1,Contraposition,0.9944559335708618
+295,"If the cat is not smart, then Dave is round.","If the cat is not smart, then Dave is not round.",0,Contraposition,0.9900689125061035
+295,"If the cat is not smart, then Dave is not round.","If Dave is not round, then the cat is not smart.",1,Contraposition,0.994498074054718
+295,"If the cat is not smart, then Dave is not round.","If the cat is not smart, then Dave is round.",0,Contraposition,0.9900689125061035
+296,"If the crocodile is big, then Anne is kind.","If Anne is not kind, then the crocodile is not big.",1,Contraposition,0.9725285172462463
+296,"If the crocodile is big, then Anne is kind.","If the crocodile is big, then Anne is not kind.",0,Contraposition,0.995111346244812
+296,"If the crocodile is big, then Anne is not kind.","If Anne is kind, then the crocodile is not big.",1,Contraposition,0.988306999206543
+296,"If the crocodile is big, then Anne is not kind.","If the crocodile is big, then Anne is kind.",0,Contraposition,0.995111346244812
+296,"If the crocodile is not big, then Anne is kind.","If Anne is not kind, then the crocodile is big.",1,Contraposition,0.9893217086791992
+296,"If the crocodile is not big, then Anne is kind.","If the crocodile is not big, then Anne is not kind.",0,Contraposition,0.9970239996910095
+296,"If the crocodile is not big, then Anne is not kind.","If Anne is not kind, then the crocodile is not big.",1,Contraposition,0.9892329573631287
+296,"If the crocodile is not big, then Anne is not kind.","If the crocodile is not big, then Anne is kind.",0,Contraposition,0.9970239996910095
+297,"If the mouse is clever, then Anne is lazy.","If Anne is not lazy, then the mouse is not clever.",1,Contraposition,0.9830604791641235
+297,"If the mouse is clever, then Anne is lazy.","If the mouse is clever, then Anne is not lazy.",0,Contraposition,0.9914077520370483
+297,"If the mouse is clever, then Anne is not lazy.","If Anne is lazy, then the mouse is not clever.",1,Contraposition,0.9978783130645752
+297,"If the mouse is clever, then Anne is not lazy.","If the mouse is clever, then Anne is lazy.",0,Contraposition,0.9914077520370483
+297,"If the mouse is not clever, then Anne is lazy.","If Anne is not lazy, then the mouse is clever.",1,Contraposition,0.9953654408454895
+297,"If the mouse is not clever, then Anne is lazy.","If the mouse is not clever, then Anne is not lazy.",0,Contraposition,0.9932264089584351
+297,"If the mouse is not clever, then Anne is not lazy.","If Anne is not lazy, then the mouse is not clever.",1,Contraposition,0.9975959062576294
+297,"If the mouse is not clever, then Anne is not lazy.","If the mouse is not clever, then Anne is lazy.",0,Contraposition,0.9932264089584351
+298,"If Charlie is dull, then the squirrel is thin.","If the squirrel is not thin, then Charlie is not dull.",1,Contraposition,0.9797316193580627
+298,"If Charlie is dull, then the squirrel is thin.","If Charlie is dull, then the squirrel is not thin.",0,Contraposition,0.9951555132865906
+298,"If Charlie is dull, then the squirrel is not thin.","If the squirrel is thin, then Charlie is not dull.",1,Contraposition,0.9970170259475708
+298,"If Charlie is dull, then the squirrel is not thin.","If Charlie is dull, then the squirrel is thin.",0,Contraposition,0.9951555132865906
+298,"If Charlie is not dull, then the squirrel is thin.","If the squirrel is not thin, then Charlie is dull.",1,Contraposition,0.997269868850708
+298,"If Charlie is not dull, then the squirrel is thin.","If Charlie is not dull, then the squirrel is not thin.",0,Contraposition,0.9962617754936218
+298,"If Charlie is not dull, then the squirrel is not thin.","If the squirrel is not thin, then Charlie is not dull.",1,Contraposition,0.9950487613677979
+298,"If Charlie is not dull, then the squirrel is not thin.","If Charlie is not dull, then the squirrel is thin.",0,Contraposition,0.9962617754936218
+299,"If the dinosaur is beautiful, then the crocodile is strong.","If the crocodile is not strong, then the dinosaur is not beautiful.",1,Contraposition,0.9818089604377747
+299,"If the dinosaur is beautiful, then the crocodile is strong.","If the dinosaur is beautiful, then the crocodile is not strong.",0,Contraposition,0.993547260761261
+299,"If the dinosaur is beautiful, then the crocodile is not strong.","If the crocodile is strong, then the dinosaur is not beautiful.",1,Contraposition,0.9964690208435059
+299,"If the dinosaur is beautiful, then the crocodile is not strong.","If the dinosaur is beautiful, then the crocodile is strong.",0,Contraposition,0.993547260761261
+299,"If the dinosaur is not beautiful, then the crocodile is strong.","If the crocodile is not strong, then the dinosaur is beautiful.",1,Contraposition,0.9971218109130859
+299,"If the dinosaur is not beautiful, then the crocodile is strong.","If the dinosaur is not beautiful, then the crocodile is not strong.",0,Contraposition,0.9951637983322144
+299,"If the dinosaur is not beautiful, then the crocodile is not strong.","If the crocodile is not strong, then the dinosaur is not beautiful.",1,Contraposition,0.9966757297515869
+299,"If the dinosaur is not beautiful, then the crocodile is not strong.","If the dinosaur is not beautiful, then the crocodile is strong.",0,Contraposition,0.9951637983322144
+300,"If Fiona is powerful, then Charlie is boring.",Fiona is powerful or Charlie is boring.,1,Contraposition,0.8785139322280884
+300,"If Fiona is powerful, then Charlie is boring.",Fiona is not powerful or Charlie is not boring.,0,Contraposition,0.17951351404190063
+301,"If the bear is cute, then Charlie is funny.",the bear is cute or Charlie is funny.,1,Contraposition,0.750415027141571
+301,"If the bear is cute, then Charlie is funny.",the bear is not cute or Charlie is not funny.,0,Contraposition,0.4515116214752197
+302,"If Anne is angry, then the snake is high.",Anne is angry or the snake is high.,1,Contraposition,0.9305074214935303
+302,"If Anne is angry, then the snake is high.",Anne is not angry or the snake is not high.,0,Contraposition,-0.3215140998363495
+303,"If Gary is horrible, then the leopard is smart.",Gary is horrible or the leopard is smart.,1,Contraposition,0.8535629510879517
+303,"If Gary is horrible, then the leopard is smart.",Gary is not horrible or the leopard is not smart.,0,Contraposition,-0.4581885039806366
+304,"If the wolf is powerful, then Bob is thin.",the wolf is powerful or Bob is thin.,1,Contraposition,0.8607206344604492
+304,"If the wolf is powerful, then Bob is thin.",the wolf is not powerful or Bob is not thin.,0,Contraposition,0.2153024524450302
+305,"If Anne is small, then the dog is little.",Anne is small or the dog is little.,1,Contraposition,0.9527222514152527
+305,"If Anne is small, then the dog is little.",Anne is not small or the dog is not little.,0,Contraposition,0.6305069327354431
+306,"If Erin is thin, then the dog is awful.",Erin is thin or the dog is awful.,1,Contraposition,0.8111947178840637
+306,"If Erin is thin, then the dog is awful.",Erin is not thin or the dog is not awful.,0,Contraposition,-0.3600543439388275
+307,"If the bald eagle is sad, then Charlie is smart.",the bald eagle is sad or Charlie is smart.,1,Contraposition,0.7929304242134094
+307,"If the bald eagle is sad, then Charlie is smart.",the bald eagle is not sad or Charlie is not smart.,0,Contraposition,-0.4350860118865967
+308,"If the tiger is rough, then the cat is angry.",the tiger is rough or the cat is angry.,1,Contraposition,0.7853091955184937
+308,"If the tiger is rough, then the cat is angry.",the tiger is not rough or the cat is not angry.,0,Contraposition,0.33788782358169556
+309,"If Gary is sleepy, then the crocodile is tiny.",Gary is sleepy or the crocodile is tiny.,1,Contraposition,0.8729268908500671
+309,"If Gary is sleepy, then the crocodile is tiny.",Gary is not sleepy or the crocodile is not tiny.,0,Contraposition,-0.3418855369091034
+310,"If the snake is sleepy, then Charlie is bad.",the snake is sleepy or Charlie is bad.,1,Contraposition,0.8999364972114563
+310,"If the snake is sleepy, then Charlie is bad.",the snake is not sleepy or Charlie is not bad.,0,Contraposition,0.06374254077672958
+311,"If Charlie is high, then the snake is dull.",Charlie is high or the snake is dull.,1,Contraposition,0.9453594088554382
+311,"If Charlie is high, then the snake is dull.",Charlie is not high or the snake is not dull.,0,Contraposition,0.5879853367805481
+312,"If Erin is strong, then the tiger is furry.",Erin is strong or the tiger is furry.,1,Contraposition,0.9328904747962952
+312,"If Erin is strong, then the tiger is furry.",Erin is not strong or the tiger is not furry.,0,Contraposition,-0.16727527976036072
+313,"If Alan is lazy, then Harry is quiet.",Alan is lazy or Harry is quiet.,1,Contraposition,0.35311049222946167
+313,"If Alan is lazy, then Harry is quiet.",Alan is not lazy or Harry is not quiet.,0,Contraposition,-0.4472455680370331
+314,"If Gary is huge, then the wolf is cute.",Gary is huge or the wolf is cute.,1,Contraposition,0.8542006015777588
+314,"If Gary is huge, then the wolf is cute.",Gary is not huge or the wolf is not cute.,0,Contraposition,-0.24704228341579437
+315,"If the leopard is bad, then the rabbit is nice.",the leopard is bad or the rabbit is nice.,1,Contraposition,0.7755486965179443
+315,"If the leopard is bad, then the rabbit is nice.",the leopard is not bad or the rabbit is not nice.,0,Contraposition,0.25669974088668823
+316,"If the tiger is funny, then the dinosaur is tired.",the tiger is funny or the dinosaur is tired.,1,Contraposition,0.8165777325630188
+316,"If the tiger is funny, then the dinosaur is tired.",the tiger is not funny or the dinosaur is not tired.,0,Contraposition,0.14905279874801636
+317,"If Gary is dull, then Bob is cute.",Gary is dull or Bob is cute.,1,Contraposition,0.41970518231391907
+317,"If Gary is dull, then Bob is cute.",Gary is not dull or Bob is not cute.,0,Contraposition,-0.4673630893230438
+318,"If Gary is cute, then the snake is rough.",Gary is cute or the snake is rough.,1,Contraposition,0.8381106853485107
+318,"If Gary is cute, then the snake is rough.",Gary is not cute or the snake is not rough.,0,Contraposition,-0.35105425119400024
+319,"If the rabbit is strong, then the mouse is heavy.",the rabbit is strong or the mouse is heavy.,1,Contraposition,0.8480128049850464
+319,"If the rabbit is strong, then the mouse is heavy.",the rabbit is not strong or the mouse is not heavy.,0,Contraposition,0.6035907864570618
+320,"If the bald eagle is dull, then the leopard is fierce.",the bald eagle is dull or the leopard is fierce.,1,Contraposition,0.7727879881858826
+320,"If the bald eagle is dull, then the leopard is fierce.",the bald eagle is not dull or the leopard is not fierce.,0,Contraposition,-0.0853777825832367
+321,"If Erin is awful, then Harry is quiet.",Erin is awful or Harry is quiet.,1,Contraposition,-0.19562070071697235
+321,"If Erin is awful, then Harry is quiet.",Erin is not awful or Harry is not quiet.,0,Contraposition,-0.3968295156955719
+322,"If the cat is short, then the bear is little.",the cat is short or the bear is little.,1,Contraposition,0.8992787599563599
+322,"If the cat is short, then the bear is little.",the cat is not short or the bear is not little.,0,Contraposition,0.5368005633354187
+323,"If Charlie is little, then Fiona is high.",Charlie is little or Fiona is high.,1,Contraposition,0.8799940347671509
+323,"If Charlie is little, then Fiona is high.",Charlie is not little or Fiona is not high.,0,Contraposition,-0.3502568006515503
+324,"If the squirrel is kind, then Anne is slow.",the squirrel is kind or Anne is slow.,1,Contraposition,0.8790101408958435
+324,"If the squirrel is kind, then Anne is slow.",the squirrel is not kind or Anne is not slow.,0,Contraposition,0.7738023996353149
+325,"If Alan is big, then the mouse is kind.",Alan is big or the mouse is kind.,1,Contraposition,0.9039613604545593
+325,"If Alan is big, then the mouse is kind.",Alan is not big or the mouse is not kind.,0,Contraposition,0.006686107721179724
+326,"If the lion is rough, then Gary is dull.",the lion is rough or Gary is dull.,1,Contraposition,0.5799711346626282
+326,"If the lion is rough, then Gary is dull.",the lion is not rough or Gary is not dull.,0,Contraposition,-0.2736656963825226
+327,"If Dave is powerful, then the bald eagle is huge.",Dave is powerful or the bald eagle is huge.,1,Contraposition,0.37616822123527527
+327,"If Dave is powerful, then the bald eagle is huge.",Dave is not powerful or the bald eagle is not huge.,0,Contraposition,-0.28346309065818787
+328,"If the mouse is high, then the squirrel is small.",the mouse is high or the squirrel is small.,1,Contraposition,0.8942601084709167
+328,"If the mouse is high, then the squirrel is small.",the mouse is not high or the squirrel is not small.,0,Contraposition,0.7714298367500305
+329,"If Dave is poor, then the dinosaur is tired.",Dave is poor or the dinosaur is tired.,1,Contraposition,0.5651180148124695
+329,"If Dave is poor, then the dinosaur is tired.",Dave is not poor or the dinosaur is not tired.,0,Contraposition,-0.30087316036224365
+330,"If Dave is fierce, then Erin is reckless.",Dave is fierce or Erin is reckless.,1,Contraposition,-0.04644221067428589
+330,"If Dave is fierce, then Erin is reckless.",Dave is not fierce or Erin is not reckless.,0,Contraposition,-0.4551674723625183
+331,"If the lion is huge, then the mouse is short.",the lion is huge or the mouse is short.,1,Contraposition,0.8089569211006165
+331,"If the lion is huge, then the mouse is short.",the lion is not huge or the mouse is not short.,0,Contraposition,0.34452950954437256
+332,"If Fiona is round, then Gary is cute.",Fiona is round or Gary is cute.,1,Contraposition,-0.0803634375333786
+332,"If Fiona is round, then Gary is cute.",Fiona is not round or Gary is not cute.,0,Contraposition,-0.48623013496398926
+333,"If the dog is round, then Alan is tired.",the dog is round or Alan is tired.,1,Contraposition,0.2897174656391144
+333,"If the dog is round, then Alan is tired.",the dog is not round or Alan is not tired.,0,Contraposition,-0.18796750903129578
+334,"If Anne is horrible, then the rabbit is heavy.",Anne is horrible or the rabbit is heavy.,1,Contraposition,0.9362647533416748
+334,"If Anne is horrible, then the rabbit is heavy.",Anne is not horrible or the rabbit is not heavy.,0,Contraposition,-0.3000287115573883
+335,"If Dave is sad, then the mouse is nice.",Dave is sad or the mouse is nice.,1,Contraposition,0.6912511587142944
+335,"If Dave is sad, then the mouse is nice.",Dave is not sad or the mouse is not nice.,0,Contraposition,-0.4427700340747833
+336,"If the squirrel is dull, then Alan is huge.",the squirrel is dull or Alan is huge.,1,Contraposition,0.8045018315315247
+336,"If the squirrel is dull, then Alan is huge.",the squirrel is not dull or Alan is not huge.,0,Contraposition,0.3956473767757416
+337,"If the dog is lovely, then Anne is strong.",the dog is lovely or Anne is strong.,1,Contraposition,0.7944464683532715
+337,"If the dog is lovely, then Anne is strong.",the dog is not lovely or Anne is not strong.,0,Contraposition,0.7412444353103638
+338,"If Alan is small, then the rabbit is wealthy.",Alan is small or the rabbit is wealthy.,1,Contraposition,0.9432230591773987
+338,"If Alan is small, then the rabbit is wealthy.",Alan is not small or the rabbit is not wealthy.,0,Contraposition,-0.13951030373573303
+339,"If the leopard is sleepy, then the lion is lovely.",the leopard is sleepy or the lion is lovely.,1,Contraposition,0.24287155270576477
+339,"If the leopard is sleepy, then the lion is lovely.",the leopard is not sleepy or the lion is not lovely.,0,Contraposition,-0.46239593625068665
+340,"If Anne is fierce, then the dinosaur is angry.",Anne is fierce or the dinosaur is angry.,1,Contraposition,0.7866289019584656
+340,"If Anne is fierce, then the dinosaur is angry.",Anne is not fierce or the dinosaur is not angry.,0,Contraposition,-0.17149993777275085
+341,"If the mouse is short, then the lion is fierce.",the mouse is short or the lion is fierce.,1,Contraposition,0.8663344383239746
+341,"If the mouse is short, then the lion is fierce.",the mouse is not short or the lion is not fierce.,0,Contraposition,-0.3176376521587372
+342,"If the tiger is sad, then Charlie is poor.",the tiger is sad or Charlie is poor.,1,Contraposition,0.908166229724884
+342,"If the tiger is sad, then Charlie is poor.",the tiger is not sad or Charlie is not poor.,0,Contraposition,0.6609100699424744
+343,"If the cat is reckless, then the crocodile is sleepy.",the cat is reckless or the crocodile is sleepy.,1,Contraposition,0.7721844911575317
+343,"If the cat is reckless, then the crocodile is sleepy.",the cat is not reckless or the crocodile is not sleepy.,0,Contraposition,-0.1349322497844696
+344,"If the cat is wealthy, then the dinosaur is lovely.",the cat is wealthy or the dinosaur is lovely.,1,Contraposition,0.8540762662887573
+344,"If the cat is wealthy, then the dinosaur is lovely.",the cat is not wealthy or the dinosaur is not lovely.,0,Contraposition,0.4030836522579193
+345,"If the crocodile is reckless, then the wolf is short.",the crocodile is reckless or the wolf is short.,1,Contraposition,0.8403626680374146
+345,"If the crocodile is reckless, then the wolf is short.",the crocodile is not reckless or the wolf is not short.,0,Contraposition,0.7123072743415833
+346,"If the leopard is rough, then the bald eagle is smart.",the leopard is rough or the bald eagle is smart.,1,Contraposition,0.1566607803106308
+346,"If the leopard is rough, then the bald eagle is smart.",the leopard is not rough or the bald eagle is not smart.,0,Contraposition,-0.4450974464416504
+347,"If the dog is slow, then Bob is awful.",the dog is slow or Bob is awful.,1,Contraposition,0.831017255783081
+347,"If the dog is slow, then Bob is awful.",the dog is not slow or Bob is not awful.,0,Contraposition,0.10037721693515778
+348,"If the rabbit is round, then the leopard is dull.",the rabbit is round or the leopard is dull.,1,Contraposition,0.8452409505844116
+348,"If the rabbit is round, then the leopard is dull.",the rabbit is not round or the leopard is not dull.,0,Contraposition,0.8488567471504211
+349,"If the bald eagle is furry, then Gary is powerful.",the bald eagle is furry or Gary is powerful.,1,Contraposition,0.32082581520080566
+349,"If the bald eagle is furry, then Gary is powerful.",the bald eagle is not furry or Gary is not powerful.,0,Contraposition,-0.24829241633415222
+350,"If Charlie is round, then the crocodile is sad.",Charlie is round or the crocodile is sad.,1,Contraposition,0.34250450134277344
+350,"If Charlie is round, then the crocodile is sad.",Charlie is not round or the crocodile is not sad.,0,Contraposition,-0.40058794617652893
+351,"If the snake is awful, then Anne is tiny.",the snake is awful or Anne is tiny.,1,Contraposition,0.8636260032653809
+351,"If the snake is awful, then Anne is tiny.",the snake is not awful or Anne is not tiny.,0,Contraposition,0.649616003036499
+352,"If the lion is quiet, then the wolf is beautiful.",the lion is quiet or the wolf is beautiful.,1,Contraposition,0.752569317817688
+352,"If the lion is quiet, then the wolf is beautiful.",the lion is not quiet or the wolf is not beautiful.,0,Contraposition,0.5855199098587036
+353,"If the crocodile is tired, then Bob is rough.",the crocodile is tired or Bob is rough.,1,Contraposition,0.8858957290649414
+353,"If the crocodile is tired, then Bob is rough.",the crocodile is not tired or Bob is not rough.,0,Contraposition,-0.22502098977565765
+354,"If Bob is powerful, then Harry is thin.",Bob is powerful or Harry is thin.,1,Contraposition,0.5266944766044617
+354,"If Bob is powerful, then Harry is thin.",Bob is not powerful or Harry is not thin.,0,Contraposition,-0.4373631179332733
+355,"If the cat is fierce, then Alan is strong.",the cat is fierce or Alan is strong.,1,Contraposition,0.7859241366386414
+355,"If the cat is fierce, then Alan is strong.",the cat is not fierce or Alan is not strong.,0,Contraposition,0.024724779650568962
+356,"If Anne is nice, then the snake is quiet.",Anne is nice or the snake is quiet.,1,Contraposition,0.8939038515090942
+356,"If Anne is nice, then the snake is quiet.",Anne is not nice or the snake is not quiet.,0,Contraposition,0.07492711395025253
+357,"If the wolf is reckless, then Gary is kind.",the wolf is reckless or Gary is kind.,1,Contraposition,0.7598119974136353
+357,"If the wolf is reckless, then Gary is kind.",the wolf is not reckless or Gary is not kind.,0,Contraposition,-0.15664896368980408
+358,"If Gary is sleepy, then the mouse is fierce.",Gary is sleepy or the mouse is fierce.,1,Contraposition,0.7048606276512146
+358,"If Gary is sleepy, then the mouse is fierce.",Gary is not sleepy or the mouse is not fierce.,0,Contraposition,-0.5014498233795166
+359,"If the cat is powerful, then the dinosaur is awful.",the cat is powerful or the dinosaur is awful.,1,Contraposition,0.8033196926116943
+359,"If the cat is powerful, then the dinosaur is awful.",the cat is not powerful or the dinosaur is not awful.,0,Contraposition,0.753898024559021
+360,"If the bald eagle is rough, then the squirrel is rough.",the bald eagle is rough or the squirrel is rough.,1,Contraposition,0.7763076424598694
+360,"If the bald eagle is rough, then the squirrel is rough.",the bald eagle is not rough or the squirrel is not rough.,0,Contraposition,0.6658626198768616
+361,"If Bob is awful, then Fiona is small.",Bob is awful or Fiona is small.,1,Contraposition,0.9068317413330078
+361,"If Bob is awful, then Fiona is small.",Bob is not awful or Fiona is not small.,0,Contraposition,-0.28185582160949707
+362,"If Alan is huge, then the bear is rough.",Alan is huge or the bear is rough.,1,Contraposition,0.926975429058075
+362,"If Alan is huge, then the bear is rough.",Alan is not huge or the bear is not rough.,0,Contraposition,-0.10447689145803452
+363,"If the wolf is quiet, then the squirrel is kind.",the wolf is quiet or the squirrel is kind.,1,Contraposition,0.8492693901062012
+363,"If the wolf is quiet, then the squirrel is kind.",the wolf is not quiet or the squirrel is not kind.,0,Contraposition,0.696211040019989
+364,"If Charlie is sad, then the lion is sleepy.",Charlie is sad or the lion is sleepy.,1,Contraposition,0.8585302829742432
+364,"If Charlie is sad, then the lion is sleepy.",Charlie is not sad or the lion is not sleepy.,0,Contraposition,0.04242611676454544
+365,"If the dinosaur is beautiful, then the dog is tiny.",the dinosaur is beautiful or the dog is tiny.,1,Contraposition,0.7990476489067078
+365,"If the dinosaur is beautiful, then the dog is tiny.",the dinosaur is not beautiful or the dog is not tiny.,0,Contraposition,0.7506012320518494
+366,"If Anne is dull, then the tiger is reckless.",Anne is dull or the tiger is reckless.,1,Contraposition,0.14124049246311188
+366,"If Anne is dull, then the tiger is reckless.",Anne is not dull or the tiger is not reckless.,0,Contraposition,-0.4462048411369324
+367,"If Dave is smart, then the snake is tired.",Dave is smart or the snake is tired.,1,Contraposition,0.6077329516410828
+367,"If Dave is smart, then the snake is tired.",Dave is not smart or the snake is not tired.,0,Contraposition,0.23908142745494843
+368,"If the bald eagle is rough, then the crocodile is high.",the bald eagle is rough or the crocodile is high.,1,Contraposition,0.9119777083396912
+368,"If the bald eagle is rough, then the crocodile is high.",the bald eagle is not rough or the crocodile is not high.,0,Contraposition,0.4802106022834778
+369,"If the bear is little, then the crocodile is funny.",the bear is little or the crocodile is funny.,1,Contraposition,0.396961510181427
+369,"If the bear is little, then the crocodile is funny.",the bear is not little or the crocodile is not funny.,0,Contraposition,-0.04715535044670105
+370,"If the rabbit is dull, then the dog is thin.",the rabbit is dull or the dog is thin.,1,Contraposition,0.9046127200126648
+370,"If the rabbit is dull, then the dog is thin.",the rabbit is not dull or the dog is not thin.,0,Contraposition,0.7974523901939392
+371,"If the mouse is little, then the squirrel is boring.",the mouse is little or the squirrel is boring.,1,Contraposition,0.9045669436454773
+371,"If the mouse is little, then the squirrel is boring.",the mouse is not little or the squirrel is not boring.,0,Contraposition,0.8232569098472595
+372,"If Harry is thin, then the dinosaur is powerful.",Harry is thin or the dinosaur is powerful.,1,Contraposition,0.9323273301124573
+372,"If Harry is thin, then the dinosaur is powerful.",Harry is not thin or the dinosaur is not powerful.,0,Contraposition,-0.14708459377288818
+373,"If the crocodile is tiny, then Anne is kind.",the crocodile is tiny or Anne is kind.,1,Contraposition,0.8782232999801636
+373,"If the crocodile is tiny, then Anne is kind.",the crocodile is not tiny or Anne is not kind.,0,Contraposition,0.45569169521331787
+374,"If the wolf is small, then the mouse is strong.",the wolf is small or the mouse is strong.,1,Contraposition,0.8377431631088257
+374,"If the wolf is small, then the mouse is strong.",the wolf is not small or the mouse is not strong.,0,Contraposition,0.3687454164028168
+375,"If the mouse is rough, then Alan is angry.",the mouse is rough or Alan is angry.,1,Contraposition,0.7615923881530762
+375,"If the mouse is rough, then Alan is angry.",the mouse is not rough or Alan is not angry.,0,Contraposition,0.1938917338848114
+376,"If the cat is wealthy, then the rabbit is dull.",the cat is wealthy or the rabbit is dull.,1,Contraposition,0.8853135704994202
+376,"If the cat is wealthy, then the rabbit is dull.",the cat is not wealthy or the rabbit is not dull.,0,Contraposition,0.7899789810180664
+377,"If Gary is reckless, then Anne is awful.",Gary is reckless or Anne is awful.,1,Contraposition,0.451064795255661
+377,"If Gary is reckless, then Anne is awful.",Gary is not reckless or Anne is not awful.,0,Contraposition,-0.2919892370700836
+378,"If Alan is poor, then the tiger is lovely.",Alan is poor or the tiger is lovely.,1,Contraposition,0.3456989824771881
+378,"If Alan is poor, then the tiger is lovely.",Alan is not poor or the tiger is not lovely.,0,Contraposition,-0.551672101020813
+379,"If the leopard is fierce, then the snake is round.",the leopard is fierce or the snake is round.,1,Contraposition,0.7950201630592346
+379,"If the leopard is fierce, then the snake is round.",the leopard is not fierce or the snake is not round.,0,Contraposition,0.44178399443626404
+380,"If Anne is reckless, then Dave is quiet.",Anne is reckless or Dave is quiet.,1,Contraposition,0.1657872498035431
+380,"If Anne is reckless, then Dave is quiet.",Anne is not reckless or Dave is not quiet.,0,Contraposition,-0.4220244586467743
+381,"If Bob is fierce, then Fiona is dull.",Bob is fierce or Fiona is dull.,1,Contraposition,0.776980996131897
+381,"If Bob is fierce, then Fiona is dull.",Bob is not fierce or Fiona is not dull.,0,Contraposition,-0.41399404406547546
+382,"If Alan is clever, then the bear is angry.",Alan is clever or the bear is angry.,1,Contraposition,0.8247883319854736
+382,"If Alan is clever, then the bear is angry.",Alan is not clever or the bear is not angry.,0,Contraposition,-0.3907351791858673
+383,"If the bald eagle is slow, then the rabbit is lovely.",the bald eagle is slow or the rabbit is lovely.,1,Contraposition,0.650079071521759
+383,"If the bald eagle is slow, then the rabbit is lovely.",the bald eagle is not slow or the rabbit is not lovely.,0,Contraposition,-0.015652971342206
+384,"If the cat is slow, then the wolf is nice.",the cat is slow or the wolf is nice.,1,Contraposition,0.8448137640953064
+384,"If the cat is slow, then the wolf is nice.",the cat is not slow or the wolf is not nice.,0,Contraposition,0.7005084753036499
+385,"If the bear is rough, then the dinosaur is awful.",the bear is rough or the dinosaur is awful.,1,Contraposition,0.8255193829536438
+385,"If the bear is rough, then the dinosaur is awful.",the bear is not rough or the dinosaur is not awful.,0,Contraposition,0.7578064203262329
+386,"If the squirrel is lazy, then Anne is big.",the squirrel is lazy or Anne is big.,1,Contraposition,0.8541001677513123
+386,"If the squirrel is lazy, then Anne is big.",the squirrel is not lazy or Anne is not big.,0,Contraposition,0.8614023923873901
+387,"If Gary is clever, then Anne is powerful.",Gary is clever or Anne is powerful.,1,Contraposition,0.9100179076194763
+387,"If Gary is clever, then Anne is powerful.",Gary is not clever or Anne is not powerful.,0,Contraposition,-0.06024659797549248
+388,"If the bear is dull, then the snake is wealthy.",the bear is dull or the snake is wealthy.,1,Contraposition,0.8810427188873291
+388,"If the bear is dull, then the snake is wealthy.",the bear is not dull or the snake is not wealthy.,0,Contraposition,0.5824207663536072
+389,"If Gary is dull, then Alan is sleepy.",Gary is dull or Alan is sleepy.,1,Contraposition,0.17974983155727386
+389,"If Gary is dull, then Alan is sleepy.",Gary is not dull or Alan is not sleepy.,0,Contraposition,-0.3923041820526123
+390,"If Bob is dull, then Dave is boring.",Bob is dull or Dave is boring.,1,Contraposition,0.4294802248477936
+390,"If Bob is dull, then Dave is boring.",Bob is not dull or Dave is not boring.,0,Contraposition,-0.35167577862739563
+391,"If the rabbit is beautiful, then Erin is little.",the rabbit is beautiful or Erin is little.,1,Contraposition,0.6653810739517212
+391,"If the rabbit is beautiful, then Erin is little.",the rabbit is not beautiful or Erin is not little.,0,Contraposition,0.018307043239474297
+392,"If Gary is lazy, then the dog is rough.",Gary is lazy or the dog is rough.,1,Contraposition,0.8817578554153442
+392,"If Gary is lazy, then the dog is rough.",Gary is not lazy or the dog is not rough.,0,Contraposition,-0.28100547194480896
+393,"If the cat is awful, then the wolf is sad.",the cat is awful or the wolf is sad.,1,Contraposition,0.7918833494186401
+393,"If the cat is awful, then the wolf is sad.",the cat is not awful or the wolf is not sad.,0,Contraposition,0.5001235604286194
+394,"If Erin is big, then Fiona is lazy.",Erin is big or Fiona is lazy.,1,Contraposition,0.1905994415283203
+394,"If Erin is big, then Fiona is lazy.",Erin is not big or Fiona is not lazy.,0,Contraposition,-0.4447912871837616
+395,"If the dog is huge, then the mouse is wealthy.",the dog is huge or the mouse is wealthy.,1,Contraposition,0.8407515287399292
+395,"If the dog is huge, then the mouse is wealthy.",the dog is not huge or the mouse is not wealthy.,0,Contraposition,0.3957683742046356
+396,"If the snake is thin, then the dog is funny.",the snake is thin or the dog is funny.,1,Contraposition,0.8155972957611084
+396,"If the snake is thin, then the dog is funny.",the snake is not thin or the dog is not funny.,0,Contraposition,-0.09573821723461151
+397,"If Anne is lazy, then the snake is beautiful.",Anne is lazy or the snake is beautiful.,1,Contraposition,0.22990082204341888
+397,"If Anne is lazy, then the snake is beautiful.",Anne is not lazy or the snake is not beautiful.,0,Contraposition,-0.4021439850330353
+398,"If the dinosaur is boring, then the lion is sad.",the dinosaur is boring or the lion is sad.,1,Contraposition,0.8135933876037598
+398,"If the dinosaur is boring, then the lion is sad.",the dinosaur is not boring or the lion is not sad.,0,Contraposition,0.409980446100235
+399,"If the cat is awful, then the bear is short.",the cat is awful or the bear is short.,1,Contraposition,0.8499904274940491
+399,"If the cat is awful, then the bear is short.",the cat is not awful or the bear is not short.,0,Contraposition,0.6542167663574219

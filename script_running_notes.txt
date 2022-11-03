@@ -1,0 +1,1171 @@
+2977136  BBC/Cosmos/RACE/logiqa-roberta-large-baseline/roberta-large-mnli/roberta-reclor-logical-equivalence-lreasoner/our-model-roberta-large-pararule-depth-1/our-model-roberta-large-v5-mnli/our-model-pararule-plus-logic-equivalence-depth-1-v4
+2979905  ReClor/LogiQA/synthetic/logiqa-roberta-large-our-amr-method/our-model-roberta-large-mnli/RoBERTa-large-lreasoner-sst2/lreasoner-roberta-large-pararule-depth-1/our-model-roberta-large-v3-mrpc/our-model-roberta-large-v4-rte/our-model-roberta-large-v4-qnli-bs-32/our-model-rte-v5/our-model-qqp-v5/lreasoner-pararule-plus-depth-1
+1017037  Cosmos/roberta-large-stsb/RoBERTa-large-mrpc/RoBERTa-large-qqp/RoBERTa-large-lreasoner-qqp/roberta-large-qnli-bs-8/roberta-large-pararule-bs-16/our-model-roberta-large-v2-rte/our-model-reclor-v4/our-model-logiqa-v5/lreasoner-reclor-bs-1/our-model-pararule-plus-depth-1-v4
+1017825  Wikihop/roberta-large-synthetic-pretraining/roberta-logical-equivalence-reclor/roberta-reclor/our-model-RoBERTa-large-mrpc/synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp/RoBERTa-large-lreasoner-qnli/roberta-large-qnli-bs-16-max-length-128/roberta-large-pararule-bs-16-lr-5e-5/our-model-roberta-large-v4-qnli/our-model-qnli-v5/lreasoner-pararule-plus-logical-equivalence-depth-1
+220314   RoBERTa-large-rte/synthetic-logical-equivalence-finetuned-RoBERTa-large-rte/RoBERTa-large-wnli/RoBERTa-large-qnli/RoBERTa-large-Lreasoner-wnli/roberta-large-rte-bs-16/roberta-large-qnli-bs-16/roberta-large-pararule-bs-8-lr-5e-5/roberta-large-qnli-bs-16-max-length-128/roberta-large-pararule-bs-16-lr-5e-5/our-model-roberta-large-v4-qqp/roberta-large-pararule-plus-depth-1
+223070   synthetic-logical-equivalence-finetuned-RoBERTa-large-wnli/synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli/RoBERTa-large-Lreasoner-RTE/roberta-large-lreasoner-logical-equivalence-logicqa/roberta-large-pararule-depth-1/our-model-qqp-v4/roberta-large-pararule-plus-depth-1-logical-equivalence
+682487   RoBERTa-large-cola/RoBERTa-large-SST2/RoBERTa-large-LReasoner-MNLI/our-method-roberta-large-rte-bs-16/our-method-roberta-large-qnli-bs-16/
+685058   synthetic-logical-equivalence-finetuned-RoBERTa-large-cola/synthetic-logical-equivalence-finetuned-RoBERTa-large-sst2/RoBERTa-large-LReasoner-MRPC/lreasoner-roberta-large-qnli-bs-16/roberta-large-qnli-bs-32/our-model-reclor-v5-bs-1/
+
+g.triples.remove((z5, ':polarity', '-'))
+
+z0 = swap_condition[0]
+
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../Synthetic_xfm_t5wtense_logical_equivalence_train.csv \
+  --validation_file ../Synthetic_xfm_t5wtense_logical_equivalence_validation.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/roberta-large/
+
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-2
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_our_model_logical_equivalence_train_version2.csv \
+  --validation_file ../output_result/Synthetic_our_model_logical_equivalence_validation_version2.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 30 \
+  --output_dir Transformers/roberta-large-our-model-v2/
+
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-3
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v3.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v3.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 30 \
+  --output_dir Transformers/roberta-large-our-model-v3/
+
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-4
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v4.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v4.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 30 \
+  --output_dir Transformers/roberta-large-our-model-v4/
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-5
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v5.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v5.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 30 \
+  --output_dir Transformers/roberta-large-our-model-v5/
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-lreasoner
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_train.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/roberta-large-lreasoner/
+##################################################################################################
+
+### RoBERTa-large-MNLI
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v2/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v3
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v3/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v3/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v4
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v5
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v5/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+### RoBERTa-large-stsb
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name stsb \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/stsb/roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-stsb
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name stsb \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/stsb/synthetic-logical-equivalence-finetuned-roberta-large/
+##################################################################################################
+
+### RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-logical-equivalence-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v2/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-logical-equivalence-finetuned-roberta-large-v2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v3/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-logical-equivalence-finetuned-roberta-large-v3/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-logical-equivalence-finetuned-roberta-large-v4/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-logical-equivalence-finetuned-roberta-large-v5/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+
+### RoBERTa-large-rte
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/roberta-large-bs-16/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-16/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v2/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v2/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v5/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large-bs-16/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-v4
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-32-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-v5
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-32-v5/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+### RoBERTa-large-wnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name wnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/wnli/roberta-large/
+
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-wnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name wnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/wnli/synthetic-logical-equivalence-finetuned-roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-wnli-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name wnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/wnli/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+
+## RoBERTa-large-qnli-trainer
+python run_glue.py \
+  --model_name_or_path roberta-large \
+  --task_name qnli \
+  --do_train \
+  --do_eval \
+  --max_seq_length 128 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-trainer-bs-32/
+
+### RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 8 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-bs-8/
+
+
+### RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name qnli \
+  --max_length 128 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-bs-16-max_length-128/
+
+### RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 5e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-bs-16-lr-5e-5/
+
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-bs-16/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-16/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v2/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v2/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v3/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v3/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large-bs-16/
+
+### RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large/
+
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-32-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-32-v5/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+
+### RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/roberta-large/
+
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v2/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v3/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v3/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 20 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-v4-bs-16
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v4-bs-16/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 20 \
+  --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v5/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+
+### RoBERTa-large-cola
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name cola \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/cola/roberta-large/
+
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-cola
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name cola \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/cola/synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+
+### RoBERTa-large-SST2
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path roberta-large \
+  --task_name sst2 \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/sst2/roberta-large/
+
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-sst2
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large/ \
+  --task_name sst2 \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/sst2/synthetic-logical-equivalence-finetuned-roberta-large/
+
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-sst2-lreasoner
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --task_name sst2 \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/sst2/lreasoner-synthetic-logical-equivalence-finetuned-roberta-large/
+
+##################################################################################################
+
+
+export RECLOR_DIR=logiqa_data
+export TASK_NAME=logiqa
+export MODEL_NAME=roberta-large
+
+CUDA_VISIBLE_DEVICES=6 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path roberta-large \
+    --task_name logiqa \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir $RECLOR_DIR \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/${MODEL_NAME} \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+export RECLOR_DIR=reclor_data
+export TASK_NAME=reclor
+export MODEL_NAME=../amrlib-master/BERT/Transformers/roberta-large-lreasoner
+export OUTPUT_DIR=lreasoner-logical-equivalence-reclor
+
+CUDA_VISIBLE_DEVICES=6 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path ../amrlib-master/BERT/Transformers/roberta-large-lreasoner \
+    --task_name reclor \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir reclor_data \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/reclor/lreasoner-logical-equivalence-reclor \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+
+CUDA_VISIBLE_DEVICES=3 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path ../amrlib-master/BERT/Transformers/roberta-large-lreasoner \
+    --task_name logiqa \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir logiqa_data \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/logiqa/lreasoner-logical-equivalence-reclor \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+#############################################################################
+
+CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path roberta-large \
+    --task_name pararule \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/roberta-large-pararule \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+
+
+CUDA_VISIBLE_DEVICES=6 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path ../amrlib-master/BERT/Transformers/roberta-large \
+    --task_name pararule \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/our-model-roberta-large-pararule \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+
+
+CUDA_VISIBLE_DEVICES=7 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path ../amrlib-master/BERT/Transformers/roberta-large-lreasoner \
+    --task_name pararule \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/lreasoner-model-roberta-large-pararule \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+######################################################################
+CUDA_VISIBLE_DEVICES=1 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path roberta-large \
+    --task_name pararule \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 16   \
+    --per_gpu_train_batch_size 16   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 1e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/roberta-large-pararule-bs-16 \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path roberta-large \
+    --task_name pararule \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 16   \
+    --per_gpu_train_batch_size 16   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/roberta-large-pararule-bs-16-lr-5e-5 \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+CUDA_VISIBLE_DEVICES=6 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path roberta-large \
+    --task_name pararule \
+    --do_train \
+    --evaluate_during_training \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/roberta-large-pararule-bs-8-lr-5e-5 \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+
+#########################################################################
+pararule depth-1 and reparaphrased testset
+
+CUDA_VISIBLE_DEVICES=6 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path Checkpoints/lreasoner-model-roberta-large-pararule \
+    --task_name pararule_depth_1 \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/lreasoner-model-roberta-large-pararule_depth_1 \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+CUDA_VISIBLE_DEVICES=6 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path Checkpoints/lreasoner-model-roberta-large-pararule \
+    --task_name pararule_depth_1_reparaphrased \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/lreasoner-model-roberta-large-pararule_depth_1_reparaphrased \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+-----------------------------------------------------------------
+CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path Checkpoints/roberta-large-pararule \
+    --task_name pararule_depth_1 \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/roberta-large-pararule_depth_1 \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path Checkpoints/roberta-large-pararule \
+    --task_name pararule_depth_1_reparaphrased \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/roberta-large-pararule_depth_1_reparaphrased \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+--------------------------------------------------------------------
+CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path Checkpoints/our-model-roberta-large-pararule \
+    --task_name pararule_depth_1 \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/our-model-roberta-large-pararule_depth_1 \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+
+CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
+    --model_type roberta \
+    --model_name_or_path Checkpoints/our-model-roberta-large-pararule \
+    --task_name pararule_depth_1_reparaphrased \
+    --do_test \
+    --do_lower_case \
+    --data_dir pararule \
+    --max_seq_length 256 \
+    --per_gpu_eval_batch_size 8   \
+    --per_gpu_train_batch_size 8   \
+    --gradient_accumulation_steps 1 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 10.0 \
+    --output_dir Checkpoints/our-model-roberta-large-pararule_depth_1_reparaphrased \
+    --fp16 \
+    --logging_steps 200 \
+    --save_steps 200 \
+    --adam_betas "(0.9, 0.98)" \
+    --adam_epsilon 1e-6 \
+    --no_clip_grad_norm \
+    --warmup_proportion 0.1 \
+    --weight_decay 0.01
+
+

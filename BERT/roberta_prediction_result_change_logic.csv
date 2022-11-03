@@ -1,0 +1,1315 @@
+sentence1,sentence2,label,prediction
+the cat is slow.,the cat is not accelerate.,1,1
+the cat is slow.,the cat is not slow.,0,1
+the bear is round.,the bear is not round.,0,1
+the wolf is smart.,the wolf is not smart.,0,1
+Bob is cute.,Bob is not cute.,0,1
+Charlie is lovely.,Charlie is not lovely.,0,1
+the bear is round.,the bear is not round.,0,1
+the lion is nice.,the lion is not nice.,0,1
+Erin is funny.,Erin is not funny.,0,1
+the dog is sleepy.,the dog is not sleepy.,0,1
+Charlie is lovely.,Charlie is not lovely.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+the dog is sleepy.,the dog is not sleepy.,0,1
+the wolf is smart.,the wolf is not smart.,0,1
+the mouse is boring.,the mouse is not boring.,0,1
+the dinosaur is dull.,the dinosaur is not dull.,0,1
+Fiona is awful.,Fiona is not awful.,0,1
+the dog is sleepy.,the dog is not sleepy.,0,1
+Alan is small.,Alan is not small.,0,1
+the bear is round.,the bear is not round.,0,1
+the rabbit is tired.,the rabbit is not tired.,0,1
+the mouse is boring.,the mouse is not boring.,0,1
+the lion is nice.,the lion is not nice.,0,1
+the wolf is smart.,the wolf is not smart.,0,1
+the leopard is lazy.,the leopard is not lazy.,0,1
+Dave is beautiful.,Dave is not ugly.,1,1
+Dave is beautiful.,Dave is not beautiful.,0,1
+the bear is round.,the bear is not round.,0,1
+the dog is sleepy.,the dog is not sleepy.,0,1
+Alan is small.,Alan is not small.,0,1
+the snake is rough.,the snake is not rough.,0,1
+Fiona is awful.,Fiona is not awful.,0,1
+the crocodile is clever.,the crocodile is not clever.,0,1
+Alan is small.,Alan is not small.,0,1
+Gary is strong.,Gary is not weak.,1,1
+Gary is strong.,Gary is not strong.,0,1
+the bear is round.,the bear is not round.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+Gary is strong.,Gary is not weak.,1,1
+Gary is strong.,Gary is not strong.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+the mouse is boring.,the mouse is not boring.,0,1
+the bald eagle is kind.,the bald eagle is not kind.,0,1
+the mouse is boring.,the mouse is not boring.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+the rabbit is tired.,the rabbit is not tired.,0,1
+Bob is cute.,Bob is not cute.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+the lion is nice.,the lion is not nice.,0,1
+the dog is sleepy.,the dog is not sleepy.,0,1
+Erin is funny.,Erin is not funny.,0,1
+the crocodile is clever.,the crocodile is not clever.,0,1
+Erin is funny.,Erin is not funny.,0,1
+the bear is round.,the bear is not round.,0,1
+the dinosaur is dull.,the dinosaur is not dull.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+the rabbit is tired.,the rabbit is not tired.,0,1
+the rabbit is tired.,the rabbit is not tired.,0,1
+Erin is funny.,Erin is not funny.,0,1
+Erin is funny.,Erin is not funny.,0,1
+the rabbit is tired.,the rabbit is not tired.,0,1
+Fiona is awful.,Fiona is not awful.,0,1
+the dog is sleepy.,the dog is not sleepy.,0,1
+Dave is beautiful.,Dave is not ugly.,1,1
+Dave is beautiful.,Dave is not beautiful.,0,1
+the squirrel is reckless.,the squirrel is not reckless.,0,1
+the cat is slow.,the cat is not accelerate.,1,1
+the cat is slow.,the cat is not slow.,0,1
+Fiona is awful.,Fiona is not awful.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+Anne is furry.,Anne is not furry.,0,1
+the bear is round.,the bear is not round.,0,1
+the crocodile is clever.,the crocodile is not clever.,0,1
+Anne is furry.,Anne is not furry.,0,1
+Fiona is awful.,Fiona is not awful.,0,1
+the bald eagle is kind.,the bald eagle is not kind.,0,1
+Anne is furry.,Anne is not furry.,0,1
+the snake is rough.,the snake is not rough.,0,1
+the dinosaur is dull.,the dinosaur is not dull.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+the leopard is lazy.,the leopard is not lazy.,0,1
+the lion is nice.,the lion is not nice.,0,1
+the bald eagle is kind.,the bald eagle is not kind.,0,1
+the bear is round.,the bear is not round.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+the wolf is smart.,the wolf is not smart.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+the crocodile is clever.,the crocodile is not clever.,0,1
+the lion is nice.,the lion is not nice.,0,1
+the tiger is quiet.,the tiger is not quiet.,0,1
+the bald eagle is kind.,the bald eagle is not kind.,0,1
+the bald eagle is kind.,the bald eagle is not kind.,0,1
+Alan is small.,Alan is not small.,0,1
+the squirrel is reckless.,the squirrel is not reckless.,0,1
+the snake is rough.,the snake is not rough.,0,1
+the dinosaur is dull.,the dinosaur is not dull.,0,1
+Anne is furry.,Anne is not furry.,0,1
+Alan is small.,Alan is not small.,0,1
+the crocodile is clever.,the crocodile is not clever.,0,1
+Dave is beautiful.,Dave is not ugly.,1,1
+Dave is beautiful.,Dave is not beautiful.,0,1
+Charlie is lovely.,Charlie is not lovely.,0,1
+Harry is big.,Harry is not small.,1,1
+Harry is big.,Harry is not big.,0,1
+the leopard is lazy.,the leopard is not lazy.,0,1
+Dave is not beautiful and the tiger is not round.,the tiger is not round and Dave is not beautiful.,1,1
+Dave is beautiful and the tiger is round.,Dave is beautiful and the tiger is not round.,0,1
+Harry is not big and Gary is not round.,Gary is not round and Harry is not big.,1,1
+Harry is big and Gary is round.,Harry is big and Gary is not round.,0,1
+Gary is not strong and the mouse is not tired.,the mouse is not tired and Gary is not strong.,1,1
+Gary is strong and the mouse is tired.,Gary is strong and the mouse is not tired.,0,1
+the snake is not rough and the lion is not slow.,the lion is not slow and the snake is not rough.,1,1
+the snake is rough and the lion is slow.,the snake is rough and the lion is not slow.,0,1
+the mouse is not boring and Charlie is not dull.,Charlie is not dull and the mouse is not boring.,1,1
+the mouse is boring and Charlie is dull.,the mouse is boring and Charlie is not dull.,0,1
+the rabbit is not tired and Harry is not dull.,Harry is not dull and the rabbit is not tired.,1,1
+the rabbit is tired and Harry is dull.,the rabbit is tired and Harry is not dull.,0,1
+Gary is not strong and the dinosaur is not reckless.,the dinosaur is not reckless and Gary is not strong.,1,1
+Gary is strong and the dinosaur is reckless.,Gary is strong and the dinosaur is not reckless.,0,1
+Charlie is not lovely and the wolf is not rough.,the wolf is not rough and Charlie is not lovely.,1,1
+Charlie is lovely and the wolf is rough.,Charlie is lovely and the wolf is not rough.,0,1
+Fiona is not awful and Anne is not big.,Anne is not big and Fiona is not awful.,1,1
+Fiona is awful and Anne is big.,Fiona is awful and Anne is not big.,0,1
+the rabbit is not tired and Bob is not funny.,Bob is not funny and the rabbit is not tired.,1,1
+the rabbit is tired and Bob is funny.,the rabbit is tired and Bob is not funny.,0,1
+the bald eagle is not kind and the wolf is not awful.,the wolf is not awful and the bald eagle is not kind.,1,1
+the bald eagle is kind and the wolf is awful.,the bald eagle is kind and the wolf is not awful.,0,1
+the lion is not nice and Anne is not bad.,Anne is not bad and the lion is not nice.,1,1
+the lion is nice and Anne is bad.,the lion is nice and Anne is not bad.,0,1
+Gary is not strong and Harry is not lovely.,Harry is not lovely and Gary is not strong.,1,1
+Gary is strong and Harry is lovely.,Gary is strong and Harry is not lovely.,0,1
+the crocodile is not clever and Anne is not boring.,Anne is not boring and the crocodile is not clever.,1,1
+the crocodile is clever and Anne is boring.,the crocodile is clever and Anne is not boring.,0,1
+Gary is not strong and Alan is not poor.,Alan is not poor and Gary is not strong.,1,1
+Gary is strong and Alan is poor.,Gary is strong and Alan is not poor.,0,1
+Erin is not funny and Anne is not funny.,Anne is not funny and Erin is not funny.,1,1
+Erin is funny and Anne is funny.,Erin is funny and Anne is not funny.,0,1
+Erin is not funny and the bear is not big.,the bear is not big and Erin is not funny.,1,1
+Erin is funny and the bear is big.,Erin is funny and the bear is not big.,0,1
+Erin is not funny and the crocodile is not beautiful.,the crocodile is not beautiful and Erin is not funny.,1,1
+Erin is funny and the crocodile is beautiful.,Erin is funny and the crocodile is not beautiful.,0,1
+Charlie is not lovely and the lion is not cute.,the lion is not cute and Charlie is not lovely.,1,1
+Charlie is lovely and the lion is cute.,Charlie is lovely and the lion is not cute.,0,1
+Harry is not big and the snake is not strong.,the snake is not strong and Harry is not big.,1,1
+Harry is big and the snake is strong.,Harry is big and the snake is not strong.,0,1
+the dog is not sleepy and the mouse is not round.,the mouse is not round and the dog is not sleepy.,1,1
+the dog is sleepy and the mouse is round.,the dog is sleepy and the mouse is not round.,0,1
+the bald eagle is not kind and the lion is not reckless.,the lion is not reckless and the bald eagle is not kind.,1,1
+the bald eagle is kind and the lion is reckless.,the bald eagle is kind and the lion is not reckless.,0,1
+Dave is not beautiful and the cat is not boring.,the cat is not boring and Dave is not beautiful.,1,1
+Dave is beautiful and the cat is boring.,Dave is beautiful and the cat is not boring.,0,1
+Gary is not strong and the tiger is not sleepy.,the tiger is not sleepy and Gary is not strong.,1,1
+Gary is strong and the tiger is sleepy.,Gary is strong and the tiger is not sleepy.,0,1
+Bob is not cute and Harry is not rough.,Harry is not rough and Bob is not cute.,1,1
+Bob is cute and Harry is rough.,Bob is cute and Harry is not rough.,0,1
+the bear is not round and Harry is not smart.,Harry is not smart and the bear is not round.,1,1
+the bear is round and Harry is smart.,the bear is round and Harry is not smart.,0,1
+Gary is not strong and the rabbit is not heavy.,the rabbit is not heavy and Gary is not strong.,1,1
+Gary is strong and the rabbit is heavy.,Gary is strong and the rabbit is not heavy.,0,1
+the snake is not rough and the dog is not cute.,the dog is not cute and the snake is not rough.,1,1
+the snake is rough and the dog is cute.,the snake is rough and the dog is not cute.,0,1
+the mouse is not boring and the leopard is not smart.,the leopard is not smart and the mouse is not boring.,1,1
+the mouse is boring and the leopard is smart.,the mouse is boring and the leopard is not smart.,0,1
+Bob is not cute and Charlie is not poor.,Charlie is not poor and Bob is not cute.,1,1
+Bob is cute and Charlie is poor.,Bob is cute and Charlie is not poor.,0,1
+the leopard is not lazy and Charlie is not dull.,Charlie is not dull and the leopard is not lazy.,1,1
+the leopard is lazy and Charlie is dull.,the leopard is lazy and Charlie is not dull.,0,1
+Bob is not cute and the cat is not fierce.,the cat is not fierce and Bob is not cute.,1,1
+Bob is cute and the cat is fierce.,Bob is cute and the cat is not fierce.,0,1
+the snake is not rough and the bear is not sad.,the bear is not sad and the snake is not rough.,1,1
+the snake is rough and the bear is sad.,the snake is rough and the bear is not sad.,0,1
+the wolf is not smart and the dog is not dull.,the dog is not dull and the wolf is not smart.,1,1
+the wolf is smart and the dog is dull.,the wolf is smart and the dog is not dull.,0,1
+the crocodile is not clever and the squirrel is not lovely.,the squirrel is not lovely and the crocodile is not clever.,1,1
+the crocodile is clever and the squirrel is lovely.,the crocodile is clever and the squirrel is not lovely.,0,1
+the wolf is not smart and Charlie is not powerful.,Charlie is not powerful and the wolf is not smart.,1,1
+the wolf is smart and Charlie is powerful.,the wolf is smart and Charlie is not powerful.,0,1
+Dave is not beautiful and the bald eagle is not bad.,the bald eagle is not bad and Dave is not beautiful.,1,1
+Dave is beautiful and the bald eagle is bad.,Dave is beautiful and the bald eagle is not bad.,0,1
+Dave is not beautiful and Anne is not high.,Anne is not high and Dave is not beautiful.,1,1
+Dave is beautiful and Anne is high.,Dave is beautiful and Anne is not high.,0,1
+Charlie is not lovely and the cat is not smart.,the cat is not smart and Charlie is not lovely.,1,1
+Charlie is lovely and the cat is smart.,Charlie is lovely and the cat is not smart.,0,1
+the leopard is not lazy and the bear is not tiny.,the bear is not tiny and the leopard is not lazy.,1,1
+the leopard is lazy and the bear is tiny.,the leopard is lazy and the bear is not tiny.,0,1
+the tiger is not quiet and Charlie is not dull.,Charlie is not dull and the tiger is not quiet.,1,1
+the tiger is quiet and Charlie is dull.,the tiger is quiet and Charlie is not dull.,0,1
+the snake is not rough and the leopard is not furry.,the leopard is not furry and the snake is not rough.,1,1
+the snake is rough and the leopard is furry.,the snake is rough and the leopard is not furry.,0,1
+Erin is not funny and the bald eagle is not poor.,the bald eagle is not poor and Erin is not funny.,1,1
+Erin is funny and the bald eagle is poor.,Erin is funny and the bald eagle is not poor.,0,1
+Alan is not small and the snake is not reckless.,the snake is not reckless and Alan is not small.,1,1
+Alan is small and the snake is reckless.,Alan is small and the snake is not reckless.,0,1
+the rabbit is not tired and Dave is not clever.,Dave is not clever and the rabbit is not tired.,1,1
+the rabbit is tired and Dave is clever.,the rabbit is tired and Dave is not clever.,0,1
+Fiona is not awful and the dog is not awful.,the dog is not awful and Fiona is not awful.,1,1
+Fiona is awful and the dog is awful.,Fiona is awful and the dog is not awful.,0,1
+the cat is not slow and the bald eagle is not kind.,the bald eagle is not kind and the cat is not slow.,1,1
+the cat is slow and the bald eagle is kind.,the cat is slow and the bald eagle is not kind.,0,1
+the squirrel is not reckless and Gary is not furry.,Gary is not furry and the squirrel is not reckless.,1,1
+the squirrel is reckless and Gary is furry.,the squirrel is reckless and Gary is not furry.,0,1
+Fiona is not awful and the cat is not furry.,the cat is not furry and Fiona is not awful.,1,1
+Fiona is awful and the cat is furry.,Fiona is awful and the cat is not furry.,0,1
+the leopard is not lazy and the bear is not cute.,the bear is not cute and the leopard is not lazy.,1,1
+the leopard is lazy and the bear is cute.,the leopard is lazy and the bear is not cute.,0,1
+Charlie is not lovely and the snake is not sad.,the snake is not sad and Charlie is not lovely.,1,1
+Charlie is lovely and the snake is sad.,Charlie is lovely and the snake is not sad.,0,1
+the dog is not sleepy and the wolf is not dull.,the wolf is not dull and the dog is not sleepy.,1,1
+the dog is sleepy and the wolf is dull.,the dog is sleepy and the wolf is not dull.,0,1
+the wolf is not smart and Dave is not round.,Dave is not round and the wolf is not smart.,1,1
+the wolf is smart and Dave is round.,the wolf is smart and Dave is not round.,0,1
+the snake is not rough and the bald eagle is not huge.,the bald eagle is not huge and the snake is not rough.,1,1
+the snake is rough and the bald eagle is huge.,the snake is rough and the bald eagle is not huge.,0,1
+the squirrel is not reckless and the snake is not wealthy.,the snake is not wealthy and the squirrel is not reckless.,1,1
+the squirrel is reckless and the snake is wealthy.,the squirrel is reckless and the snake is not wealthy.,0,1
+Gary is not strong and the dog is not angry.,the dog is not angry and Gary is not strong.,1,1
+Gary is strong and the dog is angry.,Gary is strong and the dog is not angry.,0,1
+the mouse is not boring and the cat is not sad.,the cat is not sad and the mouse is not boring.,1,1
+the mouse is boring and the cat is sad.,the mouse is boring and the cat is not sad.,0,1
+the crocodile is not clever and Gary is not small.,Gary is not small and the crocodile is not clever.,1,1
+the crocodile is clever and Gary is small.,the crocodile is clever and Gary is not small.,0,1
+Harry is not big and the bear is not fierce.,the bear is not fierce and Harry is not big.,1,1
+Harry is big and the bear is fierce.,Harry is big and the bear is not fierce.,0,1
+Harry is not big and the cat is not horrible.,the cat is not horrible and Harry is not big.,1,1
+Harry is big and the cat is horrible.,Harry is big and the cat is not horrible.,0,1
+Alan is not small and the mouse is not rough.,the mouse is not rough and Alan is not small.,1,1
+Alan is small and the mouse is rough.,Alan is small and the mouse is not rough.,0,1
+the squirrel is not reckless and Gary is not rough.,Gary is not rough and the squirrel is not reckless.,1,1
+the squirrel is reckless and Gary is rough.,the squirrel is reckless and Gary is not rough.,0,1
+Gary is not strong and the snake is not quiet.,the snake is not quiet and Gary is not strong.,1,1
+Gary is strong and the snake is quiet.,Gary is strong and the snake is not quiet.,0,1
+the cat is not slow and Alan is not lovely.,Alan is not lovely and the cat is not slow.,1,1
+the cat is slow and Alan is lovely.,the cat is slow and Alan is not lovely.,0,1
+Fiona is not awful and Gary is not horrible.,Gary is not horrible and Fiona is not awful.,1,1
+Fiona is awful and Gary is horrible.,Fiona is awful and Gary is not horrible.,0,1
+the tiger is not quiet and Erin is not boring.,Erin is not boring and the tiger is not quiet.,1,1
+the tiger is quiet and Erin is boring.,the tiger is quiet and Erin is not boring.,0,1
+the tiger is not quiet and the dog is not awful.,the dog is not awful and the tiger is not quiet.,1,1
+the tiger is quiet and the dog is awful.,the tiger is quiet and the dog is not awful.,0,1
+Harry is not big and the cat is not angry.,the cat is not angry and Harry is not big.,1,1
+Harry is big and the cat is angry.,Harry is big and the cat is not angry.,0,1
+Harry is not big and Fiona is not rough.,Fiona is not rough and Harry is not big.,1,1
+Harry is big and Fiona is rough.,Harry is big and Fiona is not rough.,0,1
+Harry is not big and the dinosaur is not furry.,the dinosaur is not furry and Harry is not big.,1,1
+Harry is big and the dinosaur is furry.,Harry is big and the dinosaur is not furry.,0,1
+the tiger is not quiet and the bald eagle is not slow.,the bald eagle is not slow and the tiger is not quiet.,1,1
+the tiger is quiet and the bald eagle is slow.,the tiger is quiet and the bald eagle is not slow.,0,1
+the tiger is not quiet and Fiona is not awful.,Fiona is not awful and the tiger is not quiet.,1,1
+the tiger is quiet and Fiona is awful.,the tiger is quiet and Fiona is not awful.,0,1
+the leopard is not lazy and the wolf is not smart.,the wolf is not smart and the leopard is not lazy.,1,1
+the leopard is lazy and the wolf is smart.,the leopard is lazy and the wolf is not smart.,0,1
+Fiona is not awful and Anne is not dull.,Anne is not dull and Fiona is not awful.,1,1
+Fiona is awful and Anne is dull.,Fiona is awful and Anne is not dull.,0,1
+Gary is not strong and Alan is not little.,Alan is not little and Gary is not strong.,1,1
+Gary is strong and Alan is little.,Gary is strong and Alan is not little.,0,1
+the crocodile is not clever and the mouse is not furry.,the mouse is not furry and the crocodile is not clever.,1,1
+the crocodile is clever and the mouse is furry.,the crocodile is clever and the mouse is not furry.,0,1
+the rabbit is not tired and the dinosaur is not bad.,the dinosaur is not bad and the rabbit is not tired.,1,1
+the rabbit is tired and the dinosaur is bad.,the rabbit is tired and the dinosaur is not bad.,0,1
+Bob is not cute and Fiona is not beautiful.,Fiona is not beautiful and Bob is not cute.,1,1
+Bob is cute and Fiona is beautiful.,Bob is cute and Fiona is not beautiful.,0,1
+the wolf is not smart and the snake is not poor.,the snake is not poor and the wolf is not smart.,1,1
+the wolf is smart and the snake is poor.,the wolf is smart and the snake is not poor.,0,1
+Anne is not furry and Gary is not poor.,Gary is not poor and Anne is not furry.,1,1
+Anne is furry and Gary is poor.,Anne is furry and Gary is not poor.,0,1
+Harry is not big and the mouse is not strong.,the mouse is not strong and Harry is not big.,1,1
+Harry is big and the mouse is strong.,Harry is big and the mouse is not strong.,0,1
+the cat is not slow and the snake is not small.,the snake is not small and the cat is not slow.,1,1
+the cat is slow and the snake is small.,the cat is slow and the snake is not small.,0,1
+the mouse is not boring and the wolf is not wealthy.,the wolf is not wealthy and the mouse is not boring.,1,1
+the mouse is boring and the wolf is wealthy.,the mouse is boring and the wolf is not wealthy.,0,1
+Gary is not strong and Erin is not lazy.,Erin is not lazy and Gary is not strong.,1,1
+Gary is strong and Erin is lazy.,Gary is strong and Erin is not lazy.,0,1
+the mouse is not boring and the lion is not fierce.,the lion is not fierce and the mouse is not boring.,1,1
+the mouse is boring and the lion is fierce.,the mouse is boring and the lion is not fierce.,0,1
+the wolf is not smart and the cat is not thin.,the cat is not thin and the wolf is not smart.,1,1
+the wolf is smart and the cat is thin.,the wolf is smart and the cat is not thin.,0,1
+the squirrel is not reckless and the dinosaur is not poor.,the dinosaur is not poor and the squirrel is not reckless.,1,1
+the squirrel is reckless and the dinosaur is poor.,the squirrel is reckless and the dinosaur is not poor.,0,1
+the bear is not round and the leopard is not bad.,the leopard is not bad and the bear is not round.,1,1
+the bear is round and the leopard is bad.,the bear is round and the leopard is not bad.,0,1
+Charlie is not lovely and the bear is not dull.,the bear is not dull and Charlie is not lovely.,1,1
+Charlie is lovely and the bear is dull.,Charlie is lovely and the bear is not dull.,0,1
+the rabbit is not tired and the bear is not boring.,the bear is not boring and the rabbit is not tired.,1,1
+the rabbit is tired and the bear is boring.,the rabbit is tired and the bear is not boring.,0,1
+the rabbit is not tired and the mouse is not horrible.,the mouse is not horrible and the rabbit is not tired.,1,1
+the rabbit is tired and the mouse is horrible.,the rabbit is tired and the mouse is not horrible.,0,1
+the dinosaur is not dull and Harry is not wealthy.,Harry is not wealthy and the dinosaur is not dull.,1,1
+the dinosaur is dull and Harry is wealthy.,the dinosaur is dull and Harry is not wealthy.,0,1
+Erin is not funny and the crocodile is not furry.,the crocodile is not furry and Erin is not funny.,1,1
+Erin is funny and the crocodile is furry.,Erin is funny and the crocodile is not furry.,0,1
+the cat is not slow and the wolf is not small.,the wolf is not small and the cat is not slow.,1,1
+the cat is slow and the wolf is small.,the cat is slow and the wolf is not small.,0,1
+the snake is not rough and the bald eagle is not big.,the bald eagle is not big and the snake is not rough.,1,1
+the snake is rough and the bald eagle is big.,the snake is rough and the bald eagle is not big.,0,1
+the bald eagle is not kind and Alan is not thin.,Alan is not thin and the bald eagle is not kind.,1,1
+the bald eagle is kind and Alan is thin.,the bald eagle is kind and Alan is not thin.,0,1
+Dave is not beautiful and the bald eagle is not boring.,the bald eagle is not boring and Dave is not beautiful.,1,1
+Dave is beautiful and the bald eagle is boring.,Dave is beautiful and the bald eagle is not boring.,0,1
+the squirrel is not reckless and the dog is not round.,the dog is not round and the squirrel is not reckless.,1,1
+the squirrel is reckless and the dog is round.,the squirrel is reckless and the dog is not round.,0,1
+the bear is not round and the cat is not powerful.,the cat is not powerful and the bear is not round.,1,1
+the bear is round and the cat is powerful.,the bear is round and the cat is not powerful.,0,1
+Bob is not cute and the dog is not high.,the dog is not high and Bob is not cute.,1,1
+Bob is cute and the dog is high.,Bob is cute and the dog is not high.,0,1
+"If Gary is tiny, then the cat is boring.","If the cat is not boring, then Gary is not tiny.",1,1
+"If Gary is tiny, then the cat is boring.","If Gary is tiny, then the cat is not boring.",0,1
+"If Gary is tiny, then the cat is not boring.","If the cat is boring, then Gary is not tiny.",1,1
+"If Gary is tiny, then the cat is not boring.","If Gary is tiny, then the cat is boring.",0,1
+"If Gary is not tiny, then the cat is boring.","If the cat is not boring, then Gary is tiny.",1,1
+"If Gary is not tiny, then the cat is boring.","If Gary is not tiny, then the cat is not boring.",0,1
+"If Gary is not tiny, then the cat is not boring.","If the cat is not boring, then Gary is not tiny.",1,1
+"If Gary is not tiny, then the cat is not boring.","If Gary is not tiny, then the cat is boring.",0,1
+"If the tiger is heavy, then Fiona is cute.","If Fiona is not cute, then the tiger is not heavy.",1,1
+"If the tiger is heavy, then Fiona is cute.","If the tiger is heavy, then Fiona is not cute.",0,1
+"If the tiger is heavy, then Fiona is not cute.","If Fiona is cute, then the tiger is not heavy.",1,1
+"If the tiger is heavy, then Fiona is not cute.","If the tiger is heavy, then Fiona is cute.",0,1
+"If the tiger is not heavy, then Fiona is cute.","If Fiona is not cute, then the tiger is heavy.",1,1
+"If the tiger is not heavy, then Fiona is cute.","If the tiger is not heavy, then Fiona is not cute.",0,1
+"If the tiger is not heavy, then Fiona is not cute.","If Fiona is not cute, then the tiger is not heavy.",1,1
+"If the tiger is not heavy, then Fiona is not cute.","If the tiger is not heavy, then Fiona is cute.",0,1
+"If Gary is strong, then Anne is thin.","If Anne is not thin, then Gary is not strong.",1,1
+"If Gary is strong, then Anne is thin.","If Gary is strong, then Anne is not thin.",0,1
+"If Gary is strong, then Anne is not thin.","If Anne is thin, then Gary is not strong.",1,1
+"If Gary is strong, then Anne is not thin.","If Gary is strong, then Anne is thin.",0,1
+"If Gary is not strong, then Anne is thin.","If Anne is not thin, then Gary is strong.",1,1
+"If Gary is not strong, then Anne is thin.","If Gary is not strong, then Anne is not thin.",0,1
+"If Gary is not strong, then Anne is not thin.","If Anne is not thin, then Gary is not strong.",1,1
+"If Gary is not strong, then Anne is not thin.","If Gary is not strong, then Anne is thin.",0,1
+"If the bear is wealthy, then Erin is rough.","If Erin is not rough, then the bear is not wealthy.",1,1
+"If the bear is wealthy, then Erin is rough.","If the bear is wealthy, then Erin is not rough.",0,1
+"If the bear is wealthy, then Erin is not rough.","If Erin is rough, then the bear is not wealthy.",1,1
+"If the bear is wealthy, then Erin is not rough.","If the bear is wealthy, then Erin is rough.",0,1
+"If the bear is not wealthy, then Erin is rough.","If Erin is not rough, then the bear is wealthy.",1,1
+"If the bear is not wealthy, then Erin is rough.","If the bear is not wealthy, then Erin is not rough.",0,1
+"If the bear is not wealthy, then Erin is not rough.","If Erin is not rough, then the bear is not wealthy.",1,1
+"If the bear is not wealthy, then Erin is not rough.","If the bear is not wealthy, then Erin is rough.",0,1
+"If the squirrel is powerful, then the rabbit is sleepy.","If the rabbit is not sleepy, then the squirrel is not powerful.",1,1
+"If the squirrel is powerful, then the rabbit is sleepy.","If the squirrel is powerful, then the rabbit is not sleepy.",0,1
+"If the squirrel is powerful, then the rabbit is not sleepy.","If the rabbit is sleepy, then the squirrel is not powerful.",1,1
+"If the squirrel is powerful, then the rabbit is not sleepy.","If the squirrel is powerful, then the rabbit is sleepy.",0,1
+"If the squirrel is not powerful, then the rabbit is sleepy.","If the rabbit is not sleepy, then the squirrel is powerful.",1,1
+"If the squirrel is not powerful, then the rabbit is sleepy.","If the squirrel is not powerful, then the rabbit is not sleepy.",0,1
+"If the squirrel is not powerful, then the rabbit is not sleepy.","If the rabbit is not sleepy, then the squirrel is not powerful.",1,1
+"If the squirrel is not powerful, then the rabbit is not sleepy.","If the squirrel is not powerful, then the rabbit is sleepy.",0,1
+"If Charlie is fierce, then the dog is big.","If the dog is not big, then Charlie is not fierce.",1,1
+"If Charlie is fierce, then the dog is big.","If Charlie is fierce, then the dog is not big.",0,1
+"If Charlie is fierce, then the dog is not big.","If the dog is big, then Charlie is not fierce.",1,1
+"If Charlie is fierce, then the dog is not big.","If Charlie is fierce, then the dog is big.",0,1
+"If Charlie is not fierce, then the dog is big.","If the dog is not big, then Charlie is fierce.",1,1
+"If Charlie is not fierce, then the dog is big.","If Charlie is not fierce, then the dog is not big.",0,1
+"If Charlie is not fierce, then the dog is not big.","If the dog is not big, then Charlie is not fierce.",1,1
+"If Charlie is not fierce, then the dog is not big.","If Charlie is not fierce, then the dog is big.",0,1
+"If Anne is little, then the cat is heavy.","If the cat is not heavy, then Anne is not little.",1,1
+"If Anne is little, then the cat is heavy.","If Anne is little, then the cat is not heavy.",0,1
+"If Anne is little, then the cat is not heavy.","If the cat is heavy, then Anne is not little.",1,1
+"If Anne is little, then the cat is not heavy.","If Anne is little, then the cat is heavy.",0,1
+"If Anne is not little, then the cat is heavy.","If the cat is not heavy, then Anne is little.",1,1
+"If Anne is not little, then the cat is heavy.","If Anne is not little, then the cat is not heavy.",0,1
+"If Anne is not little, then the cat is not heavy.","If the cat is not heavy, then Anne is not little.",1,1
+"If Anne is not little, then the cat is not heavy.","If Anne is not little, then the cat is heavy.",0,1
+"If Erin is smart, then the dog is awful.","If the dog is not awful, then Erin is not smart.",1,1
+"If Erin is smart, then the dog is awful.","If Erin is smart, then the dog is not awful.",0,1
+"If Erin is smart, then the dog is not awful.","If the dog is awful, then Erin is not smart.",1,1
+"If Erin is smart, then the dog is not awful.","If Erin is smart, then the dog is awful.",0,1
+"If Erin is not smart, then the dog is awful.","If the dog is not awful, then Erin is smart.",1,1
+"If Erin is not smart, then the dog is awful.","If Erin is not smart, then the dog is not awful.",0,1
+"If Erin is not smart, then the dog is not awful.","If the dog is not awful, then Erin is not smart.",1,1
+"If Erin is not smart, then the dog is not awful.","If Erin is not smart, then the dog is awful.",0,1
+"If the lion is lovely, then Alan is powerful.","If Alan is not powerful, then the lion is not lovely.",1,1
+"If the lion is lovely, then Alan is powerful.","If the lion is lovely, then Alan is not powerful.",0,1
+"If the lion is lovely, then Alan is not powerful.","If Alan is powerful, then the lion is not lovely.",1,1
+"If the lion is lovely, then Alan is not powerful.","If the lion is lovely, then Alan is powerful.",0,1
+"If the lion is not lovely, then Alan is powerful.","If Alan is not powerful, then the lion is lovely.",1,1
+"If the lion is not lovely, then Alan is powerful.","If the lion is not lovely, then Alan is not powerful.",0,1
+"If the lion is not lovely, then Alan is not powerful.","If Alan is not powerful, then the lion is not lovely.",1,1
+"If the lion is not lovely, then Alan is not powerful.","If the lion is not lovely, then Alan is powerful.",0,1
+"If Fiona is heavy, then the dog is round.","If the dog is not round, then Fiona is not heavy.",1,1
+"If Fiona is heavy, then the dog is round.","If Fiona is heavy, then the dog is not round.",0,1
+"If Fiona is heavy, then the dog is not round.","If the dog is round, then Fiona is not heavy.",1,1
+"If Fiona is heavy, then the dog is not round.","If Fiona is heavy, then the dog is round.",0,1
+"If Fiona is not heavy, then the dog is round.","If the dog is not round, then Fiona is heavy.",1,1
+"If Fiona is not heavy, then the dog is round.","If Fiona is not heavy, then the dog is not round.",0,1
+"If Fiona is not heavy, then the dog is not round.","If the dog is not round, then Fiona is not heavy.",1,1
+"If Fiona is not heavy, then the dog is not round.","If Fiona is not heavy, then the dog is round.",0,1
+"If the leopard is small, then Bob is clever.","If Bob is not clever, then the leopard is not small.",1,1
+"If the leopard is small, then Bob is clever.","If the leopard is small, then Bob is not clever.",0,1
+"If the leopard is small, then Bob is not clever.","If Bob is clever, then the leopard is not small.",1,1
+"If the leopard is small, then Bob is not clever.","If the leopard is small, then Bob is clever.",0,1
+"If the leopard is not small, then Bob is clever.","If Bob is not clever, then the leopard is small.",1,1
+"If the leopard is not small, then Bob is clever.","If the leopard is not small, then Bob is not clever.",0,1
+"If the leopard is not small, then Bob is not clever.","If Bob is not clever, then the leopard is not small.",1,1
+"If the leopard is not small, then Bob is not clever.","If the leopard is not small, then Bob is clever.",0,1
+"If the dog is big, then the rabbit is rough.","If the rabbit is not rough, then the dog is not big.",1,1
+"If the dog is big, then the rabbit is rough.","If the dog is big, then the rabbit is not rough.",0,1
+"If the dog is big, then the rabbit is not rough.","If the rabbit is rough, then the dog is not big.",1,1
+"If the dog is big, then the rabbit is not rough.","If the dog is big, then the rabbit is rough.",0,1
+"If the dog is not big, then the rabbit is rough.","If the rabbit is not rough, then the dog is big.",1,1
+"If the dog is not big, then the rabbit is rough.","If the dog is not big, then the rabbit is not rough.",0,1
+"If the dog is not big, then the rabbit is not rough.","If the rabbit is not rough, then the dog is not big.",1,1
+"If the dog is not big, then the rabbit is not rough.","If the dog is not big, then the rabbit is rough.",0,1
+"If the cat is bad, then Bob is smart.","If Bob is not smart, then the cat is not bad.",1,1
+"If the cat is bad, then Bob is smart.","If the cat is bad, then Bob is not smart.",0,1
+"If the cat is bad, then Bob is not smart.","If Bob is smart, then the cat is not bad.",1,1
+"If the cat is bad, then Bob is not smart.","If the cat is bad, then Bob is smart.",0,1
+"If the cat is not bad, then Bob is smart.","If Bob is not smart, then the cat is bad.",1,1
+"If the cat is not bad, then Bob is smart.","If the cat is not bad, then Bob is not smart.",0,1
+"If the cat is not bad, then Bob is not smart.","If Bob is not smart, then the cat is not bad.",1,1
+"If the cat is not bad, then Bob is not smart.","If the cat is not bad, then Bob is smart.",0,1
+"If the dog is small, then the bear is round.","If the bear is not round, then the dog is not small.",1,1
+"If the dog is small, then the bear is round.","If the dog is small, then the bear is not round.",0,1
+"If the dog is small, then the bear is not round.","If the bear is round, then the dog is not small.",1,1
+"If the dog is small, then the bear is not round.","If the dog is small, then the bear is round.",0,1
+"If the dog is not small, then the bear is round.","If the bear is not round, then the dog is small.",1,1
+"If the dog is not small, then the bear is round.","If the dog is not small, then the bear is not round.",0,1
+"If the dog is not small, then the bear is not round.","If the bear is not round, then the dog is not small.",1,1
+"If the dog is not small, then the bear is not round.","If the dog is not small, then the bear is round.",0,1
+"If the bear is dull, then the rabbit is quiet.","If the rabbit is not quiet, then the bear is not dull.",1,1
+"If the bear is dull, then the rabbit is quiet.","If the bear is dull, then the rabbit is not quiet.",0,1
+"If the bear is dull, then the rabbit is not quiet.","If the rabbit is quiet, then the bear is not dull.",1,1
+"If the bear is dull, then the rabbit is not quiet.","If the bear is dull, then the rabbit is quiet.",0,1
+"If the bear is not dull, then the rabbit is quiet.","If the rabbit is not quiet, then the bear is dull.",1,1
+"If the bear is not dull, then the rabbit is quiet.","If the bear is not dull, then the rabbit is not quiet.",0,1
+"If the bear is not dull, then the rabbit is not quiet.","If the rabbit is not quiet, then the bear is not dull.",1,1
+"If the bear is not dull, then the rabbit is not quiet.","If the bear is not dull, then the rabbit is quiet.",0,1
+"If the bald eagle is big, then Bob is sleepy.","If Bob is not sleepy, then the bald eagle is not big.",1,1
+"If the bald eagle is big, then Bob is sleepy.","If the bald eagle is big, then Bob is not sleepy.",0,1
+"If the bald eagle is big, then Bob is not sleepy.","If Bob is sleepy, then the bald eagle is not big.",1,1
+"If the bald eagle is big, then Bob is not sleepy.","If the bald eagle is big, then Bob is sleepy.",0,1
+"If the bald eagle is not big, then Bob is sleepy.","If Bob is not sleepy, then the bald eagle is big.",1,1
+"If the bald eagle is not big, then Bob is sleepy.","If the bald eagle is not big, then Bob is not sleepy.",0,1
+"If the bald eagle is not big, then Bob is not sleepy.","If Bob is not sleepy, then the bald eagle is not big.",1,1
+"If the bald eagle is not big, then Bob is not sleepy.","If the bald eagle is not big, then Bob is sleepy.",0,1
+"If the bald eagle is reckless, then Charlie is reckless.","If Charlie is not reckless, then the bald eagle is not reckless.",1,1
+"If the bald eagle is reckless, then Charlie is reckless.","If the bald eagle is reckless, then Charlie is not reckless.",0,1
+"If the bald eagle is reckless, then Charlie is not reckless.","If Charlie is reckless, then the bald eagle is not reckless.",1,1
+"If the bald eagle is reckless, then Charlie is not reckless.","If the bald eagle is reckless, then Charlie is reckless.",0,1
+"If the bald eagle is not reckless, then Charlie is reckless.","If Charlie is not reckless, then the bald eagle is reckless.",1,1
+"If the bald eagle is not reckless, then Charlie is reckless.","If the bald eagle is not reckless, then Charlie is not reckless.",0,1
+"If the bald eagle is not reckless, then Charlie is not reckless.","If Charlie is not reckless, then the bald eagle is not reckless.",1,1
+"If the bald eagle is not reckless, then Charlie is not reckless.","If the bald eagle is not reckless, then Charlie is reckless.",0,1
+"If Erin is small, then the mouse is fierce.","If the mouse is not fierce, then Erin is not small.",1,1
+"If Erin is small, then the mouse is fierce.","If Erin is small, then the mouse is not fierce.",0,1
+"If Erin is small, then the mouse is not fierce.","If the mouse is fierce, then Erin is not small.",1,1
+"If Erin is small, then the mouse is not fierce.","If Erin is small, then the mouse is fierce.",0,1
+"If Erin is not small, then the mouse is fierce.","If the mouse is not fierce, then Erin is small.",1,1
+"If Erin is not small, then the mouse is fierce.","If Erin is not small, then the mouse is not fierce.",0,1
+"If Erin is not small, then the mouse is not fierce.","If the mouse is not fierce, then Erin is not small.",1,1
+"If Erin is not small, then the mouse is not fierce.","If Erin is not small, then the mouse is fierce.",0,1
+"If the bear is smart, then the tiger is powerful.","If the tiger is not powerful, then the bear is not smart.",1,1
+"If the bear is smart, then the tiger is powerful.","If the bear is smart, then the tiger is not powerful.",0,1
+"If the bear is smart, then the tiger is not powerful.","If the tiger is powerful, then the bear is not smart.",1,1
+"If the bear is smart, then the tiger is not powerful.","If the bear is smart, then the tiger is powerful.",0,1
+"If the bear is not smart, then the tiger is powerful.","If the tiger is not powerful, then the bear is smart.",1,1
+"If the bear is not smart, then the tiger is powerful.","If the bear is not smart, then the tiger is not powerful.",0,1
+"If the bear is not smart, then the tiger is not powerful.","If the tiger is not powerful, then the bear is not smart.",1,1
+"If the bear is not smart, then the tiger is not powerful.","If the bear is not smart, then the tiger is powerful.",0,1
+"If the dinosaur is heavy, then Alan is angry.","If Alan is not angry, then the dinosaur is not heavy.",1,1
+"If the dinosaur is heavy, then Alan is angry.","If the dinosaur is heavy, then Alan is not angry.",0,1
+"If the dinosaur is heavy, then Alan is not angry.","If Alan is angry, then the dinosaur is not heavy.",1,1
+"If the dinosaur is heavy, then Alan is not angry.","If the dinosaur is heavy, then Alan is angry.",0,1
+"If the dinosaur is not heavy, then Alan is angry.","If Alan is not angry, then the dinosaur is heavy.",1,1
+"If the dinosaur is not heavy, then Alan is angry.","If the dinosaur is not heavy, then Alan is not angry.",0,1
+"If the dinosaur is not heavy, then Alan is not angry.","If Alan is not angry, then the dinosaur is not heavy.",1,1
+"If the dinosaur is not heavy, then Alan is not angry.","If the dinosaur is not heavy, then Alan is angry.",0,1
+"If the wolf is lovely, then Charlie is round.","If Charlie is not round, then the wolf is not lovely.",1,1
+"If the wolf is lovely, then Charlie is round.","If the wolf is lovely, then Charlie is not round.",0,1
+"If the wolf is lovely, then Charlie is not round.","If Charlie is round, then the wolf is not lovely.",1,1
+"If the wolf is lovely, then Charlie is not round.","If the wolf is lovely, then Charlie is round.",0,1
+"If the wolf is not lovely, then Charlie is round.","If Charlie is not round, then the wolf is lovely.",1,1
+"If the wolf is not lovely, then Charlie is round.","If the wolf is not lovely, then Charlie is not round.",0,1
+"If the wolf is not lovely, then Charlie is not round.","If Charlie is not round, then the wolf is not lovely.",1,1
+"If the wolf is not lovely, then Charlie is not round.","If the wolf is not lovely, then Charlie is round.",0,1
+"If the wolf is sleepy, then Dave is sad.","If Dave is not sad, then the wolf is not sleepy.",1,1
+"If the wolf is sleepy, then Dave is sad.","If the wolf is sleepy, then Dave is not sad.",0,1
+"If the wolf is sleepy, then Dave is not sad.","If Dave is sad, then the wolf is not sleepy.",1,1
+"If the wolf is sleepy, then Dave is not sad.","If the wolf is sleepy, then Dave is sad.",0,1
+"If the wolf is not sleepy, then Dave is sad.","If Dave is not sad, then the wolf is sleepy.",1,1
+"If the wolf is not sleepy, then Dave is sad.","If the wolf is not sleepy, then Dave is not sad.",0,1
+"If the wolf is not sleepy, then Dave is not sad.","If Dave is not sad, then the wolf is not sleepy.",1,1
+"If the wolf is not sleepy, then Dave is not sad.","If the wolf is not sleepy, then Dave is sad.",0,1
+"If the dinosaur is huge, then the dog is nice.","If the dog is not nice, then the dinosaur is not huge.",1,1
+"If the dinosaur is huge, then the dog is nice.","If the dinosaur is huge, then the dog is not nice.",0,1
+"If the dinosaur is huge, then the dog is not nice.","If the dog is nice, then the dinosaur is not huge.",1,1
+"If the dinosaur is huge, then the dog is not nice.","If the dinosaur is huge, then the dog is nice.",0,1
+"If the dinosaur is not huge, then the dog is nice.","If the dog is not nice, then the dinosaur is huge.",1,1
+"If the dinosaur is not huge, then the dog is nice.","If the dinosaur is not huge, then the dog is not nice.",0,1
+"If the dinosaur is not huge, then the dog is not nice.","If the dog is not nice, then the dinosaur is not huge.",1,1
+"If the dinosaur is not huge, then the dog is not nice.","If the dinosaur is not huge, then the dog is nice.",0,1
+"If Gary is funny, then the tiger is clever.","If the tiger is not clever, then Gary is not funny.",1,1
+"If Gary is funny, then the tiger is clever.","If Gary is funny, then the tiger is not clever.",0,1
+"If Gary is funny, then the tiger is not clever.","If the tiger is clever, then Gary is not funny.",1,1
+"If Gary is funny, then the tiger is not clever.","If Gary is funny, then the tiger is clever.",0,1
+"If Gary is not funny, then the tiger is clever.","If the tiger is not clever, then Gary is funny.",1,1
+"If Gary is not funny, then the tiger is clever.","If Gary is not funny, then the tiger is not clever.",0,1
+"If Gary is not funny, then the tiger is not clever.","If the tiger is not clever, then Gary is not funny.",1,1
+"If Gary is not funny, then the tiger is not clever.","If Gary is not funny, then the tiger is clever.",0,1
+"If the cat is slow, then the crocodile is rough.","If the crocodile is not rough, then the cat is not slow.",1,1
+"If the cat is slow, then the crocodile is rough.","If the cat is slow, then the crocodile is not rough.",0,1
+"If the cat is slow, then the crocodile is not rough.","If the crocodile is rough, then the cat is not slow.",1,1
+"If the cat is slow, then the crocodile is not rough.","If the cat is slow, then the crocodile is rough.",0,1
+"If the cat is not slow, then the crocodile is rough.","If the crocodile is not rough, then the cat is slow.",1,1
+"If the cat is not slow, then the crocodile is rough.","If the cat is not slow, then the crocodile is not rough.",0,1
+"If the cat is not slow, then the crocodile is not rough.","If the crocodile is not rough, then the cat is not slow.",1,1
+"If the cat is not slow, then the crocodile is not rough.","If the cat is not slow, then the crocodile is rough.",0,1
+"If the bear is reckless, then Fiona is big.","If Fiona is not big, then the bear is not reckless.",1,1
+"If the bear is reckless, then Fiona is big.","If the bear is reckless, then Fiona is not big.",0,1
+"If the bear is reckless, then Fiona is not big.","If Fiona is big, then the bear is not reckless.",1,1
+"If the bear is reckless, then Fiona is not big.","If the bear is reckless, then Fiona is big.",0,1
+"If the bear is not reckless, then Fiona is big.","If Fiona is not big, then the bear is reckless.",1,1
+"If the bear is not reckless, then Fiona is big.","If the bear is not reckless, then Fiona is not big.",0,1
+"If the bear is not reckless, then Fiona is not big.","If Fiona is not big, then the bear is not reckless.",1,1
+"If the bear is not reckless, then Fiona is not big.","If the bear is not reckless, then Fiona is big.",0,1
+"If Erin is tiny, then Alan is rough.","If Alan is not rough, then Erin is not tiny.",1,1
+"If Erin is tiny, then Alan is rough.","If Erin is tiny, then Alan is not rough.",0,1
+"If Erin is tiny, then Alan is not rough.","If Alan is rough, then Erin is not tiny.",1,1
+"If Erin is tiny, then Alan is not rough.","If Erin is tiny, then Alan is rough.",0,1
+"If Erin is not tiny, then Alan is rough.","If Alan is not rough, then Erin is tiny.",1,1
+"If Erin is not tiny, then Alan is rough.","If Erin is not tiny, then Alan is not rough.",0,1
+"If Erin is not tiny, then Alan is not rough.","If Alan is not rough, then Erin is not tiny.",1,1
+"If Erin is not tiny, then Alan is not rough.","If Erin is not tiny, then Alan is rough.",0,1
+"If Harry is wealthy, then the rabbit is bad.","If the rabbit is not bad, then Harry is not wealthy.",1,1
+"If Harry is wealthy, then the rabbit is bad.","If Harry is wealthy, then the rabbit is not bad.",0,1
+"If Harry is wealthy, then the rabbit is not bad.","If the rabbit is bad, then Harry is not wealthy.",1,1
+"If Harry is wealthy, then the rabbit is not bad.","If Harry is wealthy, then the rabbit is bad.",0,1
+"If Harry is not wealthy, then the rabbit is bad.","If the rabbit is not bad, then Harry is wealthy.",1,1
+"If Harry is not wealthy, then the rabbit is bad.","If Harry is not wealthy, then the rabbit is not bad.",0,1
+"If Harry is not wealthy, then the rabbit is not bad.","If the rabbit is not bad, then Harry is not wealthy.",1,1
+"If Harry is not wealthy, then the rabbit is not bad.","If Harry is not wealthy, then the rabbit is bad.",0,1
+"If the snake is nice, then Anne is cute.","If Anne is not cute, then the snake is not nice.",1,1
+"If the snake is nice, then Anne is cute.","If the snake is nice, then Anne is not cute.",0,1
+"If the snake is nice, then Anne is not cute.","If Anne is cute, then the snake is not nice.",1,1
+"If the snake is nice, then Anne is not cute.","If the snake is nice, then Anne is cute.",0,1
+"If the snake is not nice, then Anne is cute.","If Anne is not cute, then the snake is nice.",1,1
+"If the snake is not nice, then Anne is cute.","If the snake is not nice, then Anne is not cute.",0,1
+"If the snake is not nice, then Anne is not cute.","If Anne is not cute, then the snake is not nice.",1,1
+"If the snake is not nice, then Anne is not cute.","If the snake is not nice, then Anne is cute.",0,1
+"If the squirrel is round, then Gary is sleepy.","If Gary is not sleepy, then the squirrel is not round.",1,1
+"If the squirrel is round, then Gary is sleepy.","If the squirrel is round, then Gary is not sleepy.",0,1
+"If the squirrel is round, then Gary is not sleepy.","If Gary is sleepy, then the squirrel is not round.",1,1
+"If the squirrel is round, then Gary is not sleepy.","If the squirrel is round, then Gary is sleepy.",0,1
+"If the squirrel is not round, then Gary is sleepy.","If Gary is not sleepy, then the squirrel is round.",1,1
+"If the squirrel is not round, then Gary is sleepy.","If the squirrel is not round, then Gary is not sleepy.",0,1
+"If the squirrel is not round, then Gary is not sleepy.","If Gary is not sleepy, then the squirrel is not round.",1,1
+"If the squirrel is not round, then Gary is not sleepy.","If the squirrel is not round, then Gary is sleepy.",0,1
+"If the mouse is beautiful, then the wolf is tired.","If the wolf is not tired, then the mouse is not beautiful.",1,1
+"If the mouse is beautiful, then the wolf is tired.","If the mouse is beautiful, then the wolf is not tired.",0,1
+"If the mouse is beautiful, then the wolf is not tired.","If the wolf is tired, then the mouse is not beautiful.",1,1
+"If the mouse is beautiful, then the wolf is not tired.","If the mouse is beautiful, then the wolf is tired.",0,1
+"If the mouse is not beautiful, then the wolf is tired.","If the wolf is not tired, then the mouse is beautiful.",1,1
+"If the mouse is not beautiful, then the wolf is tired.","If the mouse is not beautiful, then the wolf is not tired.",0,1
+"If the mouse is not beautiful, then the wolf is not tired.","If the wolf is not tired, then the mouse is not beautiful.",1,1
+"If the mouse is not beautiful, then the wolf is not tired.","If the mouse is not beautiful, then the wolf is tired.",0,1
+"If Charlie is tiny, then Erin is wealthy.","If Erin is not wealthy, then Charlie is not tiny.",1,1
+"If Charlie is tiny, then Erin is wealthy.","If Charlie is tiny, then Erin is not wealthy.",0,1
+"If Charlie is tiny, then Erin is not wealthy.","If Erin is wealthy, then Charlie is not tiny.",1,1
+"If Charlie is tiny, then Erin is not wealthy.","If Charlie is tiny, then Erin is wealthy.",0,1
+"If Charlie is not tiny, then Erin is wealthy.","If Erin is not wealthy, then Charlie is tiny.",1,1
+"If Charlie is not tiny, then Erin is wealthy.","If Charlie is not tiny, then Erin is not wealthy.",0,1
+"If Charlie is not tiny, then Erin is not wealthy.","If Erin is not wealthy, then Charlie is not tiny.",1,1
+"If Charlie is not tiny, then Erin is not wealthy.","If Charlie is not tiny, then Erin is wealthy.",0,1
+"If the mouse is poor, then the dinosaur is boring.","If the dinosaur is not boring, then the mouse is not poor.",1,1
+"If the mouse is poor, then the dinosaur is boring.","If the mouse is poor, then the dinosaur is not boring.",0,1
+"If the mouse is poor, then the dinosaur is not boring.","If the dinosaur is boring, then the mouse is not poor.",1,1
+"If the mouse is poor, then the dinosaur is not boring.","If the mouse is poor, then the dinosaur is boring.",0,1
+"If the mouse is not poor, then the dinosaur is boring.","If the dinosaur is not boring, then the mouse is poor.",1,1
+"If the mouse is not poor, then the dinosaur is boring.","If the mouse is not poor, then the dinosaur is not boring.",0,1
+"If the mouse is not poor, then the dinosaur is not boring.","If the dinosaur is not boring, then the mouse is not poor.",1,1
+"If the mouse is not poor, then the dinosaur is not boring.","If the mouse is not poor, then the dinosaur is boring.",0,1
+"If the snake is nice, then Charlie is big.","If Charlie is not big, then the snake is not nice.",1,1
+"If the snake is nice, then Charlie is big.","If the snake is nice, then Charlie is not big.",0,1
+"If the snake is nice, then Charlie is not big.","If Charlie is big, then the snake is not nice.",1,1
+"If the snake is nice, then Charlie is not big.","If the snake is nice, then Charlie is big.",0,1
+"If the snake is not nice, then Charlie is big.","If Charlie is not big, then the snake is nice.",1,1
+"If the snake is not nice, then Charlie is big.","If the snake is not nice, then Charlie is not big.",0,1
+"If the snake is not nice, then Charlie is not big.","If Charlie is not big, then the snake is not nice.",1,1
+"If the snake is not nice, then Charlie is not big.","If the snake is not nice, then Charlie is big.",0,1
+"If the leopard is beautiful, then Dave is poor.","If Dave is not poor, then the leopard is not beautiful.",1,1
+"If the leopard is beautiful, then Dave is poor.","If the leopard is beautiful, then Dave is not poor.",0,1
+"If the leopard is beautiful, then Dave is not poor.","If Dave is poor, then the leopard is not beautiful.",1,1
+"If the leopard is beautiful, then Dave is not poor.","If the leopard is beautiful, then Dave is poor.",0,1
+"If the leopard is not beautiful, then Dave is poor.","If Dave is not poor, then the leopard is beautiful.",1,1
+"If the leopard is not beautiful, then Dave is poor.","If the leopard is not beautiful, then Dave is not poor.",0,1
+"If the leopard is not beautiful, then Dave is not poor.","If Dave is not poor, then the leopard is not beautiful.",1,1
+"If the leopard is not beautiful, then Dave is not poor.","If the leopard is not beautiful, then Dave is poor.",0,1
+"If Fiona is tiny, then the crocodile is smart.","If the crocodile is not smart, then Fiona is not tiny.",1,1
+"If Fiona is tiny, then the crocodile is smart.","If Fiona is tiny, then the crocodile is not smart.",0,1
+"If Fiona is tiny, then the crocodile is not smart.","If the crocodile is smart, then Fiona is not tiny.",1,1
+"If Fiona is tiny, then the crocodile is not smart.","If Fiona is tiny, then the crocodile is smart.",0,1
+"If Fiona is not tiny, then the crocodile is smart.","If the crocodile is not smart, then Fiona is tiny.",1,1
+"If Fiona is not tiny, then the crocodile is smart.","If Fiona is not tiny, then the crocodile is not smart.",0,1
+"If Fiona is not tiny, then the crocodile is not smart.","If the crocodile is not smart, then Fiona is not tiny.",1,1
+"If Fiona is not tiny, then the crocodile is not smart.","If Fiona is not tiny, then the crocodile is smart.",0,1
+"If Harry is kind, then the crocodile is smart.","If the crocodile is not smart, then Harry is not kind.",1,1
+"If Harry is kind, then the crocodile is smart.","If Harry is kind, then the crocodile is not smart.",0,1
+"If Harry is kind, then the crocodile is not smart.","If the crocodile is smart, then Harry is not kind.",1,1
+"If Harry is kind, then the crocodile is not smart.","If Harry is kind, then the crocodile is smart.",0,1
+"If Harry is not kind, then the crocodile is smart.","If the crocodile is not smart, then Harry is kind.",1,1
+"If Harry is not kind, then the crocodile is smart.","If Harry is not kind, then the crocodile is not smart.",0,1
+"If Harry is not kind, then the crocodile is not smart.","If the crocodile is not smart, then Harry is not kind.",1,1
+"If Harry is not kind, then the crocodile is not smart.","If Harry is not kind, then the crocodile is smart.",0,1
+"If Alan is wealthy, then Erin is fierce.","If Erin is not fierce, then Alan is not wealthy.",1,1
+"If Alan is wealthy, then Erin is fierce.","If Alan is wealthy, then Erin is not fierce.",0,1
+"If Alan is wealthy, then Erin is not fierce.","If Erin is fierce, then Alan is not wealthy.",1,1
+"If Alan is wealthy, then Erin is not fierce.","If Alan is wealthy, then Erin is fierce.",0,1
+"If Alan is not wealthy, then Erin is fierce.","If Erin is not fierce, then Alan is wealthy.",1,1
+"If Alan is not wealthy, then Erin is fierce.","If Alan is not wealthy, then Erin is not fierce.",0,1
+"If Alan is not wealthy, then Erin is not fierce.","If Erin is not fierce, then Alan is not wealthy.",1,1
+"If Alan is not wealthy, then Erin is not fierce.","If Alan is not wealthy, then Erin is fierce.",0,1
+"If Fiona is sleepy, then the wolf is dull.","If the wolf is not dull, then Fiona is not sleepy.",1,1
+"If Fiona is sleepy, then the wolf is dull.","If Fiona is sleepy, then the wolf is not dull.",0,1
+"If Fiona is sleepy, then the wolf is not dull.","If the wolf is dull, then Fiona is not sleepy.",1,1
+"If Fiona is sleepy, then the wolf is not dull.","If Fiona is sleepy, then the wolf is dull.",0,1
+"If Fiona is not sleepy, then the wolf is dull.","If the wolf is not dull, then Fiona is sleepy.",1,1
+"If Fiona is not sleepy, then the wolf is dull.","If Fiona is not sleepy, then the wolf is not dull.",0,1
+"If Fiona is not sleepy, then the wolf is not dull.","If the wolf is not dull, then Fiona is not sleepy.",1,1
+"If Fiona is not sleepy, then the wolf is not dull.","If Fiona is not sleepy, then the wolf is dull.",0,1
+"If Dave is little, then the dinosaur is big.","If the dinosaur is not big, then Dave is not little.",1,1
+"If Dave is little, then the dinosaur is big.","If Dave is little, then the dinosaur is not big.",0,1
+"If Dave is little, then the dinosaur is not big.","If the dinosaur is big, then Dave is not little.",1,1
+"If Dave is little, then the dinosaur is not big.","If Dave is little, then the dinosaur is big.",0,1
+"If Dave is not little, then the dinosaur is big.","If the dinosaur is not big, then Dave is little.",1,1
+"If Dave is not little, then the dinosaur is big.","If Dave is not little, then the dinosaur is not big.",0,1
+"If Dave is not little, then the dinosaur is not big.","If the dinosaur is not big, then Dave is not little.",1,1
+"If Dave is not little, then the dinosaur is not big.","If Dave is not little, then the dinosaur is big.",0,1
+"If the squirrel is little, then the wolf is slow.","If the wolf is not slow, then the squirrel is not little.",1,1
+"If the squirrel is little, then the wolf is slow.","If the squirrel is little, then the wolf is not slow.",0,1
+"If the squirrel is little, then the wolf is not slow.","If the wolf is slow, then the squirrel is not little.",1,1
+"If the squirrel is little, then the wolf is not slow.","If the squirrel is little, then the wolf is slow.",0,1
+"If the squirrel is not little, then the wolf is slow.","If the wolf is not slow, then the squirrel is little.",1,1
+"If the squirrel is not little, then the wolf is slow.","If the squirrel is not little, then the wolf is not slow.",0,1
+"If the squirrel is not little, then the wolf is not slow.","If the wolf is not slow, then the squirrel is not little.",1,1
+"If the squirrel is not little, then the wolf is not slow.","If the squirrel is not little, then the wolf is slow.",0,1
+"If Anne is angry, then Charlie is strong.","If Charlie is not strong, then Anne is not angry.",1,1
+"If Anne is angry, then Charlie is strong.","If Anne is angry, then Charlie is not strong.",0,1
+"If Anne is angry, then Charlie is not strong.","If Charlie is strong, then Anne is not angry.",1,1
+"If Anne is angry, then Charlie is not strong.","If Anne is angry, then Charlie is strong.",0,1
+"If Anne is not angry, then Charlie is strong.","If Charlie is not strong, then Anne is angry.",1,1
+"If Anne is not angry, then Charlie is strong.","If Anne is not angry, then Charlie is not strong.",0,1
+"If Anne is not angry, then Charlie is not strong.","If Charlie is not strong, then Anne is not angry.",1,1
+"If Anne is not angry, then Charlie is not strong.","If Anne is not angry, then Charlie is strong.",0,1
+"If Charlie is tired, then the tiger is huge.","If the tiger is not huge, then Charlie is not tired.",1,1
+"If Charlie is tired, then the tiger is huge.","If Charlie is tired, then the tiger is not huge.",0,1
+"If Charlie is tired, then the tiger is not huge.","If the tiger is huge, then Charlie is not tired.",1,1
+"If Charlie is tired, then the tiger is not huge.","If Charlie is tired, then the tiger is huge.",0,1
+"If Charlie is not tired, then the tiger is huge.","If the tiger is not huge, then Charlie is tired.",1,1
+"If Charlie is not tired, then the tiger is huge.","If Charlie is not tired, then the tiger is not huge.",0,1
+"If Charlie is not tired, then the tiger is not huge.","If the tiger is not huge, then Charlie is not tired.",1,1
+"If Charlie is not tired, then the tiger is not huge.","If Charlie is not tired, then the tiger is huge.",0,1
+"If Charlie is funny, then the crocodile is dull.","If the crocodile is not dull, then Charlie is not funny.",1,1
+"If Charlie is funny, then the crocodile is dull.","If Charlie is funny, then the crocodile is not dull.",0,1
+"If Charlie is funny, then the crocodile is not dull.","If the crocodile is dull, then Charlie is not funny.",1,1
+"If Charlie is funny, then the crocodile is not dull.","If Charlie is funny, then the crocodile is dull.",0,1
+"If Charlie is not funny, then the crocodile is dull.","If the crocodile is not dull, then Charlie is funny.",1,1
+"If Charlie is not funny, then the crocodile is dull.","If Charlie is not funny, then the crocodile is not dull.",0,1
+"If Charlie is not funny, then the crocodile is not dull.","If the crocodile is not dull, then Charlie is not funny.",1,1
+"If Charlie is not funny, then the crocodile is not dull.","If Charlie is not funny, then the crocodile is dull.",0,1
+"If Alan is reckless, then Bob is angry.","If Bob is not angry, then Alan is not reckless.",1,1
+"If Alan is reckless, then Bob is angry.","If Alan is reckless, then Bob is not angry.",0,1
+"If Alan is reckless, then Bob is not angry.","If Bob is angry, then Alan is not reckless.",1,1
+"If Alan is reckless, then Bob is not angry.","If Alan is reckless, then Bob is angry.",0,1
+"If Alan is not reckless, then Bob is angry.","If Bob is not angry, then Alan is reckless.",1,1
+"If Alan is not reckless, then Bob is angry.","If Alan is not reckless, then Bob is not angry.",0,1
+"If Alan is not reckless, then Bob is not angry.","If Bob is not angry, then Alan is not reckless.",1,1
+"If Alan is not reckless, then Bob is not angry.","If Alan is not reckless, then Bob is angry.",0,1
+"If the tiger is huge, then Alan is beautiful.","If Alan is not beautiful, then the tiger is not huge.",1,1
+"If the tiger is huge, then Alan is beautiful.","If the tiger is huge, then Alan is not beautiful.",0,1
+"If the tiger is huge, then Alan is not beautiful.","If Alan is beautiful, then the tiger is not huge.",1,1
+"If the tiger is huge, then Alan is not beautiful.","If the tiger is huge, then Alan is beautiful.",0,1
+"If the tiger is not huge, then Alan is beautiful.","If Alan is not beautiful, then the tiger is huge.",1,1
+"If the tiger is not huge, then Alan is beautiful.","If the tiger is not huge, then Alan is not beautiful.",0,1
+"If the tiger is not huge, then Alan is not beautiful.","If Alan is not beautiful, then the tiger is not huge.",1,1
+"If the tiger is not huge, then Alan is not beautiful.","If the tiger is not huge, then Alan is beautiful.",0,1
+"If the tiger is high, then the dog is awful.","If the dog is not awful, then the tiger is not high.",1,1
+"If the tiger is high, then the dog is awful.","If the tiger is high, then the dog is not awful.",0,1
+"If the tiger is high, then the dog is not awful.","If the dog is awful, then the tiger is not high.",1,1
+"If the tiger is high, then the dog is not awful.","If the tiger is high, then the dog is awful.",0,1
+"If the tiger is not high, then the dog is awful.","If the dog is not awful, then the tiger is high.",1,1
+"If the tiger is not high, then the dog is awful.","If the tiger is not high, then the dog is not awful.",0,1
+"If the tiger is not high, then the dog is not awful.","If the dog is not awful, then the tiger is not high.",1,1
+"If the tiger is not high, then the dog is not awful.","If the tiger is not high, then the dog is awful.",0,1
+"If the dinosaur is angry, then Charlie is cute.","If Charlie is not cute, then the dinosaur is not angry.",1,1
+"If the dinosaur is angry, then Charlie is cute.","If the dinosaur is angry, then Charlie is not cute.",0,1
+"If the dinosaur is angry, then Charlie is not cute.","If Charlie is cute, then the dinosaur is not angry.",1,1
+"If the dinosaur is angry, then Charlie is not cute.","If the dinosaur is angry, then Charlie is cute.",0,1
+"If the dinosaur is not angry, then Charlie is cute.","If Charlie is not cute, then the dinosaur is angry.",1,1
+"If the dinosaur is not angry, then Charlie is cute.","If the dinosaur is not angry, then Charlie is not cute.",0,1
+"If the dinosaur is not angry, then Charlie is not cute.","If Charlie is not cute, then the dinosaur is not angry.",1,1
+"If the dinosaur is not angry, then Charlie is not cute.","If the dinosaur is not angry, then Charlie is cute.",0,1
+"If Bob is funny, then the rabbit is dull.","If the rabbit is not dull, then Bob is not funny.",1,1
+"If Bob is funny, then the rabbit is dull.","If Bob is funny, then the rabbit is not dull.",0,1
+"If Bob is funny, then the rabbit is not dull.","If the rabbit is dull, then Bob is not funny.",1,1
+"If Bob is funny, then the rabbit is not dull.","If Bob is funny, then the rabbit is dull.",0,1
+"If Bob is not funny, then the rabbit is dull.","If the rabbit is not dull, then Bob is funny.",1,1
+"If Bob is not funny, then the rabbit is dull.","If Bob is not funny, then the rabbit is not dull.",0,1
+"If Bob is not funny, then the rabbit is not dull.","If the rabbit is not dull, then Bob is not funny.",1,1
+"If Bob is not funny, then the rabbit is not dull.","If Bob is not funny, then the rabbit is dull.",0,1
+"If the rabbit is thin, then Fiona is short.","If Fiona is not short, then the rabbit is not thin.",1,1
+"If the rabbit is thin, then Fiona is short.","If the rabbit is thin, then Fiona is not short.",0,1
+"If the rabbit is thin, then Fiona is not short.","If Fiona is short, then the rabbit is not thin.",1,1
+"If the rabbit is thin, then Fiona is not short.","If the rabbit is thin, then Fiona is short.",0,1
+"If the rabbit is not thin, then Fiona is short.","If Fiona is not short, then the rabbit is thin.",1,1
+"If the rabbit is not thin, then Fiona is short.","If the rabbit is not thin, then Fiona is not short.",0,1
+"If the rabbit is not thin, then Fiona is not short.","If Fiona is not short, then the rabbit is not thin.",1,1
+"If the rabbit is not thin, then Fiona is not short.","If the rabbit is not thin, then Fiona is short.",0,1
+"If Harry is slow, then Charlie is lovely.","If Charlie is not lovely, then Harry is not slow.",1,1
+"If Harry is slow, then Charlie is lovely.","If Harry is slow, then Charlie is not lovely.",0,1
+"If Harry is slow, then Charlie is not lovely.","If Charlie is lovely, then Harry is not slow.",1,1
+"If Harry is slow, then Charlie is not lovely.","If Harry is slow, then Charlie is lovely.",0,1
+"If Harry is not slow, then Charlie is lovely.","If Charlie is not lovely, then Harry is slow.",1,1
+"If Harry is not slow, then Charlie is lovely.","If Harry is not slow, then Charlie is not lovely.",0,1
+"If Harry is not slow, then Charlie is not lovely.","If Charlie is not lovely, then Harry is not slow.",1,1
+"If Harry is not slow, then Charlie is not lovely.","If Harry is not slow, then Charlie is lovely.",0,1
+"If Charlie is smart, then the bear is wealthy.","If the bear is not wealthy, then Charlie is not smart.",1,1
+"If Charlie is smart, then the bear is wealthy.","If Charlie is smart, then the bear is not wealthy.",0,1
+"If Charlie is smart, then the bear is not wealthy.","If the bear is wealthy, then Charlie is not smart.",1,1
+"If Charlie is smart, then the bear is not wealthy.","If Charlie is smart, then the bear is wealthy.",0,1
+"If Charlie is not smart, then the bear is wealthy.","If the bear is not wealthy, then Charlie is smart.",1,1
+"If Charlie is not smart, then the bear is wealthy.","If Charlie is not smart, then the bear is not wealthy.",0,1
+"If Charlie is not smart, then the bear is not wealthy.","If the bear is not wealthy, then Charlie is not smart.",1,1
+"If Charlie is not smart, then the bear is not wealthy.","If Charlie is not smart, then the bear is wealthy.",0,1
+"If the snake is reckless, then Fiona is round.","If Fiona is not round, then the snake is not reckless.",1,1
+"If the snake is reckless, then Fiona is round.","If the snake is reckless, then Fiona is not round.",0,1
+"If the snake is reckless, then Fiona is not round.","If Fiona is round, then the snake is not reckless.",1,1
+"If the snake is reckless, then Fiona is not round.","If the snake is reckless, then Fiona is round.",0,1
+"If the snake is not reckless, then Fiona is round.","If Fiona is not round, then the snake is reckless.",1,1
+"If the snake is not reckless, then Fiona is round.","If the snake is not reckless, then Fiona is not round.",0,1
+"If the snake is not reckless, then Fiona is not round.","If Fiona is not round, then the snake is not reckless.",1,1
+"If the snake is not reckless, then Fiona is not round.","If the snake is not reckless, then Fiona is round.",0,1
+"If the rabbit is poor, then Bob is huge.","If Bob is not huge, then the rabbit is not poor.",1,1
+"If the rabbit is poor, then Bob is huge.","If the rabbit is poor, then Bob is not huge.",0,1
+"If the rabbit is poor, then Bob is not huge.","If Bob is huge, then the rabbit is not poor.",1,1
+"If the rabbit is poor, then Bob is not huge.","If the rabbit is poor, then Bob is huge.",0,1
+"If the rabbit is not poor, then Bob is huge.","If Bob is not huge, then the rabbit is poor.",1,1
+"If the rabbit is not poor, then Bob is huge.","If the rabbit is not poor, then Bob is not huge.",0,1
+"If the rabbit is not poor, then Bob is not huge.","If Bob is not huge, then the rabbit is not poor.",1,1
+"If the rabbit is not poor, then Bob is not huge.","If the rabbit is not poor, then Bob is huge.",0,1
+"If Charlie is funny, then the rabbit is wealthy.","If the rabbit is not wealthy, then Charlie is not funny.",1,1
+"If Charlie is funny, then the rabbit is wealthy.","If Charlie is funny, then the rabbit is not wealthy.",0,1
+"If Charlie is funny, then the rabbit is not wealthy.","If the rabbit is wealthy, then Charlie is not funny.",1,1
+"If Charlie is funny, then the rabbit is not wealthy.","If Charlie is funny, then the rabbit is wealthy.",0,1
+"If Charlie is not funny, then the rabbit is wealthy.","If the rabbit is not wealthy, then Charlie is funny.",1,1
+"If Charlie is not funny, then the rabbit is wealthy.","If Charlie is not funny, then the rabbit is not wealthy.",0,1
+"If Charlie is not funny, then the rabbit is not wealthy.","If the rabbit is not wealthy, then Charlie is not funny.",1,1
+"If Charlie is not funny, then the rabbit is not wealthy.","If Charlie is not funny, then the rabbit is wealthy.",0,1
+"If the leopard is tired, then the tiger is tired.","If the tiger is not tired, then the leopard is not tired.",1,1
+"If the leopard is tired, then the tiger is tired.","If the leopard is tired, then the tiger is not tired.",0,1
+"If the leopard is tired, then the tiger is not tired.","If the tiger is tired, then the leopard is not tired.",1,1
+"If the leopard is tired, then the tiger is not tired.","If the leopard is tired, then the tiger is tired.",0,1
+"If the leopard is not tired, then the tiger is tired.","If the tiger is not tired, then the leopard is tired.",1,1
+"If the leopard is not tired, then the tiger is tired.","If the leopard is not tired, then the tiger is not tired.",0,1
+"If the leopard is not tired, then the tiger is not tired.","If the tiger is not tired, then the leopard is not tired.",1,1
+"If the leopard is not tired, then the tiger is not tired.","If the leopard is not tired, then the tiger is tired.",0,1
+"If the bald eagle is kind, then Dave is powerful.","If Dave is not powerful, then the bald eagle is not kind.",1,1
+"If the bald eagle is kind, then Dave is powerful.","If the bald eagle is kind, then Dave is not powerful.",0,1
+"If the bald eagle is kind, then Dave is not powerful.","If Dave is powerful, then the bald eagle is not kind.",1,1
+"If the bald eagle is kind, then Dave is not powerful.","If the bald eagle is kind, then Dave is powerful.",0,1
+"If the bald eagle is not kind, then Dave is powerful.","If Dave is not powerful, then the bald eagle is kind.",1,1
+"If the bald eagle is not kind, then Dave is powerful.","If the bald eagle is not kind, then Dave is not powerful.",0,1
+"If the bald eagle is not kind, then Dave is not powerful.","If Dave is not powerful, then the bald eagle is not kind.",1,1
+"If the bald eagle is not kind, then Dave is not powerful.","If the bald eagle is not kind, then Dave is powerful.",0,1
+"If the mouse is thin, then the snake is awful.","If the snake is not awful, then the mouse is not thin.",1,1
+"If the mouse is thin, then the snake is awful.","If the mouse is thin, then the snake is not awful.",0,1
+"If the mouse is thin, then the snake is not awful.","If the snake is awful, then the mouse is not thin.",1,1
+"If the mouse is thin, then the snake is not awful.","If the mouse is thin, then the snake is awful.",0,1
+"If the mouse is not thin, then the snake is awful.","If the snake is not awful, then the mouse is thin.",1,1
+"If the mouse is not thin, then the snake is awful.","If the mouse is not thin, then the snake is not awful.",0,1
+"If the mouse is not thin, then the snake is not awful.","If the snake is not awful, then the mouse is not thin.",1,1
+"If the mouse is not thin, then the snake is not awful.","If the mouse is not thin, then the snake is awful.",0,1
+"If the mouse is sad, then the bear is rough.","If the bear is not rough, then the mouse is not sad.",1,1
+"If the mouse is sad, then the bear is rough.","If the mouse is sad, then the bear is not rough.",0,1
+"If the mouse is sad, then the bear is not rough.","If the bear is rough, then the mouse is not sad.",1,1
+"If the mouse is sad, then the bear is not rough.","If the mouse is sad, then the bear is rough.",0,1
+"If the mouse is not sad, then the bear is rough.","If the bear is not rough, then the mouse is sad.",1,1
+"If the mouse is not sad, then the bear is rough.","If the mouse is not sad, then the bear is not rough.",0,1
+"If the mouse is not sad, then the bear is not rough.","If the bear is not rough, then the mouse is not sad.",1,1
+"If the mouse is not sad, then the bear is not rough.","If the mouse is not sad, then the bear is rough.",0,1
+"If the bald eagle is kind, then Anne is slow.","If Anne is not slow, then the bald eagle is not kind.",1,1
+"If the bald eagle is kind, then Anne is slow.","If the bald eagle is kind, then Anne is not slow.",0,1
+"If the bald eagle is kind, then Anne is not slow.","If Anne is slow, then the bald eagle is not kind.",1,1
+"If the bald eagle is kind, then Anne is not slow.","If the bald eagle is kind, then Anne is slow.",0,1
+"If the bald eagle is not kind, then Anne is slow.","If Anne is not slow, then the bald eagle is kind.",1,1
+"If the bald eagle is not kind, then Anne is slow.","If the bald eagle is not kind, then Anne is not slow.",0,1
+"If the bald eagle is not kind, then Anne is not slow.","If Anne is not slow, then the bald eagle is not kind.",1,1
+"If the bald eagle is not kind, then Anne is not slow.","If the bald eagle is not kind, then Anne is slow.",0,1
+"If Anne is strong, then Gary is tired.","If Gary is not tired, then Anne is not strong.",1,1
+"If Anne is strong, then Gary is tired.","If Anne is strong, then Gary is not tired.",0,1
+"If Anne is strong, then Gary is not tired.","If Gary is tired, then Anne is not strong.",1,1
+"If Anne is strong, then Gary is not tired.","If Anne is strong, then Gary is tired.",0,1
+"If Anne is not strong, then Gary is tired.","If Gary is not tired, then Anne is strong.",1,1
+"If Anne is not strong, then Gary is tired.","If Anne is not strong, then Gary is not tired.",0,1
+"If Anne is not strong, then Gary is not tired.","If Gary is not tired, then Anne is not strong.",1,1
+"If Anne is not strong, then Gary is not tired.","If Anne is not strong, then Gary is tired.",0,1
+"If Charlie is big, then the dog is poor.","If the dog is not poor, then Charlie is not big.",1,1
+"If Charlie is big, then the dog is poor.","If Charlie is big, then the dog is not poor.",0,1
+"If Charlie is big, then the dog is not poor.","If the dog is poor, then Charlie is not big.",1,1
+"If Charlie is big, then the dog is not poor.","If Charlie is big, then the dog is poor.",0,1
+"If Charlie is not big, then the dog is poor.","If the dog is not poor, then Charlie is big.",1,1
+"If Charlie is not big, then the dog is poor.","If Charlie is not big, then the dog is not poor.",0,1
+"If Charlie is not big, then the dog is not poor.","If the dog is not poor, then Charlie is not big.",1,1
+"If Charlie is not big, then the dog is not poor.","If Charlie is not big, then the dog is poor.",0,1
+"If Harry is heavy, then the dog is sleepy.","If the dog is not sleepy, then Harry is not heavy.",1,1
+"If Harry is heavy, then the dog is sleepy.","If Harry is heavy, then the dog is not sleepy.",0,1
+"If Harry is heavy, then the dog is not sleepy.","If the dog is sleepy, then Harry is not heavy.",1,1
+"If Harry is heavy, then the dog is not sleepy.","If Harry is heavy, then the dog is sleepy.",0,1
+"If Harry is not heavy, then the dog is sleepy.","If the dog is not sleepy, then Harry is heavy.",1,1
+"If Harry is not heavy, then the dog is sleepy.","If Harry is not heavy, then the dog is not sleepy.",0,1
+"If Harry is not heavy, then the dog is not sleepy.","If the dog is not sleepy, then Harry is not heavy.",1,1
+"If Harry is not heavy, then the dog is not sleepy.","If Harry is not heavy, then the dog is sleepy.",0,1
+"If Anne is rough, then the tiger is kind.","If the tiger is not kind, then Anne is not rough.",1,1
+"If Anne is rough, then the tiger is kind.","If Anne is rough, then the tiger is not kind.",0,1
+"If Anne is rough, then the tiger is not kind.","If the tiger is kind, then Anne is not rough.",1,1
+"If Anne is rough, then the tiger is not kind.","If Anne is rough, then the tiger is kind.",0,1
+"If Anne is not rough, then the tiger is kind.","If the tiger is not kind, then Anne is rough.",1,1
+"If Anne is not rough, then the tiger is kind.","If Anne is not rough, then the tiger is not kind.",0,1
+"If Anne is not rough, then the tiger is not kind.","If the tiger is not kind, then Anne is not rough.",1,1
+"If Anne is not rough, then the tiger is not kind.","If Anne is not rough, then the tiger is kind.",0,1
+"If Alan is strong, then the dinosaur is nice.","If the dinosaur is not nice, then Alan is not strong.",1,1
+"If Alan is strong, then the dinosaur is nice.","If Alan is strong, then the dinosaur is not nice.",0,1
+"If Alan is strong, then the dinosaur is not nice.","If the dinosaur is nice, then Alan is not strong.",1,1
+"If Alan is strong, then the dinosaur is not nice.","If Alan is strong, then the dinosaur is nice.",0,1
+"If Alan is not strong, then the dinosaur is nice.","If the dinosaur is not nice, then Alan is strong.",1,1
+"If Alan is not strong, then the dinosaur is nice.","If Alan is not strong, then the dinosaur is not nice.",0,1
+"If Alan is not strong, then the dinosaur is not nice.","If the dinosaur is not nice, then Alan is not strong.",1,1
+"If Alan is not strong, then the dinosaur is not nice.","If Alan is not strong, then the dinosaur is nice.",0,1
+"If Bob is clever, then Alan is furry.","If Alan is not furry, then Bob is not clever.",1,1
+"If Bob is clever, then Alan is furry.","If Bob is clever, then Alan is not furry.",0,1
+"If Bob is clever, then Alan is not furry.","If Alan is furry, then Bob is not clever.",1,1
+"If Bob is clever, then Alan is not furry.","If Bob is clever, then Alan is furry.",0,1
+"If Bob is not clever, then Alan is furry.","If Alan is not furry, then Bob is clever.",1,1
+"If Bob is not clever, then Alan is furry.","If Bob is not clever, then Alan is not furry.",0,1
+"If Bob is not clever, then Alan is not furry.","If Alan is not furry, then Bob is not clever.",1,1
+"If Bob is not clever, then Alan is not furry.","If Bob is not clever, then Alan is furry.",0,1
+"If Fiona is tired, then Dave is big.","If Dave is not big, then Fiona is not tired.",1,1
+"If Fiona is tired, then Dave is big.","If Fiona is tired, then Dave is not big.",0,1
+"If Fiona is tired, then Dave is not big.","If Dave is big, then Fiona is not tired.",1,1
+"If Fiona is tired, then Dave is not big.","If Fiona is tired, then Dave is big.",0,1
+"If Fiona is not tired, then Dave is big.","If Dave is not big, then Fiona is tired.",1,1
+"If Fiona is not tired, then Dave is big.","If Fiona is not tired, then Dave is not big.",0,1
+"If Fiona is not tired, then Dave is not big.","If Dave is not big, then Fiona is not tired.",1,1
+"If Fiona is not tired, then Dave is not big.","If Fiona is not tired, then Dave is big.",0,1
+"If the dog is bad, then the rabbit is poor.","If the rabbit is not poor, then the dog is not bad.",1,1
+"If the dog is bad, then the rabbit is poor.","If the dog is bad, then the rabbit is not poor.",0,1
+"If the dog is bad, then the rabbit is not poor.","If the rabbit is poor, then the dog is not bad.",1,1
+"If the dog is bad, then the rabbit is not poor.","If the dog is bad, then the rabbit is poor.",0,1
+"If the dog is not bad, then the rabbit is poor.","If the rabbit is not poor, then the dog is bad.",1,1
+"If the dog is not bad, then the rabbit is poor.","If the dog is not bad, then the rabbit is not poor.",0,1
+"If the dog is not bad, then the rabbit is not poor.","If the rabbit is not poor, then the dog is not bad.",1,1
+"If the dog is not bad, then the rabbit is not poor.","If the dog is not bad, then the rabbit is poor.",0,1
+"If Bob is little, then Erin is bad.","If Erin is not bad, then Bob is not little.",1,1
+"If Bob is little, then Erin is bad.","If Bob is little, then Erin is not bad.",0,1
+"If Bob is little, then Erin is not bad.","If Erin is bad, then Bob is not little.",1,1
+"If Bob is little, then Erin is not bad.","If Bob is little, then Erin is bad.",0,1
+"If Bob is not little, then Erin is bad.","If Erin is not bad, then Bob is little.",1,1
+"If Bob is not little, then Erin is bad.","If Bob is not little, then Erin is not bad.",0,1
+"If Bob is not little, then Erin is not bad.","If Erin is not bad, then Bob is not little.",1,1
+"If Bob is not little, then Erin is not bad.","If Bob is not little, then Erin is bad.",0,1
+"If Anne is dull, then Alan is horrible.","If Alan is not horrible, then Anne is not dull.",1,1
+"If Anne is dull, then Alan is horrible.","If Anne is dull, then Alan is not horrible.",0,1
+"If Anne is dull, then Alan is not horrible.","If Alan is horrible, then Anne is not dull.",1,1
+"If Anne is dull, then Alan is not horrible.","If Anne is dull, then Alan is horrible.",0,1
+"If Anne is not dull, then Alan is horrible.","If Alan is not horrible, then Anne is dull.",1,1
+"If Anne is not dull, then Alan is horrible.","If Anne is not dull, then Alan is not horrible.",0,1
+"If Anne is not dull, then Alan is not horrible.","If Alan is not horrible, then Anne is not dull.",1,1
+"If Anne is not dull, then Alan is not horrible.","If Anne is not dull, then Alan is horrible.",0,1
+"If Charlie is heavy, then Alan is powerful.","If Alan is not powerful, then Charlie is not heavy.",1,1
+"If Charlie is heavy, then Alan is powerful.","If Charlie is heavy, then Alan is not powerful.",0,1
+"If Charlie is heavy, then Alan is not powerful.","If Alan is powerful, then Charlie is not heavy.",1,1
+"If Charlie is heavy, then Alan is not powerful.","If Charlie is heavy, then Alan is powerful.",0,1
+"If Charlie is not heavy, then Alan is powerful.","If Alan is not powerful, then Charlie is heavy.",1,1
+"If Charlie is not heavy, then Alan is powerful.","If Charlie is not heavy, then Alan is not powerful.",0,1
+"If Charlie is not heavy, then Alan is not powerful.","If Alan is not powerful, then Charlie is not heavy.",1,1
+"If Charlie is not heavy, then Alan is not powerful.","If Charlie is not heavy, then Alan is powerful.",0,1
+"If the cat is reckless, then the leopard is furry.","If the leopard is not furry, then the cat is not reckless.",1,1
+"If the cat is reckless, then the leopard is furry.","If the cat is reckless, then the leopard is not furry.",0,1
+"If the cat is reckless, then the leopard is not furry.","If the leopard is furry, then the cat is not reckless.",1,1
+"If the cat is reckless, then the leopard is not furry.","If the cat is reckless, then the leopard is furry.",0,1
+"If the cat is not reckless, then the leopard is furry.","If the leopard is not furry, then the cat is reckless.",1,1
+"If the cat is not reckless, then the leopard is furry.","If the cat is not reckless, then the leopard is not furry.",0,1
+"If the cat is not reckless, then the leopard is not furry.","If the leopard is not furry, then the cat is not reckless.",1,1
+"If the cat is not reckless, then the leopard is not furry.","If the cat is not reckless, then the leopard is furry.",0,1
+"If the crocodile is angry, then the mouse is horrible.","If the mouse is not horrible, then the crocodile is not angry.",1,1
+"If the crocodile is angry, then the mouse is horrible.","If the crocodile is angry, then the mouse is not horrible.",0,1
+"If the crocodile is angry, then the mouse is not horrible.","If the mouse is horrible, then the crocodile is not angry.",1,1
+"If the crocodile is angry, then the mouse is not horrible.","If the crocodile is angry, then the mouse is horrible.",0,1
+"If the crocodile is not angry, then the mouse is horrible.","If the mouse is not horrible, then the crocodile is angry.",1,1
+"If the crocodile is not angry, then the mouse is horrible.","If the crocodile is not angry, then the mouse is not horrible.",0,1
+"If the crocodile is not angry, then the mouse is not horrible.","If the mouse is not horrible, then the crocodile is not angry.",1,1
+"If the crocodile is not angry, then the mouse is not horrible.","If the crocodile is not angry, then the mouse is horrible.",0,1
+"If the snake is beautiful, then the lion is quiet.","If the lion is not quiet, then the snake is not beautiful.",1,1
+"If the snake is beautiful, then the lion is quiet.","If the snake is beautiful, then the lion is not quiet.",0,1
+"If the snake is beautiful, then the lion is not quiet.","If the lion is quiet, then the snake is not beautiful.",1,1
+"If the snake is beautiful, then the lion is not quiet.","If the snake is beautiful, then the lion is quiet.",0,1
+"If the snake is not beautiful, then the lion is quiet.","If the lion is not quiet, then the snake is beautiful.",1,1
+"If the snake is not beautiful, then the lion is quiet.","If the snake is not beautiful, then the lion is not quiet.",0,1
+"If the snake is not beautiful, then the lion is not quiet.","If the lion is not quiet, then the snake is not beautiful.",1,1
+"If the snake is not beautiful, then the lion is not quiet.","If the snake is not beautiful, then the lion is quiet.",0,1
+"If the cat is powerful, then the lion is tired.","If the lion is not tired, then the cat is not powerful.",1,1
+"If the cat is powerful, then the lion is tired.","If the cat is powerful, then the lion is not tired.",0,1
+"If the cat is powerful, then the lion is not tired.","If the lion is tired, then the cat is not powerful.",1,1
+"If the cat is powerful, then the lion is not tired.","If the cat is powerful, then the lion is tired.",0,1
+"If the cat is not powerful, then the lion is tired.","If the lion is not tired, then the cat is powerful.",1,1
+"If the cat is not powerful, then the lion is tired.","If the cat is not powerful, then the lion is not tired.",0,1
+"If the cat is not powerful, then the lion is not tired.","If the lion is not tired, then the cat is not powerful.",1,1
+"If the cat is not powerful, then the lion is not tired.","If the cat is not powerful, then the lion is tired.",0,1
+"If Gary is furry, then the bear is sad.","If the bear is not sad, then Gary is not furry.",1,1
+"If Gary is furry, then the bear is sad.","If Gary is furry, then the bear is not sad.",0,1
+"If Gary is furry, then the bear is not sad.","If the bear is sad, then Gary is not furry.",1,1
+"If Gary is furry, then the bear is not sad.","If Gary is furry, then the bear is sad.",0,1
+"If Gary is not furry, then the bear is sad.","If the bear is not sad, then Gary is furry.",1,1
+"If Gary is not furry, then the bear is sad.","If Gary is not furry, then the bear is not sad.",0,1
+"If Gary is not furry, then the bear is not sad.","If the bear is not sad, then Gary is not furry.",1,1
+"If Gary is not furry, then the bear is not sad.","If Gary is not furry, then the bear is sad.",0,1
+"If Charlie is fierce, then Anne is reckless.","If Anne is not reckless, then Charlie is not fierce.",1,1
+"If Charlie is fierce, then Anne is reckless.","If Charlie is fierce, then Anne is not reckless.",0,1
+"If Charlie is fierce, then Anne is not reckless.","If Anne is reckless, then Charlie is not fierce.",1,1
+"If Charlie is fierce, then Anne is not reckless.","If Charlie is fierce, then Anne is reckless.",0,1
+"If Charlie is not fierce, then Anne is reckless.","If Anne is not reckless, then Charlie is fierce.",1,1
+"If Charlie is not fierce, then Anne is reckless.","If Charlie is not fierce, then Anne is not reckless.",0,1
+"If Charlie is not fierce, then Anne is not reckless.","If Anne is not reckless, then Charlie is not fierce.",1,1
+"If Charlie is not fierce, then Anne is not reckless.","If Charlie is not fierce, then Anne is reckless.",0,1
+"If the leopard is lazy, then the bear is reckless.","If the bear is not reckless, then the leopard is not lazy.",1,1
+"If the leopard is lazy, then the bear is reckless.","If the leopard is lazy, then the bear is not reckless.",0,1
+"If the leopard is lazy, then the bear is not reckless.","If the bear is reckless, then the leopard is not lazy.",1,1
+"If the leopard is lazy, then the bear is not reckless.","If the leopard is lazy, then the bear is reckless.",0,1
+"If the leopard is not lazy, then the bear is reckless.","If the bear is not reckless, then the leopard is lazy.",1,1
+"If the leopard is not lazy, then the bear is reckless.","If the leopard is not lazy, then the bear is not reckless.",0,1
+"If the leopard is not lazy, then the bear is not reckless.","If the bear is not reckless, then the leopard is not lazy.",1,1
+"If the leopard is not lazy, then the bear is not reckless.","If the leopard is not lazy, then the bear is reckless.",0,1
+"If the lion is beautiful, then the mouse is poor.","If the mouse is not poor, then the lion is not beautiful.",1,1
+"If the lion is beautiful, then the mouse is poor.","If the lion is beautiful, then the mouse is not poor.",0,1
+"If the lion is beautiful, then the mouse is not poor.","If the mouse is poor, then the lion is not beautiful.",1,1
+"If the lion is beautiful, then the mouse is not poor.","If the lion is beautiful, then the mouse is poor.",0,1
+"If the lion is not beautiful, then the mouse is poor.","If the mouse is not poor, then the lion is beautiful.",1,1
+"If the lion is not beautiful, then the mouse is poor.","If the lion is not beautiful, then the mouse is not poor.",0,1
+"If the lion is not beautiful, then the mouse is not poor.","If the mouse is not poor, then the lion is not beautiful.",1,1
+"If the lion is not beautiful, then the mouse is not poor.","If the lion is not beautiful, then the mouse is poor.",0,1
+"If the bald eagle is tiny, then the lion is strong.","If the lion is not strong, then the bald eagle is not tiny.",1,1
+"If the bald eagle is tiny, then the lion is strong.","If the bald eagle is tiny, then the lion is not strong.",0,1
+"If the bald eagle is tiny, then the lion is not strong.","If the lion is strong, then the bald eagle is not tiny.",1,1
+"If the bald eagle is tiny, then the lion is not strong.","If the bald eagle is tiny, then the lion is strong.",0,1
+"If the bald eagle is not tiny, then the lion is strong.","If the lion is not strong, then the bald eagle is tiny.",1,1
+"If the bald eagle is not tiny, then the lion is strong.","If the bald eagle is not tiny, then the lion is not strong.",0,1
+"If the bald eagle is not tiny, then the lion is not strong.","If the lion is not strong, then the bald eagle is not tiny.",1,1
+"If the bald eagle is not tiny, then the lion is not strong.","If the bald eagle is not tiny, then the lion is strong.",0,1
+"If the cat is nice, then Anne is round.","If Anne is not round, then the cat is not nice.",1,1
+"If the cat is nice, then Anne is round.","If the cat is nice, then Anne is not round.",0,1
+"If the cat is nice, then Anne is not round.","If Anne is round, then the cat is not nice.",1,1
+"If the cat is nice, then Anne is not round.","If the cat is nice, then Anne is round.",0,1
+"If the cat is not nice, then Anne is round.","If Anne is not round, then the cat is nice.",1,1
+"If the cat is not nice, then Anne is round.","If the cat is not nice, then Anne is not round.",0,1
+"If the cat is not nice, then Anne is not round.","If Anne is not round, then the cat is not nice.",1,1
+"If the cat is not nice, then Anne is not round.","If the cat is not nice, then Anne is round.",0,1
+"If the cat is round, then Harry is lovely.","If Harry is not lovely, then the cat is not round.",1,1
+"If the cat is round, then Harry is lovely.","If the cat is round, then Harry is not lovely.",0,1
+"If the cat is round, then Harry is not lovely.","If Harry is lovely, then the cat is not round.",1,1
+"If the cat is round, then Harry is not lovely.","If the cat is round, then Harry is lovely.",0,1
+"If the cat is not round, then Harry is lovely.","If Harry is not lovely, then the cat is round.",1,1
+"If the cat is not round, then Harry is lovely.","If the cat is not round, then Harry is not lovely.",0,1
+"If the cat is not round, then Harry is not lovely.","If Harry is not lovely, then the cat is not round.",1,1
+"If the cat is not round, then Harry is not lovely.","If the cat is not round, then Harry is lovely.",0,1
+"If the snake is thin, then Gary is huge.","If Gary is not huge, then the snake is not thin.",1,1
+"If the snake is thin, then Gary is huge.","If the snake is thin, then Gary is not huge.",0,1
+"If the snake is thin, then Gary is not huge.","If Gary is huge, then the snake is not thin.",1,1
+"If the snake is thin, then Gary is not huge.","If the snake is thin, then Gary is huge.",0,1
+"If the snake is not thin, then Gary is huge.","If Gary is not huge, then the snake is thin.",1,1
+"If the snake is not thin, then Gary is huge.","If the snake is not thin, then Gary is not huge.",0,1
+"If the snake is not thin, then Gary is not huge.","If Gary is not huge, then the snake is not thin.",1,1
+"If the snake is not thin, then Gary is not huge.","If the snake is not thin, then Gary is huge.",0,1
+"If Dave is lovely, then Fiona is dull.","If Fiona is not dull, then Dave is not lovely.",1,1
+"If Dave is lovely, then Fiona is dull.","If Dave is lovely, then Fiona is not dull.",0,1
+"If Dave is lovely, then Fiona is not dull.","If Fiona is dull, then Dave is not lovely.",1,1
+"If Dave is lovely, then Fiona is not dull.","If Dave is lovely, then Fiona is dull.",0,1
+"If Dave is not lovely, then Fiona is dull.","If Fiona is not dull, then Dave is lovely.",1,1
+"If Dave is not lovely, then Fiona is dull.","If Dave is not lovely, then Fiona is not dull.",0,1
+"If Dave is not lovely, then Fiona is not dull.","If Fiona is not dull, then Dave is not lovely.",1,1
+"If Dave is not lovely, then Fiona is not dull.","If Dave is not lovely, then Fiona is dull.",0,1
+"If the bald eagle is awful, then the rabbit is quiet.","If the rabbit is not quiet, then the bald eagle is not awful.",1,1
+"If the bald eagle is awful, then the rabbit is quiet.","If the bald eagle is awful, then the rabbit is not quiet.",0,1
+"If the bald eagle is awful, then the rabbit is not quiet.","If the rabbit is quiet, then the bald eagle is not awful.",1,1
+"If the bald eagle is awful, then the rabbit is not quiet.","If the bald eagle is awful, then the rabbit is quiet.",0,1
+"If the bald eagle is not awful, then the rabbit is quiet.","If the rabbit is not quiet, then the bald eagle is awful.",1,1
+"If the bald eagle is not awful, then the rabbit is quiet.","If the bald eagle is not awful, then the rabbit is not quiet.",0,1
+"If the bald eagle is not awful, then the rabbit is not quiet.","If the rabbit is not quiet, then the bald eagle is not awful.",1,1
+"If the bald eagle is not awful, then the rabbit is not quiet.","If the bald eagle is not awful, then the rabbit is quiet.",0,1
+"If the cat is cute, then the snake is awful.","If the snake is not awful, then the cat is not cute.",1,1
+"If the cat is cute, then the snake is awful.","If the cat is cute, then the snake is not awful.",0,1
+"If the cat is cute, then the snake is not awful.","If the snake is awful, then the cat is not cute.",1,1
+"If the cat is cute, then the snake is not awful.","If the cat is cute, then the snake is awful.",0,1
+"If the cat is not cute, then the snake is awful.","If the snake is not awful, then the cat is cute.",1,1
+"If the cat is not cute, then the snake is awful.","If the cat is not cute, then the snake is not awful.",0,1
+"If the cat is not cute, then the snake is not awful.","If the snake is not awful, then the cat is not cute.",1,1
+"If the cat is not cute, then the snake is not awful.","If the cat is not cute, then the snake is awful.",0,1
+"If the wolf is nice, then Erin is fierce.","If Erin is not fierce, then the wolf is not nice.",1,1
+"If the wolf is nice, then Erin is fierce.","If the wolf is nice, then Erin is not fierce.",0,1
+"If the wolf is nice, then Erin is not fierce.","If Erin is fierce, then the wolf is not nice.",1,1
+"If the wolf is nice, then Erin is not fierce.","If the wolf is nice, then Erin is fierce.",0,1
+"If the wolf is not nice, then Erin is fierce.","If Erin is not fierce, then the wolf is nice.",1,1
+"If the wolf is not nice, then Erin is fierce.","If the wolf is not nice, then Erin is not fierce.",0,1
+"If the wolf is not nice, then Erin is not fierce.","If Erin is not fierce, then the wolf is not nice.",1,1
+"If the wolf is not nice, then Erin is not fierce.","If the wolf is not nice, then Erin is fierce.",0,1
+"If the lion is fierce, then Erin is boring.","If Erin is not boring, then the lion is not fierce.",1,1
+"If the lion is fierce, then Erin is boring.","If the lion is fierce, then Erin is not boring.",0,1
+"If the lion is fierce, then Erin is not boring.","If Erin is boring, then the lion is not fierce.",1,1
+"If the lion is fierce, then Erin is not boring.","If the lion is fierce, then Erin is boring.",0,1
+"If the lion is not fierce, then Erin is boring.","If Erin is not boring, then the lion is fierce.",1,1
+"If the lion is not fierce, then Erin is boring.","If the lion is not fierce, then Erin is not boring.",0,1
+"If the lion is not fierce, then Erin is not boring.","If Erin is not boring, then the lion is not fierce.",1,1
+"If the lion is not fierce, then Erin is not boring.","If the lion is not fierce, then Erin is boring.",0,1
+"If the crocodile is slow, then the tiger is powerful.","If the tiger is not powerful, then the crocodile is not slow.",1,1
+"If the crocodile is slow, then the tiger is powerful.","If the crocodile is slow, then the tiger is not powerful.",0,1
+"If the crocodile is slow, then the tiger is not powerful.","If the tiger is powerful, then the crocodile is not slow.",1,1
+"If the crocodile is slow, then the tiger is not powerful.","If the crocodile is slow, then the tiger is powerful.",0,1
+"If the crocodile is not slow, then the tiger is powerful.","If the tiger is not powerful, then the crocodile is slow.",1,1
+"If the crocodile is not slow, then the tiger is powerful.","If the crocodile is not slow, then the tiger is not powerful.",0,1
+"If the crocodile is not slow, then the tiger is not powerful.","If the tiger is not powerful, then the crocodile is not slow.",1,1
+"If the crocodile is not slow, then the tiger is not powerful.","If the crocodile is not slow, then the tiger is powerful.",0,1
+"If the lion is lazy, then Gary is clever.","If Gary is not clever, then the lion is not lazy.",1,1
+"If the lion is lazy, then Gary is clever.","If the lion is lazy, then Gary is not clever.",0,1
+"If the lion is lazy, then Gary is not clever.","If Gary is clever, then the lion is not lazy.",1,1
+"If the lion is lazy, then Gary is not clever.","If the lion is lazy, then Gary is clever.",0,1
+"If the lion is not lazy, then Gary is clever.","If Gary is not clever, then the lion is lazy.",1,1
+"If the lion is not lazy, then Gary is clever.","If the lion is not lazy, then Gary is not clever.",0,1
+"If the lion is not lazy, then Gary is not clever.","If Gary is not clever, then the lion is not lazy.",1,1
+"If the lion is not lazy, then Gary is not clever.","If the lion is not lazy, then Gary is clever.",0,1
+"If the lion is small, then the cat is poor.","If the cat is not poor, then the lion is not small.",1,1
+"If the lion is small, then the cat is poor.","If the lion is small, then the cat is not poor.",0,1
+"If the lion is small, then the cat is not poor.","If the cat is poor, then the lion is not small.",1,1
+"If the lion is small, then the cat is not poor.","If the lion is small, then the cat is poor.",0,1
+"If the lion is not small, then the cat is poor.","If the cat is not poor, then the lion is small.",1,1
+"If the lion is not small, then the cat is poor.","If the lion is not small, then the cat is not poor.",0,1
+"If the lion is not small, then the cat is not poor.","If the cat is not poor, then the lion is not small.",1,1
+"If the lion is not small, then the cat is not poor.","If the lion is not small, then the cat is poor.",0,1
+"If Harry is dull, then the lion is fierce.","If the lion is not fierce, then Harry is not dull.",1,1
+"If Harry is dull, then the lion is fierce.","If Harry is dull, then the lion is not fierce.",0,1
+"If Harry is dull, then the lion is not fierce.","If the lion is fierce, then Harry is not dull.",1,1
+"If Harry is dull, then the lion is not fierce.","If Harry is dull, then the lion is fierce.",0,1
+"If Harry is not dull, then the lion is fierce.","If the lion is not fierce, then Harry is dull.",1,1
+"If Harry is not dull, then the lion is fierce.","If Harry is not dull, then the lion is not fierce.",0,1
+"If Harry is not dull, then the lion is not fierce.","If the lion is not fierce, then Harry is not dull.",1,1
+"If Harry is not dull, then the lion is not fierce.","If Harry is not dull, then the lion is fierce.",0,1
+"If the snake is tired, then the dinosaur is beautiful.","If the dinosaur is not beautiful, then the snake is not tired.",1,1
+"If the snake is tired, then the dinosaur is beautiful.","If the snake is tired, then the dinosaur is not beautiful.",0,1
+"If the snake is tired, then the dinosaur is not beautiful.","If the dinosaur is beautiful, then the snake is not tired.",1,1
+"If the snake is tired, then the dinosaur is not beautiful.","If the snake is tired, then the dinosaur is beautiful.",0,1
+"If the snake is not tired, then the dinosaur is beautiful.","If the dinosaur is not beautiful, then the snake is tired.",1,1
+"If the snake is not tired, then the dinosaur is beautiful.","If the snake is not tired, then the dinosaur is not beautiful.",0,1
+"If the snake is not tired, then the dinosaur is not beautiful.","If the dinosaur is not beautiful, then the snake is not tired.",1,1
+"If the snake is not tired, then the dinosaur is not beautiful.","If the snake is not tired, then the dinosaur is beautiful.",0,1
+"If Bob is nice, then Fiona is dull.","If Fiona is not dull, then Bob is not nice.",1,1
+"If Bob is nice, then Fiona is dull.","If Bob is nice, then Fiona is not dull.",0,1
+"If Bob is nice, then Fiona is not dull.","If Fiona is dull, then Bob is not nice.",1,1
+"If Bob is nice, then Fiona is not dull.","If Bob is nice, then Fiona is dull.",0,1
+"If Bob is not nice, then Fiona is dull.","If Fiona is not dull, then Bob is nice.",1,1
+"If Bob is not nice, then Fiona is dull.","If Bob is not nice, then Fiona is not dull.",0,1
+"If Bob is not nice, then Fiona is not dull.","If Fiona is not dull, then Bob is not nice.",1,1
+"If Bob is not nice, then Fiona is not dull.","If Bob is not nice, then Fiona is dull.",0,1
+"If Gary is short, then the dog is sleepy.","If the dog is not sleepy, then Gary is not short.",1,1
+"If Gary is short, then the dog is sleepy.","If Gary is short, then the dog is not sleepy.",0,1
+"If Gary is short, then the dog is not sleepy.","If the dog is sleepy, then Gary is not short.",1,1
+"If Gary is short, then the dog is not sleepy.","If Gary is short, then the dog is sleepy.",0,1
+"If Gary is not short, then the dog is sleepy.","If the dog is not sleepy, then Gary is short.",1,1
+"If Gary is not short, then the dog is sleepy.","If Gary is not short, then the dog is not sleepy.",0,1
+"If Gary is not short, then the dog is not sleepy.","If the dog is not sleepy, then Gary is not short.",1,1
+"If Gary is not short, then the dog is not sleepy.","If Gary is not short, then the dog is sleepy.",0,1
+"If the cat is reckless, then Bob is boring.","If Bob is not boring, then the cat is not reckless.",1,1
+"If the cat is reckless, then Bob is boring.","If the cat is reckless, then Bob is not boring.",0,1
+"If the cat is reckless, then Bob is not boring.","If Bob is boring, then the cat is not reckless.",1,1
+"If the cat is reckless, then Bob is not boring.","If the cat is reckless, then Bob is boring.",0,1
+"If the cat is not reckless, then Bob is boring.","If Bob is not boring, then the cat is reckless.",1,1
+"If the cat is not reckless, then Bob is boring.","If the cat is not reckless, then Bob is not boring.",0,1
+"If the cat is not reckless, then Bob is not boring.","If Bob is not boring, then the cat is not reckless.",1,1
+"If the cat is not reckless, then Bob is not boring.","If the cat is not reckless, then Bob is boring.",0,1
+"If the lion is funny, then the cat is dull.","If the cat is not dull, then the lion is not funny.",1,1
+"If the lion is funny, then the cat is dull.","If the lion is funny, then the cat is not dull.",0,1
+"If the lion is funny, then the cat is not dull.","If the cat is dull, then the lion is not funny.",1,1
+"If the lion is funny, then the cat is not dull.","If the lion is funny, then the cat is dull.",0,1
+"If the lion is not funny, then the cat is dull.","If the cat is not dull, then the lion is funny.",1,1
+"If the lion is not funny, then the cat is dull.","If the lion is not funny, then the cat is not dull.",0,1
+"If the lion is not funny, then the cat is not dull.","If the cat is not dull, then the lion is not funny.",1,1
+"If the lion is not funny, then the cat is not dull.","If the lion is not funny, then the cat is dull.",0,1
+"If Fiona is sad, then the snake is nice.","If the snake is not nice, then Fiona is not sad.",1,1
+"If Fiona is sad, then the snake is nice.","If Fiona is sad, then the snake is not nice.",0,1
+"If Fiona is sad, then the snake is not nice.","If the snake is nice, then Fiona is not sad.",1,1
+"If Fiona is sad, then the snake is not nice.","If Fiona is sad, then the snake is nice.",0,1
+"If Fiona is not sad, then the snake is nice.","If the snake is not nice, then Fiona is sad.",1,1
+"If Fiona is not sad, then the snake is nice.","If Fiona is not sad, then the snake is not nice.",0,1
+"If Fiona is not sad, then the snake is not nice.","If the snake is not nice, then Fiona is not sad.",1,1
+"If Fiona is not sad, then the snake is not nice.","If Fiona is not sad, then the snake is nice.",0,1
+"If the wolf is heavy, then the leopard is tiny.","If the leopard is not tiny, then the wolf is not heavy.",1,1
+"If the wolf is heavy, then the leopard is tiny.","If the wolf is heavy, then the leopard is not tiny.",0,1
+"If the wolf is heavy, then the leopard is not tiny.","If the leopard is tiny, then the wolf is not heavy.",1,1
+"If the wolf is heavy, then the leopard is not tiny.","If the wolf is heavy, then the leopard is tiny.",0,1
+"If the wolf is not heavy, then the leopard is tiny.","If the leopard is not tiny, then the wolf is heavy.",1,1
+"If the wolf is not heavy, then the leopard is tiny.","If the wolf is not heavy, then the leopard is not tiny.",0,1
+"If the wolf is not heavy, then the leopard is not tiny.","If the leopard is not tiny, then the wolf is not heavy.",1,1
+"If the wolf is not heavy, then the leopard is not tiny.","If the wolf is not heavy, then the leopard is tiny.",0,1
+"If the bear is furry, then the snake is smart.","If the snake is not smart, then the bear is not furry.",1,1
+"If the bear is furry, then the snake is smart.","If the bear is furry, then the snake is not smart.",0,1
+"If the bear is furry, then the snake is not smart.","If the snake is smart, then the bear is not furry.",1,1
+"If the bear is furry, then the snake is not smart.","If the bear is furry, then the snake is smart.",0,1
+"If the bear is not furry, then the snake is smart.","If the snake is not smart, then the bear is furry.",1,1
+"If the bear is not furry, then the snake is smart.","If the bear is not furry, then the snake is not smart.",0,1
+"If the bear is not furry, then the snake is not smart.","If the snake is not smart, then the bear is not furry.",1,1
+"If the bear is not furry, then the snake is not smart.","If the bear is not furry, then the snake is smart.",0,1
+"If the tiger is little, then the squirrel is little.",the tiger is little or the squirrel is little.,1,1
+the tiger is little or the squirrel is little.,the tiger is not little or the squirrel is not little.,0,1
+"If the bear is cute, then the lion is awful.",the bear is cute or the lion is awful.,1,1
+the bear is cute or the lion is awful.,the bear is not cute or the lion is not awful.,0,1
+"If the squirrel is lovely, then the dinosaur is beautiful.",the squirrel is lovely or the dinosaur is beautiful.,1,1
+the squirrel is lovely or the dinosaur is beautiful.,the squirrel is not lovely or the dinosaur is not beautiful.,0,1
+"If Fiona is round, then Dave is reckless.",Fiona is round or Dave is reckless.,1,1
+Fiona is round or Dave is reckless.,Fiona is not round or Dave is not reckless.,0,1
+"If the rabbit is cute, then the wolf is tiny.",the rabbit is cute or the wolf is tiny.,1,1
+the rabbit is cute or the wolf is tiny.,the rabbit is not cute or the wolf is not tiny.,0,1
+"If the bald eagle is angry, then the squirrel is sad.",the bald eagle is angry or the squirrel is sad.,1,1
+the bald eagle is angry or the squirrel is sad.,the bald eagle is not angry or the squirrel is not sad.,0,1
+"If the wolf is sad, then the tiger is smart.",the wolf is sad or the tiger is smart.,1,1
+the wolf is sad or the tiger is smart.,the wolf is not sad or the tiger is not smart.,0,1
+"If Fiona is quiet, then the dog is dull.",Fiona is quiet or the dog is dull.,1,1
+Fiona is quiet or the dog is dull.,Fiona is not quiet or the dog is not dull.,0,1
+"If Dave is little, then the rabbit is awful.",Dave is little or the rabbit is awful.,1,1
+Dave is little or the rabbit is awful.,Dave is not little or the rabbit is not awful.,0,1
+"If Fiona is smart, then the dinosaur is clever.",Fiona is smart or the dinosaur is clever.,1,1
+Fiona is smart or the dinosaur is clever.,Fiona is not smart or the dinosaur is not clever.,0,1
+"If the lion is poor, then Erin is high.",the lion is poor or Erin is high.,1,1
+the lion is poor or Erin is high.,the lion is not poor or Erin is not high.,0,1
+"If the lion is thin, then the cat is dull.",the lion is thin or the cat is dull.,1,1
+the lion is thin or the cat is dull.,the lion is not thin or the cat is not dull.,0,1
+"If Bob is rough, then the leopard is boring.",Bob is rough or the leopard is boring.,1,1
+Bob is rough or the leopard is boring.,Bob is not rough or the leopard is not boring.,0,1
+"If the rabbit is dull, then Erin is tiny.",the rabbit is dull or Erin is tiny.,1,1
+the rabbit is dull or Erin is tiny.,the rabbit is not dull or Erin is not tiny.,0,1
+"If the bear is dull, then Gary is short.",the bear is dull or Gary is short.,1,1
+the bear is dull or Gary is short.,the bear is not dull or Gary is not short.,0,1
+"If Alan is powerful, then the wolf is beautiful.",Alan is powerful or the wolf is beautiful.,1,1
+Alan is powerful or the wolf is beautiful.,Alan is not powerful or the wolf is not beautiful.,0,1
+"If the rabbit is bad, then the wolf is poor.",the rabbit is bad or the wolf is poor.,1,1
+the rabbit is bad or the wolf is poor.,the rabbit is not bad or the wolf is not poor.,0,1
+"If Harry is huge, then Gary is kind.",Harry is huge or Gary is kind.,1,1
+Harry is huge or Gary is kind.,Harry is not huge or Gary is not kind.,0,1
+"If the lion is awful, then Anne is fierce.",the lion is awful or Anne is fierce.,1,1
+the lion is awful or Anne is fierce.,the lion is not awful or Anne is not fierce.,0,1
+"If Gary is lazy, then Anne is lovely.",Gary is lazy or Anne is lovely.,1,1
+Gary is lazy or Anne is lovely.,Gary is not lazy or Anne is not lovely.,0,1
+"If the bear is big, then Erin is funny.",the bear is big or Erin is funny.,1,1
+the bear is big or Erin is funny.,the bear is not big or Erin is not funny.,0,1
+"If the bald eagle is big, then the lion is dull.",the bald eagle is big or the lion is dull.,1,1
+the bald eagle is big or the lion is dull.,the bald eagle is not big or the lion is not dull.,0,1
+"If Charlie is short, then the tiger is beautiful.",Charlie is short or the tiger is beautiful.,1,1
+Charlie is short or the tiger is beautiful.,Charlie is not short or the tiger is not beautiful.,0,1
+"If Erin is angry, then the dinosaur is furry.",Erin is angry or the dinosaur is furry.,1,1
+Erin is angry or the dinosaur is furry.,Erin is not angry or the dinosaur is not furry.,0,1
+"If Gary is nice, then Erin is high.",Gary is nice or Erin is high.,1,1
+Gary is nice or Erin is high.,Gary is not nice or Erin is not high.,0,1
+"If the dinosaur is lazy, then the bald eagle is clever.",the dinosaur is lazy or the bald eagle is clever.,1,1
+the dinosaur is lazy or the bald eagle is clever.,the dinosaur is not lazy or the bald eagle is not clever.,0,1
+"If the bald eagle is poor, then Dave is clever.",the bald eagle is poor or Dave is clever.,1,1
+the bald eagle is poor or Dave is clever.,the bald eagle is not poor or Dave is not clever.,0,1
+"If the squirrel is fierce, then the dog is fierce.",the squirrel is fierce or the dog is fierce.,1,1
+the squirrel is fierce or the dog is fierce.,the squirrel is not fierce or the dog is not fierce.,0,1
+"If the cat is furry, then Fiona is rough.",the cat is furry or Fiona is rough.,1,1
+the cat is furry or Fiona is rough.,the cat is not furry or Fiona is not rough.,0,1
+"If the mouse is slow, then Erin is rough.",the mouse is slow or Erin is rough.,1,1
+the mouse is slow or Erin is rough.,the mouse is not slow or Erin is not rough.,0,1
+"If Gary is cute, then the dinosaur is little.",Gary is cute or the dinosaur is little.,1,1
+Gary is cute or the dinosaur is little.,Gary is not cute or the dinosaur is not little.,0,1
+"If the leopard is funny, then the squirrel is dull.",the leopard is funny or the squirrel is dull.,1,1
+the leopard is funny or the squirrel is dull.,the leopard is not funny or the squirrel is not dull.,0,1
+"If Bob is lazy, then the squirrel is quiet.",Bob is lazy or the squirrel is quiet.,1,1
+Bob is lazy or the squirrel is quiet.,Bob is not lazy or the squirrel is not quiet.,0,1
+"If Alan is rough, then Dave is dull.",Alan is rough or Dave is dull.,1,1
+Alan is rough or Dave is dull.,Alan is not rough or Dave is not dull.,0,1
+"If the dinosaur is cute, then the lion is lovely.",the dinosaur is cute or the lion is lovely.,1,1
+the dinosaur is cute or the lion is lovely.,the dinosaur is not cute or the lion is not lovely.,0,1
+"If the dog is huge, then Anne is wealthy.",the dog is huge or Anne is wealthy.,1,1
+the dog is huge or Anne is wealthy.,the dog is not huge or Anne is not wealthy.,0,1
+"If Harry is heavy, then the rabbit is rough.",Harry is heavy or the rabbit is rough.,1,1
+Harry is heavy or the rabbit is rough.,Harry is not heavy or the rabbit is not rough.,0,1
+"If Harry is heavy, then the crocodile is short.",Harry is heavy or the crocodile is short.,1,1
+Harry is heavy or the crocodile is short.,Harry is not heavy or the crocodile is not short.,0,1
+"If the squirrel is tiny, then the leopard is slow.",the squirrel is tiny or the leopard is slow.,1,1
+the squirrel is tiny or the leopard is slow.,the squirrel is not tiny or the leopard is not slow.,0,1
+"If the cat is tiny, then the rabbit is kind.",the cat is tiny or the rabbit is kind.,1,1
+the cat is tiny or the rabbit is kind.,the cat is not tiny or the rabbit is not kind.,0,1
+"If the squirrel is nice, then Fiona is tired.",the squirrel is nice or Fiona is tired.,1,1
+the squirrel is nice or Fiona is tired.,the squirrel is not nice or Fiona is not tired.,0,1
+"If Bob is dull, then the crocodile is nice.",Bob is dull or the crocodile is nice.,1,1
+Bob is dull or the crocodile is nice.,Bob is not dull or the crocodile is not nice.,0,1
+"If the leopard is slow, then the bald eagle is angry.",the leopard is slow or the bald eagle is angry.,1,1
+the leopard is slow or the bald eagle is angry.,the leopard is not slow or the bald eagle is not angry.,0,1
+"If the cat is dull, then Erin is poor.",the cat is dull or Erin is poor.,1,1
+the cat is dull or Erin is poor.,the cat is not dull or Erin is not poor.,0,1
+"If Fiona is smart, then Anne is kind.",Fiona is smart or Anne is kind.,1,1
+Fiona is smart or Anne is kind.,Fiona is not smart or Anne is not kind.,0,1
+"If Anne is heavy, then the tiger is strong.",Anne is heavy or the tiger is strong.,1,1
+Anne is heavy or the tiger is strong.,Anne is not heavy or the tiger is not strong.,0,1
+"If the squirrel is small, then the mouse is bad.",the squirrel is small or the mouse is bad.,1,1
+the squirrel is small or the mouse is bad.,the squirrel is not small or the mouse is not bad.,0,1
+"If the leopard is rough, then the dinosaur is quiet.",the leopard is rough or the dinosaur is quiet.,1,1
+the leopard is rough or the dinosaur is quiet.,the leopard is not rough or the dinosaur is not quiet.,0,1
+"If Harry is rough, then Dave is quiet.",Harry is rough or Dave is quiet.,1,1
+Harry is rough or Dave is quiet.,Harry is not rough or Dave is not quiet.,0,1
+"If the bear is beautiful, then the leopard is reckless.",the bear is beautiful or the leopard is reckless.,1,1
+the bear is beautiful or the leopard is reckless.,the bear is not beautiful or the leopard is not reckless.,0,1
+"If Bob is dull, then the dog is dull.",Bob is dull or the dog is dull.,1,1
+Bob is dull or the dog is dull.,Bob is not dull or the dog is not dull.,0,1
+"If the dinosaur is boring, then the bear is clever.",the dinosaur is boring or the bear is clever.,1,1
+the dinosaur is boring or the bear is clever.,the dinosaur is not boring or the bear is not clever.,0,1
+"If Fiona is strong, then Erin is sad.",Fiona is strong or Erin is sad.,1,1
+Fiona is strong or Erin is sad.,Fiona is not strong or Erin is not sad.,0,1
+"If the crocodile is tiny, then Dave is clever.",the crocodile is tiny or Dave is clever.,1,1
+the crocodile is tiny or Dave is clever.,the crocodile is not tiny or Dave is not clever.,0,1
+"If Charlie is wealthy, then the bear is funny.",Charlie is wealthy or the bear is funny.,1,1
+Charlie is wealthy or the bear is funny.,Charlie is not wealthy or the bear is not funny.,0,1
+"If Dave is high, then the dog is big.",Dave is high or the dog is big.,1,1
+Dave is high or the dog is big.,Dave is not high or the dog is not big.,0,1
+"If Alan is kind, then Anne is little.",Alan is kind or Anne is little.,1,1
+Alan is kind or Anne is little.,Alan is not kind or Anne is not little.,0,1
+"If the snake is boring, then the rabbit is nice.",the snake is boring or the rabbit is nice.,1,1
+the snake is boring or the rabbit is nice.,the snake is not boring or the rabbit is not nice.,0,1
+"If the leopard is cute, then the cat is powerful.",the leopard is cute or the cat is powerful.,1,1
+the leopard is cute or the cat is powerful.,the leopard is not cute or the cat is not powerful.,0,1
+"If the squirrel is bad, then Alan is poor.",the squirrel is bad or Alan is poor.,1,1
+the squirrel is bad or Alan is poor.,the squirrel is not bad or Alan is not poor.,0,1
+"If the snake is tiny, then the bald eagle is nice.",the snake is tiny or the bald eagle is nice.,1,1
+the snake is tiny or the bald eagle is nice.,the snake is not tiny or the bald eagle is not nice.,0,1
+"If the cat is fierce, then the dog is funny.",the cat is fierce or the dog is funny.,1,1
+the cat is fierce or the dog is funny.,the cat is not fierce or the dog is not funny.,0,1
+"If the dinosaur is smart, then the dog is lazy.",the dinosaur is smart or the dog is lazy.,1,1
+the dinosaur is smart or the dog is lazy.,the dinosaur is not smart or the dog is not lazy.,0,1
+"If the bald eagle is smart, then the cat is cute.",the bald eagle is smart or the cat is cute.,1,1
+the bald eagle is smart or the cat is cute.,the bald eagle is not smart or the cat is not cute.,0,1
+"If Gary is high, then the wolf is thin.",Gary is high or the wolf is thin.,1,1
+Gary is high or the wolf is thin.,Gary is not high or the wolf is not thin.,0,1
+"If Dave is smart, then Anne is sleepy.",Dave is smart or Anne is sleepy.,1,1
+Dave is smart or Anne is sleepy.,Dave is not smart or Anne is not sleepy.,0,1
+"If Erin is big, then the lion is huge.",Erin is big or the lion is huge.,1,1
+Erin is big or the lion is huge.,Erin is not big or the lion is not huge.,0,1
+"If the bear is little, then the dog is clever.",the bear is little or the dog is clever.,1,1
+the bear is little or the dog is clever.,the bear is not little or the dog is not clever.,0,1
+"If Fiona is rough, then Charlie is funny.",Fiona is rough or Charlie is funny.,1,1
+Fiona is rough or Charlie is funny.,Fiona is not rough or Charlie is not funny.,0,1
+"If the tiger is big, then the rabbit is horrible.",the tiger is big or the rabbit is horrible.,1,1
+the tiger is big or the rabbit is horrible.,the tiger is not big or the rabbit is not horrible.,0,1
+"If the tiger is rough, then the bald eagle is beautiful.",the tiger is rough or the bald eagle is beautiful.,1,1
+the tiger is rough or the bald eagle is beautiful.,the tiger is not rough or the bald eagle is not beautiful.,0,1
+"If Bob is nice, then the tiger is horrible.",Bob is nice or the tiger is horrible.,1,1
+Bob is nice or the tiger is horrible.,Bob is not nice or the tiger is not horrible.,0,1
+"If the squirrel is dull, then the dog is sleepy.",the squirrel is dull or the dog is sleepy.,1,1
+the squirrel is dull or the dog is sleepy.,the squirrel is not dull or the dog is not sleepy.,0,1
+"If Erin is smart, then the dog is kind.",Erin is smart or the dog is kind.,1,1
+Erin is smart or the dog is kind.,Erin is not smart or the dog is not kind.,0,1
+"If the leopard is sleepy, then Anne is huge.",the leopard is sleepy or Anne is huge.,1,1
+the leopard is sleepy or Anne is huge.,the leopard is not sleepy or Anne is not huge.,0,1
+"If the wolf is angry, then the lion is cute.",the wolf is angry or the lion is cute.,1,1
+the wolf is angry or the lion is cute.,the wolf is not angry or the lion is not cute.,0,1
+"If the bear is cute, then the wolf is poor.",the bear is cute or the wolf is poor.,1,1
+the bear is cute or the wolf is poor.,the bear is not cute or the wolf is not poor.,0,1
+"If the bear is clever, then the wolf is nice.",the bear is clever or the wolf is nice.,1,1
+the bear is clever or the wolf is nice.,the bear is not clever or the wolf is not nice.,0,1
+"If the dog is lazy, then the leopard is sleepy.",the dog is lazy or the leopard is sleepy.,1,1
+the dog is lazy or the leopard is sleepy.,the dog is not lazy or the leopard is not sleepy.,0,1
+"If the tiger is rough, then Gary is tired.",the tiger is rough or Gary is tired.,1,1
+the tiger is rough or Gary is tired.,the tiger is not rough or Gary is not tired.,0,1
+"If the dinosaur is powerful, then Gary is rough.",the dinosaur is powerful or Gary is rough.,1,1
+the dinosaur is powerful or Gary is rough.,the dinosaur is not powerful or Gary is not rough.,0,1
+"If the crocodile is round, then the wolf is powerful.",the crocodile is round or the wolf is powerful.,1,1
+the crocodile is round or the wolf is powerful.,the crocodile is not round or the wolf is not powerful.,0,1
+"If Erin is furry, then the dinosaur is cute.",Erin is furry or the dinosaur is cute.,1,1
+Erin is furry or the dinosaur is cute.,Erin is not furry or the dinosaur is not cute.,0,1
+"If Anne is lazy, then the bear is rough.",Anne is lazy or the bear is rough.,1,1
+Anne is lazy or the bear is rough.,Anne is not lazy or the bear is not rough.,0,1
+"If Dave is heavy, then the rabbit is sleepy.",Dave is heavy or the rabbit is sleepy.,1,1
+Dave is heavy or the rabbit is sleepy.,Dave is not heavy or the rabbit is not sleepy.,0,1
+"If the leopard is tired, then the crocodile is boring.",the leopard is tired or the crocodile is boring.,1,1
+the leopard is tired or the crocodile is boring.,the leopard is not tired or the crocodile is not boring.,0,1
+"If Anne is angry, then the wolf is sleepy.",Anne is angry or the wolf is sleepy.,1,1
+Anne is angry or the wolf is sleepy.,Anne is not angry or the wolf is not sleepy.,0,1
+"If the crocodile is tiny, then Gary is tiny.",the crocodile is tiny or Gary is tiny.,1,1
+the crocodile is tiny or Gary is tiny.,the crocodile is not tiny or Gary is not tiny.,0,1
+"If Anne is wealthy, then the mouse is tiny.",Anne is wealthy or the mouse is tiny.,1,1
+Anne is wealthy or the mouse is tiny.,Anne is not wealthy or the mouse is not tiny.,0,1
+"If the tiger is dull, then the dog is heavy.",the tiger is dull or the dog is heavy.,1,1
+the tiger is dull or the dog is heavy.,the tiger is not dull or the dog is not heavy.,0,1
+"If the tiger is smart, then Bob is cute.",the tiger is smart or Bob is cute.,1,1
+the tiger is smart or Bob is cute.,the tiger is not smart or Bob is not cute.,0,1
+"If the wolf is smart, then Charlie is thin.",the wolf is smart or Charlie is thin.,1,1
+the wolf is smart or Charlie is thin.,the wolf is not smart or Charlie is not thin.,0,1
+"If Alan is rough, then Erin is rough.",Alan is rough or Erin is rough.,1,1
+Alan is rough or Erin is rough.,Alan is not rough or Erin is not rough.,0,1
+"If the bear is powerful, then the crocodile is heavy.",the bear is powerful or the crocodile is heavy.,1,1
+the bear is powerful or the crocodile is heavy.,the bear is not powerful or the crocodile is not heavy.,0,1
+"If the snake is little, then Harry is rough.",the snake is little or Harry is rough.,1,1
+the snake is little or Harry is rough.,the snake is not little or Harry is not rough.,0,1
+"If the crocodile is beautiful, then the rabbit is dull.",the crocodile is beautiful or the rabbit is dull.,1,1
+the crocodile is beautiful or the rabbit is dull.,the crocodile is not beautiful or the rabbit is not dull.,0,1
+"If the lion is angry, then Harry is beautiful.",the lion is angry or Harry is beautiful.,1,1
+the lion is angry or Harry is beautiful.,the lion is not angry or Harry is not beautiful.,0,1
+"If the tiger is small, then Charlie is tired.",the tiger is small or Charlie is tired.,1,1
+the tiger is small or Charlie is tired.,the tiger is not small or Charlie is not tired.,0,1
+"If the mouse is huge, then the leopard is lovely.",the mouse is huge or the leopard is lovely.,1,1
+the mouse is huge or the leopard is lovely.,the mouse is not huge or the leopard is not lovely.,0,1
+"If the dog is rough, then Harry is kind.",the dog is rough or Harry is kind.,1,1
+the dog is rough or Harry is kind.,the dog is not rough or Harry is not kind.,0,1

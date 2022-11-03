@@ -1,0 +1,921 @@
+Sentences,Logic-words
+the bald eagle is kind.,None
+the bald eagle is quiet.,None
+the bald eagle is round.,None
+the bald eagle is nice.,None
+the bald eagle is smart.,None
+the bald eagle is clever.,None
+the bald eagle is dull.,None
+the bald eagle is rough.,None
+the bald eagle is lazy.,None
+the bald eagle is slow.,None
+the bald eagle is sleepy.,None
+the bald eagle is boring.,None
+the bald eagle is tired.,None
+the bald eagle is reckless.,None
+the bald eagle is furry.,None
+the bald eagle is small.,None
+the bald eagle is cute.,None
+the bald eagle is lovely.,None
+the bald eagle is beautiful.,None
+the bald eagle is funny.,None
+the bald eagle is big.,None
+the bald eagle is strong.,None
+the bald eagle is awful.,None
+the bald eagle is fierce.,None
+the bald eagle is heavy.,None
+the bald eagle is horrible.,None
+the bald eagle is powerful.,None
+the bald eagle is angry.,None
+the bald eagle is high.,None
+the bald eagle is huge.,None
+the bald eagle is short.,None
+the bald eagle is thin.,None
+the bald eagle is little.,None
+the bald eagle is tiny.,None
+the bald eagle is wealthy.,None
+the bald eagle is poor.,None
+the bald eagle is dull.,None
+the bald eagle is rough.,None
+the bald eagle is bad.,None
+the bald eagle is sad.,None
+the tiger is kind.,None
+the tiger is quiet.,None
+the tiger is round.,None
+the tiger is nice.,None
+the tiger is smart.,None
+the tiger is clever.,None
+the tiger is dull.,None
+the tiger is rough.,None
+the tiger is lazy.,None
+the tiger is slow.,None
+the tiger is sleepy.,None
+the tiger is boring.,None
+the tiger is tired.,None
+the tiger is reckless.,None
+the tiger is furry.,None
+the tiger is small.,None
+the tiger is cute.,None
+the tiger is lovely.,None
+the tiger is beautiful.,None
+the tiger is funny.,None
+the tiger is big.,None
+the tiger is strong.,None
+the tiger is awful.,None
+the tiger is fierce.,None
+the tiger is heavy.,None
+the tiger is horrible.,None
+the tiger is powerful.,None
+the tiger is angry.,None
+the tiger is high.,None
+the tiger is huge.,None
+the tiger is short.,None
+the tiger is thin.,None
+the tiger is little.,None
+the tiger is tiny.,None
+the tiger is wealthy.,None
+the tiger is poor.,None
+the tiger is dull.,None
+the tiger is rough.,None
+the tiger is bad.,None
+the tiger is sad.,None
+the bear is kind.,None
+the bear is quiet.,None
+the bear is round.,None
+the bear is nice.,None
+the bear is smart.,None
+the bear is clever.,None
+the bear is dull.,None
+the bear is rough.,None
+the bear is lazy.,None
+the bear is slow.,None
+the bear is sleepy.,None
+the bear is boring.,None
+the bear is tired.,None
+the bear is reckless.,None
+the bear is furry.,None
+the bear is small.,None
+the bear is cute.,None
+the bear is lovely.,None
+the bear is beautiful.,None
+the bear is funny.,None
+the bear is big.,None
+the bear is strong.,None
+the bear is awful.,None
+the bear is fierce.,None
+the bear is heavy.,None
+the bear is horrible.,None
+the bear is powerful.,None
+the bear is angry.,None
+the bear is high.,None
+the bear is huge.,None
+the bear is short.,None
+the bear is thin.,None
+the bear is little.,None
+the bear is tiny.,None
+the bear is wealthy.,None
+the bear is poor.,None
+the bear is dull.,None
+the bear is rough.,None
+the bear is bad.,None
+the bear is sad.,None
+the lion is kind.,None
+the lion is quiet.,None
+the lion is round.,None
+the lion is nice.,None
+the lion is smart.,None
+the lion is clever.,None
+the lion is dull.,None
+the lion is rough.,None
+the lion is lazy.,None
+the lion is slow.,None
+the lion is sleepy.,None
+the lion is boring.,None
+the lion is tired.,None
+the lion is reckless.,None
+the lion is furry.,None
+the lion is small.,None
+the lion is cute.,None
+the lion is lovely.,None
+the lion is beautiful.,None
+the lion is funny.,None
+the lion is big.,None
+the lion is strong.,None
+the lion is awful.,None
+the lion is fierce.,None
+the lion is heavy.,None
+the lion is horrible.,None
+the lion is powerful.,None
+the lion is angry.,None
+the lion is high.,None
+the lion is huge.,None
+the lion is short.,None
+the lion is thin.,None
+the lion is little.,None
+the lion is tiny.,None
+the lion is wealthy.,None
+the lion is poor.,None
+the lion is dull.,None
+the lion is rough.,None
+the lion is bad.,None
+the lion is sad.,None
+the wolf is kind.,None
+the wolf is quiet.,None
+the wolf is round.,None
+the wolf is nice.,None
+the wolf is smart.,None
+the wolf is clever.,None
+the wolf is dull.,None
+the wolf is rough.,None
+the wolf is lazy.,None
+the wolf is slow.,None
+the wolf is sleepy.,None
+the wolf is boring.,None
+the wolf is tired.,None
+the wolf is reckless.,None
+the wolf is furry.,None
+the wolf is small.,None
+the wolf is cute.,None
+the wolf is lovely.,None
+the wolf is beautiful.,None
+the wolf is funny.,None
+the wolf is big.,None
+the wolf is strong.,None
+the wolf is awful.,None
+the wolf is fierce.,None
+the wolf is heavy.,None
+the wolf is horrible.,None
+the wolf is powerful.,None
+the wolf is angry.,None
+the wolf is high.,None
+the wolf is huge.,None
+the wolf is short.,None
+the wolf is thin.,None
+the wolf is little.,None
+the wolf is tiny.,None
+the wolf is wealthy.,None
+the wolf is poor.,None
+the wolf is dull.,None
+the wolf is rough.,None
+the wolf is bad.,None
+the wolf is sad.,None
+the crocodile is kind.,None
+the crocodile is quiet.,None
+the crocodile is round.,None
+the crocodile is nice.,None
+the crocodile is smart.,None
+the crocodile is clever.,None
+the crocodile is dull.,None
+the crocodile is rough.,None
+the crocodile is lazy.,None
+the crocodile is slow.,None
+the crocodile is sleepy.,None
+the crocodile is boring.,None
+the crocodile is tired.,None
+the crocodile is reckless.,None
+the crocodile is furry.,None
+the crocodile is small.,None
+the crocodile is cute.,None
+the crocodile is lovely.,None
+the crocodile is beautiful.,None
+the crocodile is funny.,None
+the crocodile is big.,None
+the crocodile is strong.,None
+the crocodile is awful.,None
+the crocodile is fierce.,None
+the crocodile is heavy.,None
+the crocodile is horrible.,None
+the crocodile is powerful.,None
+the crocodile is angry.,None
+the crocodile is high.,None
+the crocodile is huge.,None
+the crocodile is short.,None
+the crocodile is thin.,None
+the crocodile is little.,None
+the crocodile is tiny.,None
+the crocodile is wealthy.,None
+the crocodile is poor.,None
+the crocodile is dull.,None
+the crocodile is rough.,None
+the crocodile is bad.,None
+the crocodile is sad.,None
+the dinosaur is kind.,None
+the dinosaur is quiet.,None
+the dinosaur is round.,None
+the dinosaur is nice.,None
+the dinosaur is smart.,None
+the dinosaur is clever.,None
+the dinosaur is dull.,None
+the dinosaur is rough.,None
+the dinosaur is lazy.,None
+the dinosaur is slow.,None
+the dinosaur is sleepy.,None
+the dinosaur is boring.,None
+the dinosaur is tired.,None
+the dinosaur is reckless.,None
+the dinosaur is furry.,None
+the dinosaur is small.,None
+the dinosaur is cute.,None
+the dinosaur is lovely.,None
+the dinosaur is beautiful.,None
+the dinosaur is funny.,None
+the dinosaur is big.,None
+the dinosaur is strong.,None
+the dinosaur is awful.,None
+the dinosaur is fierce.,None
+the dinosaur is heavy.,None
+the dinosaur is horrible.,None
+the dinosaur is powerful.,None
+the dinosaur is angry.,None
+the dinosaur is high.,None
+the dinosaur is huge.,None
+the dinosaur is short.,None
+the dinosaur is thin.,None
+the dinosaur is little.,None
+the dinosaur is tiny.,None
+the dinosaur is wealthy.,None
+the dinosaur is poor.,None
+the dinosaur is dull.,None
+the dinosaur is rough.,None
+the dinosaur is bad.,None
+the dinosaur is sad.,None
+the snake is kind.,None
+the snake is quiet.,None
+the snake is round.,None
+the snake is nice.,None
+the snake is smart.,None
+the snake is clever.,None
+the snake is dull.,None
+the snake is rough.,None
+the snake is lazy.,None
+the snake is slow.,None
+the snake is sleepy.,None
+the snake is boring.,None
+the snake is tired.,None
+the snake is reckless.,None
+the snake is furry.,None
+the snake is small.,None
+the snake is cute.,None
+the snake is lovely.,None
+the snake is beautiful.,None
+the snake is funny.,None
+the snake is big.,None
+the snake is strong.,None
+the snake is awful.,None
+the snake is fierce.,None
+the snake is heavy.,None
+the snake is horrible.,None
+the snake is powerful.,None
+the snake is angry.,None
+the snake is high.,None
+the snake is huge.,None
+the snake is short.,None
+the snake is thin.,None
+the snake is little.,None
+the snake is tiny.,None
+the snake is wealthy.,None
+the snake is poor.,None
+the snake is dull.,None
+the snake is rough.,None
+the snake is bad.,None
+the snake is sad.,None
+the leopard is kind.,None
+the leopard is quiet.,None
+the leopard is round.,None
+the leopard is nice.,None
+the leopard is smart.,None
+the leopard is clever.,None
+the leopard is dull.,None
+the leopard is rough.,None
+the leopard is lazy.,None
+the leopard is slow.,None
+the leopard is sleepy.,None
+the leopard is boring.,None
+the leopard is tired.,None
+the leopard is reckless.,None
+the leopard is furry.,None
+the leopard is small.,None
+the leopard is cute.,None
+the leopard is lovely.,None
+the leopard is beautiful.,None
+the leopard is funny.,None
+the leopard is big.,None
+the leopard is strong.,None
+the leopard is awful.,None
+the leopard is fierce.,None
+the leopard is heavy.,None
+the leopard is horrible.,None
+the leopard is powerful.,None
+the leopard is angry.,None
+the leopard is high.,None
+the leopard is huge.,None
+the leopard is short.,None
+the leopard is thin.,None
+the leopard is little.,None
+the leopard is tiny.,None
+the leopard is wealthy.,None
+the leopard is poor.,None
+the leopard is dull.,None
+the leopard is rough.,None
+the leopard is bad.,None
+the leopard is sad.,None
+the cat is kind.,None
+the cat is quiet.,None
+the cat is round.,None
+the cat is nice.,None
+the cat is smart.,None
+the cat is clever.,None
+the cat is dull.,None
+the cat is rough.,None
+the cat is lazy.,None
+the cat is slow.,None
+the cat is sleepy.,None
+the cat is boring.,None
+the cat is tired.,None
+the cat is reckless.,None
+the cat is furry.,None
+the cat is small.,None
+the cat is cute.,None
+the cat is lovely.,None
+the cat is beautiful.,None
+the cat is funny.,None
+the cat is big.,None
+the cat is strong.,None
+the cat is awful.,None
+the cat is fierce.,None
+the cat is heavy.,None
+the cat is horrible.,None
+the cat is powerful.,None
+the cat is angry.,None
+the cat is high.,None
+the cat is huge.,None
+the cat is short.,None
+the cat is thin.,None
+the cat is little.,None
+the cat is tiny.,None
+the cat is wealthy.,None
+the cat is poor.,None
+the cat is dull.,None
+the cat is rough.,None
+the cat is bad.,None
+the cat is sad.,None
+the dog is kind.,None
+the dog is quiet.,None
+the dog is round.,None
+the dog is nice.,None
+the dog is smart.,None
+the dog is clever.,None
+the dog is dull.,None
+the dog is rough.,None
+the dog is lazy.,None
+the dog is slow.,None
+the dog is sleepy.,None
+the dog is boring.,None
+the dog is tired.,None
+the dog is reckless.,None
+the dog is furry.,None
+the dog is small.,None
+the dog is cute.,None
+the dog is lovely.,None
+the dog is beautiful.,None
+the dog is funny.,None
+the dog is big.,None
+the dog is strong.,None
+the dog is awful.,None
+the dog is fierce.,None
+the dog is heavy.,None
+the dog is horrible.,None
+the dog is powerful.,None
+the dog is angry.,None
+the dog is high.,None
+the dog is huge.,None
+the dog is short.,None
+the dog is thin.,None
+the dog is little.,None
+the dog is tiny.,None
+the dog is wealthy.,None
+the dog is poor.,None
+the dog is dull.,None
+the dog is rough.,None
+the dog is bad.,None
+the dog is sad.,None
+the mouse is kind.,None
+the mouse is quiet.,None
+the mouse is round.,None
+the mouse is nice.,None
+the mouse is smart.,None
+the mouse is clever.,None
+the mouse is dull.,None
+the mouse is rough.,None
+the mouse is lazy.,None
+the mouse is slow.,None
+the mouse is sleepy.,None
+the mouse is boring.,None
+the mouse is tired.,None
+the mouse is reckless.,None
+the mouse is furry.,None
+the mouse is small.,None
+the mouse is cute.,None
+the mouse is lovely.,None
+the mouse is beautiful.,None
+the mouse is funny.,None
+the mouse is big.,None
+the mouse is strong.,None
+the mouse is awful.,None
+the mouse is fierce.,None
+the mouse is heavy.,None
+the mouse is horrible.,None
+the mouse is powerful.,None
+the mouse is angry.,None
+the mouse is high.,None
+the mouse is huge.,None
+the mouse is short.,None
+the mouse is thin.,None
+the mouse is little.,None
+the mouse is tiny.,None
+the mouse is wealthy.,None
+the mouse is poor.,None
+the mouse is dull.,None
+the mouse is rough.,None
+the mouse is bad.,None
+the mouse is sad.,None
+the rabbit is kind.,None
+the rabbit is quiet.,None
+the rabbit is round.,None
+the rabbit is nice.,None
+the rabbit is smart.,None
+the rabbit is clever.,None
+the rabbit is dull.,None
+the rabbit is rough.,None
+the rabbit is lazy.,None
+the rabbit is slow.,None
+the rabbit is sleepy.,None
+the rabbit is boring.,None
+the rabbit is tired.,None
+the rabbit is reckless.,None
+the rabbit is furry.,None
+the rabbit is small.,None
+the rabbit is cute.,None
+the rabbit is lovely.,None
+the rabbit is beautiful.,None
+the rabbit is funny.,None
+the rabbit is big.,None
+the rabbit is strong.,None
+the rabbit is awful.,None
+the rabbit is fierce.,None
+the rabbit is heavy.,None
+the rabbit is horrible.,None
+the rabbit is powerful.,None
+the rabbit is angry.,None
+the rabbit is high.,None
+the rabbit is huge.,None
+the rabbit is short.,None
+the rabbit is thin.,None
+the rabbit is little.,None
+the rabbit is tiny.,None
+the rabbit is wealthy.,None
+the rabbit is poor.,None
+the rabbit is dull.,None
+the rabbit is rough.,None
+the rabbit is bad.,None
+the rabbit is sad.,None
+the squirrel is kind.,None
+the squirrel is quiet.,None
+the squirrel is round.,None
+the squirrel is nice.,None
+the squirrel is smart.,None
+the squirrel is clever.,None
+the squirrel is dull.,None
+the squirrel is rough.,None
+the squirrel is lazy.,None
+the squirrel is slow.,None
+the squirrel is sleepy.,None
+the squirrel is boring.,None
+the squirrel is tired.,None
+the squirrel is reckless.,None
+the squirrel is furry.,None
+the squirrel is small.,None
+the squirrel is cute.,None
+the squirrel is lovely.,None
+the squirrel is beautiful.,None
+the squirrel is funny.,None
+the squirrel is big.,None
+the squirrel is strong.,None
+the squirrel is awful.,None
+the squirrel is fierce.,None
+the squirrel is heavy.,None
+the squirrel is horrible.,None
+the squirrel is powerful.,None
+the squirrel is angry.,None
+the squirrel is high.,None
+the squirrel is huge.,None
+the squirrel is short.,None
+the squirrel is thin.,None
+the squirrel is little.,None
+the squirrel is tiny.,None
+the squirrel is wealthy.,None
+the squirrel is poor.,None
+the squirrel is dull.,None
+the squirrel is rough.,None
+the squirrel is bad.,None
+the squirrel is sad.,None
+Anne is kind.,None
+Anne is quiet.,None
+Anne is round.,None
+Anne is nice.,None
+Anne is smart.,None
+Anne is clever.,None
+Anne is dull.,None
+Anne is rough.,None
+Anne is lazy.,None
+Anne is slow.,None
+Anne is sleepy.,None
+Anne is boring.,None
+Anne is tired.,None
+Anne is reckless.,None
+Anne is furry.,None
+Anne is small.,None
+Anne is cute.,None
+Anne is lovely.,None
+Anne is beautiful.,None
+Anne is funny.,None
+Anne is big.,None
+Anne is strong.,None
+Anne is awful.,None
+Anne is fierce.,None
+Anne is heavy.,None
+Anne is horrible.,None
+Anne is powerful.,None
+Anne is angry.,None
+Anne is high.,None
+Anne is huge.,None
+Anne is short.,None
+Anne is thin.,None
+Anne is little.,None
+Anne is tiny.,None
+Anne is wealthy.,None
+Anne is poor.,None
+Anne is dull.,None
+Anne is rough.,None
+Anne is bad.,None
+Anne is sad.,None
+Alan is kind.,None
+Alan is quiet.,None
+Alan is round.,None
+Alan is nice.,None
+Alan is smart.,None
+Alan is clever.,None
+Alan is dull.,None
+Alan is rough.,None
+Alan is lazy.,None
+Alan is slow.,None
+Alan is sleepy.,None
+Alan is boring.,None
+Alan is tired.,None
+Alan is reckless.,None
+Alan is furry.,None
+Alan is small.,None
+Alan is cute.,None
+Alan is lovely.,None
+Alan is beautiful.,None
+Alan is funny.,None
+Alan is big.,None
+Alan is strong.,None
+Alan is awful.,None
+Alan is fierce.,None
+Alan is heavy.,None
+Alan is horrible.,None
+Alan is powerful.,None
+Alan is angry.,None
+Alan is high.,None
+Alan is huge.,None
+Alan is short.,None
+Alan is thin.,None
+Alan is little.,None
+Alan is tiny.,None
+Alan is wealthy.,None
+Alan is poor.,None
+Alan is dull.,None
+Alan is rough.,None
+Alan is bad.,None
+Alan is sad.,None
+Bob is kind.,None
+Bob is quiet.,None
+Bob is round.,None
+Bob is nice.,None
+Bob is smart.,None
+Bob is clever.,None
+Bob is dull.,None
+Bob is rough.,None
+Bob is lazy.,None
+Bob is slow.,None
+Bob is sleepy.,None
+Bob is boring.,None
+Bob is tired.,None
+Bob is reckless.,None
+Bob is furry.,None
+Bob is small.,None
+Bob is cute.,None
+Bob is lovely.,None
+Bob is beautiful.,None
+Bob is funny.,None
+Bob is big.,None
+Bob is strong.,None
+Bob is awful.,None
+Bob is fierce.,None
+Bob is heavy.,None
+Bob is horrible.,None
+Bob is powerful.,None
+Bob is angry.,None
+Bob is high.,None
+Bob is huge.,None
+Bob is short.,None
+Bob is thin.,None
+Bob is little.,None
+Bob is tiny.,None
+Bob is wealthy.,None
+Bob is poor.,None
+Bob is dull.,None
+Bob is rough.,None
+Bob is bad.,None
+Bob is sad.,None
+Charlie is kind.,None
+Charlie is quiet.,None
+Charlie is round.,None
+Charlie is nice.,None
+Charlie is smart.,None
+Charlie is clever.,None
+Charlie is dull.,None
+Charlie is rough.,None
+Charlie is lazy.,None
+Charlie is slow.,None
+Charlie is sleepy.,None
+Charlie is boring.,None
+Charlie is tired.,None
+Charlie is reckless.,None
+Charlie is furry.,None
+Charlie is small.,None
+Charlie is cute.,None
+Charlie is lovely.,None
+Charlie is beautiful.,None
+Charlie is funny.,None
+Charlie is big.,None
+Charlie is strong.,None
+Charlie is awful.,None
+Charlie is fierce.,None
+Charlie is heavy.,None
+Charlie is horrible.,None
+Charlie is powerful.,None
+Charlie is angry.,None
+Charlie is high.,None
+Charlie is huge.,None
+Charlie is short.,None
+Charlie is thin.,None
+Charlie is little.,None
+Charlie is tiny.,None
+Charlie is wealthy.,None
+Charlie is poor.,None
+Charlie is dull.,None
+Charlie is rough.,None
+Charlie is bad.,None
+Charlie is sad.,None
+Dave is kind.,None
+Dave is quiet.,None
+Dave is round.,None
+Dave is nice.,None
+Dave is smart.,None
+Dave is clever.,None
+Dave is dull.,None
+Dave is rough.,None
+Dave is lazy.,None
+Dave is slow.,None
+Dave is sleepy.,None
+Dave is boring.,None
+Dave is tired.,None
+Dave is reckless.,None
+Dave is furry.,None
+Dave is small.,None
+Dave is cute.,None
+Dave is lovely.,None
+Dave is beautiful.,None
+Dave is funny.,None
+Dave is big.,None
+Dave is strong.,None
+Dave is awful.,None
+Dave is fierce.,None
+Dave is heavy.,None
+Dave is horrible.,None
+Dave is powerful.,None
+Dave is angry.,None
+Dave is high.,None
+Dave is huge.,None
+Dave is short.,None
+Dave is thin.,None
+Dave is little.,None
+Dave is tiny.,None
+Dave is wealthy.,None
+Dave is poor.,None
+Dave is dull.,None
+Dave is rough.,None
+Dave is bad.,None
+Dave is sad.,None
+Erin is kind.,None
+Erin is quiet.,None
+Erin is round.,None
+Erin is nice.,None
+Erin is smart.,None
+Erin is clever.,None
+Erin is dull.,None
+Erin is rough.,None
+Erin is lazy.,None
+Erin is slow.,None
+Erin is sleepy.,None
+Erin is boring.,None
+Erin is tired.,None
+Erin is reckless.,None
+Erin is furry.,None
+Erin is small.,None
+Erin is cute.,None
+Erin is lovely.,None
+Erin is beautiful.,None
+Erin is funny.,None
+Erin is big.,None
+Erin is strong.,None
+Erin is awful.,None
+Erin is fierce.,None
+Erin is heavy.,None
+Erin is horrible.,None
+Erin is powerful.,None
+Erin is angry.,None
+Erin is high.,None
+Erin is huge.,None
+Erin is short.,None
+Erin is thin.,None
+Erin is little.,None
+Erin is tiny.,None
+Erin is wealthy.,None
+Erin is poor.,None
+Erin is dull.,None
+Erin is rough.,None
+Erin is bad.,None
+Erin is sad.,None
+Harry is kind.,None
+Harry is quiet.,None
+Harry is round.,None
+Harry is nice.,None
+Harry is smart.,None
+Harry is clever.,None
+Harry is dull.,None
+Harry is rough.,None
+Harry is lazy.,None
+Harry is slow.,None
+Harry is sleepy.,None
+Harry is boring.,None
+Harry is tired.,None
+Harry is reckless.,None
+Harry is furry.,None
+Harry is small.,None
+Harry is cute.,None
+Harry is lovely.,None
+Harry is beautiful.,None
+Harry is funny.,None
+Harry is big.,None
+Harry is strong.,None
+Harry is awful.,None
+Harry is fierce.,None
+Harry is heavy.,None
+Harry is horrible.,None
+Harry is powerful.,None
+Harry is angry.,None
+Harry is high.,None
+Harry is huge.,None
+Harry is short.,None
+Harry is thin.,None
+Harry is little.,None
+Harry is tiny.,None
+Harry is wealthy.,None
+Harry is poor.,None
+Harry is dull.,None
+Harry is rough.,None
+Harry is bad.,None
+Harry is sad.,None
+Gary is kind.,None
+Gary is quiet.,None
+Gary is round.,None
+Gary is nice.,None
+Gary is smart.,None
+Gary is clever.,None
+Gary is dull.,None
+Gary is rough.,None
+Gary is lazy.,None
+Gary is slow.,None
+Gary is sleepy.,None
+Gary is boring.,None
+Gary is tired.,None
+Gary is reckless.,None
+Gary is furry.,None
+Gary is small.,None
+Gary is cute.,None
+Gary is lovely.,None
+Gary is beautiful.,None
+Gary is funny.,None
+Gary is big.,None
+Gary is strong.,None
+Gary is awful.,None
+Gary is fierce.,None
+Gary is heavy.,None
+Gary is horrible.,None
+Gary is powerful.,None
+Gary is angry.,None
+Gary is high.,None
+Gary is huge.,None
+Gary is short.,None
+Gary is thin.,None
+Gary is little.,None
+Gary is tiny.,None
+Gary is wealthy.,None
+Gary is poor.,None
+Gary is dull.,None
+Gary is rough.,None
+Gary is bad.,None
+Gary is sad.,None
+Fiona is kind.,None
+Fiona is quiet.,None
+Fiona is round.,None
+Fiona is nice.,None
+Fiona is smart.,None
+Fiona is clever.,None
+Fiona is dull.,None
+Fiona is rough.,None
+Fiona is lazy.,None
+Fiona is slow.,None
+Fiona is sleepy.,None
+Fiona is boring.,None
+Fiona is tired.,None
+Fiona is reckless.,None
+Fiona is furry.,None
+Fiona is small.,None
+Fiona is cute.,None
+Fiona is lovely.,None
+Fiona is beautiful.,None
+Fiona is funny.,None
+Fiona is big.,None
+Fiona is strong.,None
+Fiona is awful.,None
+Fiona is fierce.,None
+Fiona is heavy.,None
+Fiona is horrible.,None
+Fiona is powerful.,None
+Fiona is angry.,None
+Fiona is high.,None
+Fiona is huge.,None
+Fiona is short.,None
+Fiona is thin.,None
+Fiona is little.,None
+Fiona is tiny.,None
+Fiona is wealthy.,None
+Fiona is poor.,None
+Fiona is dull.,None
+Fiona is rough.,None
+Fiona is bad.,None
+Fiona is sad.,None

@@ -1,0 +1,13 @@
+# This includes data files for the source distribution only (sdist), it does not
+# impact the binary distribution (bdist_wheel). To add data files to the binary
+# distribution add package_data in setup.py
+#
+# setup sdist           creates dist/xx.tar.gz      specify data in MANIFEST.in
+# setup bdist_wheel     creates dist/xx.whl         specify data in setup.py/package_data=
+
+include amrlib/amr_view/*
+include amrlib/models/parse_spring/resources/*
+include amrlib/alignments/faa_aligner/model_aligner_faa.tar.gz
+include amrlib/alignments/faa_aligner/resources/*.txt
+include amrlib/alignments/isi_hand_alignments/*.txt
+include amrlib/models/parse_spring/resources/*

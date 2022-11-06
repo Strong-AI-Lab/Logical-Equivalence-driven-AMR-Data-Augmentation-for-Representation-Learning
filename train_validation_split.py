@@ -1,6 +1,9 @@
 import pandas as pd
 
-dataframe = pd.read_csv("./Synthetic_xfm_t5wtense_logical_equivalence_list_filtered_bleu_score_4_76.csv")
+# dataframe = pd.read_csv("./Synthetic_xfm_t5wtense_logical_equivalence_list_filtered_bleu_score_4_76.csv")
+# dataframe = pd.read_csv("./Synthetic_xfm_t5wtense_logical_equivalence_contraposition_list.csv")
+# dataframe = pd.read_csv("./Synthetic_xfm_t5wtense_le_contra_double_neg_list.csv")
+dataframe = pd.read_csv("./Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_list.csv")
 df_shuffled = dataframe.sample(frac=1).reset_index(drop=True)
 
 total_lines = df_shuffled.shape[0]
@@ -14,8 +17,10 @@ validation_set.columns=['Origin','sentence1','sentence2','BLEU_Score','label','T
 
 training_set = training_set.drop(['Origin','BLEU_Score','Tag','logic_words'],axis=1)
 validation_set = validation_set.drop(['Origin','BLEU_Score','Tag','logic_words'],axis=1)
-training_set.to_csv("./output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v5.csv",index = None,encoding = 'utf8')
-validation_set.to_csv("./output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v5.csv",index = None,encoding = 'utf8')
+# training_set.to_csv("./output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v5.csv",index = None,encoding = 'utf8')
+# validation_set.to_csv("./output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v5.csv",index = None,encoding = 'utf8')
+training_set.to_csv("./output_result/Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_list_train.csv",index = None,encoding = 'utf8')
+validation_set.to_csv("./output_result/Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_list_dev.csv",index = None,encoding = 'utf8')
 
 ##############################################################
 # import pandas as pd

@@ -63,6 +63,54 @@ python run_glue_no_trainer.py \
   --num_train_epochs 30 \
   --output_dir Transformers/roberta-large-our-model-v4/
 
+### RoBERTa-large-Max-Tegmark
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../Max_Tegmark/equivalence-full-train.csv \
+  --validation_file ../Max_Tegmark/equivalence-full-dev.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/Max_Tegmark/roberta-large-Max-Tegmark/
+
+### RoBERTa-large-our-model-v4-Max-Tegmark
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --train_file ../Max_Tegmark/equivalence-full-train.csv \
+  --validation_file ../Max_Tegmark/equivalence-full-dev.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/Max_Tegmark/roberta-large-our-model-v4-Max-Tegmark/
+
+### RoBERTa-large-our-model-v5-Max-Tegmark
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path Transformers/roberta-large-our-model-v5/ \
+  --train_file ../Max_Tegmark/equivalence-full-train.csv \
+  --validation_file ../Max_Tegmark/equivalence-full-dev.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/Max_Tegmark/roberta-large-our-model-v5-Max-Tegmark/
+
+### RoBERTa-large-lreasoner-Max-Tegmark
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path Transformers/roberta-large-lreasoner/ \
+  --train_file ../Max_Tegmark/equivalence-full-train.csv \
+  --validation_file ../Max_Tegmark/equivalence-full-dev.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/Max_Tegmark/roberta-large-lreasoner-Max-Tegmark/
+
 ### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-5
 python run_glue_no_trainer.py \
   --seed 2021 \

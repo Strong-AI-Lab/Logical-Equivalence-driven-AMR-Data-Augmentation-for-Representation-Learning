@@ -470,9 +470,15 @@ def main():
     if args.task_name is not None:
         metric = evaluate.load("glue", args.task_name)
         train_metric = evaluate.load("glue", args.task_name)
+        f1_metric = evaluate.load("f1", args.task_name)
+        balanced_f1_metric = evaluate.load("f1", args.task_name)
+        weighted_f1_metric = evaluate.load("f1", args.task_name)
     else:
         metric = evaluate.load("accuracy")
         train_metric = evaluate.load("accuracy")
+        f1_metric = evaluate.load("f1")
+        balanced_f1_metric = evaluate.load("f1")
+        weighted_f1_metric = evaluate.load("f1")
 
     # Train!
     total_batch_size = args.per_device_train_batch_size * accelerator.num_processes * args.gradient_accumulation_steps
@@ -578,8 +584,17 @@ def main():
                 predictions=predictions,
                 references=references,
             )
+            f1_metric.add_batch(predictions=predictions,
+                references=references,)
+            balanced_f1_metric.add_batch(predictions=predictions,
+                references=references,)
+            weighted_f1_metric.add_batch(predictions=predictions,
+                references=references,)
 
         eval_metric = metric.compute()
+        f1_eval_metric = f1_metric.compute(average="micro")
+        balanced_f1_eval_metric = balanced_f1_metric.compute(average="macro")
+        weighted_f1_eval_metric = weighted_f1_metric.compute(average="weighted")
         train_metric_result = train_metric.compute()
         logger.info(f"epoch {epoch}: {eval_metric}")
 
@@ -587,6 +602,9 @@ def main():
             accelerator.log(
                 {
                     "accuracy" if args.task_name is not None else "glue_eval": eval_metric,
+                    "micro_f1" if args.task_name is not None else "glue_micro_f1": f1_eval_metric,
+                    "macro_f1" if args.task_name is not None else "glue_macro_f1": balanced_f1_eval_metric,
+                    "weighted_f1" if args.task_name is not None else "glue_weighted_f1": weighted_f1_eval_metric,
                     "train_accuracy" if args.task_name is not None else "glue_train": train_metric_result,
                     "train_loss": total_loss.item() / len(train_dataloader),
                     "epoch": epoch,

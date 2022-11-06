@@ -1256,3 +1256,6 @@ CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
     --weight_decay 0.01
 
 
+Transformers/roberta-large-contraposition/
+synthetic-le-contraposition-finetuned-roberta-large
+4016700

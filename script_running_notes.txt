@@ -9,11 +9,66 @@ server 2
 685058   synthetic-logical-equivalence-finetuned-RoBERTa-large-cola/synthetic-logical-equivalence-finetuned-RoBERTa-large-sst2/RoBERTa-large-LReasoner-MRPC/lreasoner-roberta-large-qnli-bs-16/roberta-large-qnli-bs-32/our-model-reclor-v5-bs-1/
 
 HGX1
-4016700 roberta-large-contraposition-mnli
-4018413 roberta-large-contraposition-mrpc
-4019763 roberta-large-contraposition-rte
-4020794 roberta-large-contraposition-qnli
-4021880 roberta-large-contraposition-qqp
+contraposition
+ roberta-large-contraposition-mnli/
+ roberta-large-contraposition-mrpc/roberta-large-contraposition-reclor/
+ roberta-large-contraposition-rte/roberta-large-contraposition-logiqa/
+ roberta-large-contraposition-qnli/roberta-large-contraposition-qqp/
+4021880 roberta-large-contraposition-qqp-bs-32/16
+
+contraposition+double negation
+ roberta-large-contraposition-double-negation-mnli/
+4046614 roberta-large-contraposition-double-negation-mnli-bs-16/8
+ roberta-large-contraposition-double-negation-mrpc/roberta-large-contraposition-double-negation-qqp/
+ roberta-large-contraposition-double-negation-rte/roberta-large-contraposition-double-negation-logiqa/
+ roberta-large-contraposition-double-negation-qnli/
+ roberta-large-contraposition-double-negation-reclor/
+
+contraposition+double negation+commutative
+ roberta-large-contraposition-double-negation-commutative-mnli/
+ roberta-large-contraposition-double-negation-commutative-mrpc/
+ roberta-large-contraposition-double-negation-commutative-rte/
+ roberta-large-contraposition-double-negation-commutative-qnli/
+ roberta-large-contraposition-double-negation-commutative-reclor/
+ roberta-large-contraposition-double-negation-commutative-logiqa/
+
+contraposition+double negation+implication
+ roberta-large-contraposition-double-negation-implication-mnli-filled/
+ roberta-large-contraposition-double-negation-implication-mrpc-filled/roberta-large-contraposition-double-negation-implication-logiqa-filled/
+ roberta-large-contraposition-double-negation-implication-rte-filled/
+ roberta-large-contraposition-double-negation-implication-qnli-filled/
+4042248 roberta-large-contraposition-double-negation-implication-qqp-filled-bs-32/16
+ roberta-large-contraposition-double-negation-implication-reclor-filled/
+
+contraposition+double negation+implication+commutative
+4039412 v4-first-stage-finetuning/roberta-large-contraposition-double-negation-implication-commutative-reclor
+4046988 roberta-large-contraposition-double-negation-implication-commutative-qnli
+
+
+negative sampling
+ our model with positive:negative = 1:2 first stage finetuning
+4043958 1-2-reclor
+4040269 1-2-logiqa
+4038342 1-2-mnli
+ 1-2-mrpc/
+ 1-2-rte/
+4019763 1-2-qnli
+4018413 1-2-qqp
+
+ our model with positive:negative = 1:3 first stage finetuning
+4044901 1-3-reclor
+4036928 1-3-logiqa
+4016700 1-3-mrpc/
+4020794 1-3-rte/
+88627 1-3-mnli
+89938 1-3-qnli
+90803 1-3-qqp
+
+alberta
+4045769 alberta-reclor
+
+deberta
+4043034 deberta-reclor
 
 g.triples.remove((z5, ':polarity', '-'))
 
@@ -97,6 +152,31 @@ python run_glue_no_trainer.py \
 
   (batch size=16/32 failed)
 
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-contraposition-double-negation-implication-law
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_impli_list_train.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_impli_list_dev.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/roberta-large-contraposition-double-negation-implication/
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-contraposition-double-negation-implication-law
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_impli_list_train_filled.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_le_contra_double_neg_commuta_impli_list_dev_filled.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/roberta-large-contraposition-double-negation-implication-filled/
+
 ### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-4
 python run_glue_no_trainer.py \
   --seed 2021 \
@@ -106,8 +186,33 @@ python run_glue_no_trainer.py \
   --max_length 256 \
   --per_device_train_batch_size 32 \
   --learning_rate 2e-5 \
-  --num_train_epochs 30 \
+  --num_train_epochs 10 \
   --output_dir Transformers/roberta-large-our-model-v4/
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-4-positive-negative-1-2
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v4_negative_samples_1_2.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v4.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/roberta-large-our-model-v4-pos-neg-1-2/
+
+### RoBERTa-synthetic-logical-equivalence-pretraining-our-model-version-4-positive-negative-1-3
+python run_glue_no_trainer.py \
+  --seed 2021 \
+  --model_name_or_path roberta-large \
+  --train_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v4_negative_samples_1_3.csv \
+  --validation_file ../output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v4.csv \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/roberta-large-our-model-v4-pos-neg-1-3/
+
 
 ### RoBERTa-large-Max-Tegmark
 python run_glue_no_trainer.py \
@@ -238,6 +343,52 @@ python run_glue_no_trainer.py \
   --num_train_epochs 10 \
   --output_dir Transformers/MNLI/synthetic-le-contraposition-finetuned-roberta-large/
 
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-comtraposition-double-negation-law
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-le-contra-double-neg-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-comtraposition-double-negation-law
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 8 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-le-contra-double-neg-finetuned-roberta-large-bs-8/
+(failed on bs=16/32)
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-comtraposition-double-negation-law-commutative
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-commutative/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-le-contra-double-neg-commu-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-comtraposition-double-negation-law-implication-fileld
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-implication-filled/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-le-contra-double-neg-impli-finetuned-roberta-large-filled/
+
+
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v4
 python run_glue_no_trainer.py \
   --seed 42 \
@@ -248,6 +399,29 @@ python run_glue_no_trainer.py \
   --learning_rate 2e-5 \
   --num_train_epochs 10 \
   --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v4-positive-negative-1-2
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-2/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v4-pn-1-2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v4-positive-negative-1-3
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-3/ \
+  --task_name mnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/MNLI/synthetic-logical-equivalence-finetuned-roberta-large-v4-pn-1-3/
+
 
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-MNLI-v5
 python run_glue_no_trainer.py \
@@ -330,6 +504,40 @@ python run_glue_no_trainer.py \
   --num_train_epochs 10 \
   --output_dir Transformers/mrpc/synthetic-le-contraposition-finetuned-roberta-large/
 
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc-contraposition-double-negation
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-le-contra-double-neg-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc-contraposition-double-negation-commutative
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-commutative/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-le-contra-double-neg-commu-finetuned-roberta-large/
+(failed on bs=32)
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc-contraposition-double-negation-commutative
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-implication-filled/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/synthetic-le-contra-double-neg-impli-finetuned-roberta-large-filled/
+
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
 python run_glue_no_trainer.py \
   --seed 42 \
@@ -341,6 +549,27 @@ python run_glue_no_trainer.py \
   --num_train_epochs 10 \
   --output_dir Transformers/mrpc/synthetic-logical-equivalence-finetuned-roberta-large-v4/
 
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-2/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/roberta-large-le-our-model-mrpc-v4-pn-1-2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc-positive-negative
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-3/ \
+  --task_name mrpc \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/mrpc/roberta-large-le-our-model-mrpc-v4-pn-1-3/
 
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-mrpc
 python run_glue_no_trainer.py \
@@ -411,6 +640,43 @@ python run_glue_no_trainer.py \
   --num_train_epochs 10 \
   --output_dir Transformers/rte/synthetic-le-contraposition-finetuned-roberta-large-bs-16/
 
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-contra-double-neg
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-le-contra-double-neg-finetuned-roberta-large-bs-16/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-contra-double-neg-commutative
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-commutative/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 30 \
+  --output_dir Transformers/rte/synthetic-le-contra-double-neg-commu-finetuned-roberta-large-bs-32/
+
+(failed on bs=16,8,4,1,2)
+32
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-contra-double-neg-implication
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-implication-filled/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/synthetic-le-contra-double-neg-commu-finetuned-roberta-large-bs-16-filled/
+
+
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte
 python run_glue_no_trainer.py \
   --seed 42 \
@@ -467,6 +733,28 @@ python run_glue_no_trainer.py \
   --learning_rate 2e-5 \
   --num_train_epochs 10 \
   --output_dir Transformers/rte/synthetic-logical-equivalence-finetuned-roberta-large-bs-32-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-v4-positive-negative-1-2
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-2/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/roberta-large-le-our-model-rte-v4-pn-1-2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-v4-positive-negative-1-3
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-3/ \
+  --task_name rte \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/rte/roberta-large-le-our-model-rte-v4-pn-1-3/
 
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-rte-v5
 python run_glue_no_trainer.py \
@@ -595,6 +883,39 @@ python run_glue_no_trainer.py \
   --num_train_epochs 10 \
   --output_dir Transformers/qnli/synthetic-le-contraposition-finetuned-roberta-large/
 
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-contra-double-neg
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-le-contra-double-neg-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-contra-double-neg-commu
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-commutative/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-le-contra-double-neg-commu-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-contra-double-neg-implication-filled
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-implication-filled/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-le-contra-double-neg-impli-finetuned-roberta-large-filled/
+
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli
 python run_glue_no_trainer.py \
   --seed 42 \
@@ -605,6 +926,39 @@ python run_glue_no_trainer.py \
   --learning_rate 2e-5 \
   --num_train_epochs 10 \
   --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-a100
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/synthetic-logical-equivalence-finetuned-roberta-large-bs-16-v4/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-positive-negative-1-2
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-2/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-le-our-model-logiqa-v4-pn-1-2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-positive-negative-1-3
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-3/ \
+  --task_name qnli \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qnli/roberta-large-le-our-model-logiqa-v4-pn-1-3/
 
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-qnli-lreasoner
 python run_glue_no_trainer.py \
@@ -741,10 +1095,46 @@ python run_glue_no_trainer.py \
   --model_name_or_path Transformers/roberta-large-contraposition/ \
   --task_name qqp \
   --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-le-contraposition-finetuned-roberta-large-bs-16/
+
+(failed on bs=32)
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-contraposition-double-negation
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation/ \
+  --task_name qqp \
+  --max_length 256 \
   --per_device_train_batch_size 32 \
   --learning_rate 2e-5 \
   --num_train_epochs 10 \
-  --output_dir Transformers/qqp/synthetic-le-contraposition-finetuned-roberta-large/
+  --output_dir Transformers/qqp/synthetic-le-contra-double-neg-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-contraposition-double-negation-commutative
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-commutative/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-le-contra-double-neg-commu-finetuned-roberta-large/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-contraposition-double-negation-implication
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-contraposition-double-negation-implication-filled/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/synthetic-le-contra-double-neg-impli-finetuned-roberta-large-filled-bs-16/
+(failed on bs=32)
 
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
 python run_glue_no_trainer.py \
@@ -768,6 +1158,27 @@ python run_glue_no_trainer.py \
   --num_train_epochs 10 \
   --output_dir Transformers/qqp/synthetic-logical-equivalence-finetuned-roberta-large-v4-bs-16/
 
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-v4-bs-16-positive-negative-1-2
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-2/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/roberta-large-le-our-model-qqp-v4-pn-1-2/
+
+### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp-v4-bs-16-positive-negative-1-3
+python run_glue_no_trainer.py \
+  --seed 42 \
+  --model_name_or_path Transformers/roberta-large-our-model-v4-pos-neg-1-3/ \
+  --task_name qqp \
+  --max_length 256 \
+  --per_device_train_batch_size 16 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir Transformers/qqp/roberta-large-le-our-model-qqp-v4-pn-1-3/
 
 ### synthetic-logical-equivalence-finetuned-RoBERTa-large-qqp
 python run_glue_no_trainer.py \
@@ -1256,6 +1667,3 @@ CUDA_VISIBLE_DEVICES=5 python run_multiple_choice.py \
     --weight_decay 0.01
 
 
-Transformers/roberta-large-contraposition/
-synthetic-le-contraposition-finetuned-roberta-large
-4016700

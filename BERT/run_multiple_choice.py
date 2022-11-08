@@ -40,6 +40,12 @@ from transformers import (
     XLNetConfig,
     XLNetForMultipleChoice,
     XLNetTokenizer,
+    AlbertConfig,
+    AlbertForMultipleChoice,
+    AlbertTokenizer,
+    DebertaV2Config,
+    DebertaV2ForMultipleChoice,
+    DebertaV2Tokenizer,
     get_linear_schedule_with_warmup,
 )
 from utils_multiple_choice import convert_examples_to_features, processors
@@ -50,7 +56,7 @@ try:
 except ImportError:
     from tensorboardX import SummaryWriter
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "5"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "5"
 logger = logging.getLogger(__name__)
 
 # ALL_MODELS = sum(
@@ -61,6 +67,8 @@ MODEL_CLASSES = {
     "bert": (BertConfig, BertForMultipleChoice, BertTokenizer),
     "xlnet": (XLNetConfig, XLNetForMultipleChoice, XLNetTokenizer),
     "roberta": (RobertaConfig, RobertaForMultipleChoice, RobertaTokenizer),
+    "albert": (AlbertConfig, AlbertForMultipleChoice, AlbertTokenizer),
+    "debertav2": (DebertaV2Config, DebertaV2ForMultipleChoice, DebertaV2Tokenizer),
 }
 
 
@@ -229,7 +237,7 @@ def train(args, train_dataset, model, tokenizer):
                 "input_ids": batch[0],
                 "attention_mask": batch[1],
                 "token_type_ids": batch[2]
-                if args.model_type in ["bert", "xlnet"]
+                if args.model_type in ["bert", "xlnet", "albert", "debertav2"]
                 else None,  # XLM don't use segment_ids
                 "labels": batch[3],
             }
@@ -339,7 +347,7 @@ def evaluate(args, model, tokenizer, prefix="", test=False):
                     "input_ids": batch[0],
                     "attention_mask": batch[1],
                     "token_type_ids": batch[2]
-                    if args.model_type in ["bert", "xlnet"]
+                    if args.model_type in ["bert", "xlnet", "albert", "debertav2"]
                     else None,  # XLM don't use segment_ids
                     "labels": batch[3],
                 }

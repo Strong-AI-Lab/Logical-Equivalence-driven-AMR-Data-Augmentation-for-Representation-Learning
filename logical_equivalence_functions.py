@@ -7,7 +7,8 @@ import pandas as pd
 # from nltk.translate.bleu_score import sentence_bleu
 import sacrebleu
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "6"
+from BERT.bert_config import opt
+os.environ["CUDA_VISIBLE_DEVICES"] = opt.GPU_ID
 import penman
 import time
 import re

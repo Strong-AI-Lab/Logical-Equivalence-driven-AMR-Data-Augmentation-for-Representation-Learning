@@ -7,9 +7,6 @@ class Config:
 
     flag = "finetune_t5_large"  ## finetune_gpt2, finetune_t5
     ## Initialization parameters
-    train_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_list_contraposition_train.csv"
-    eval_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_list_contraposition_dev.csv"
-    test_data_path = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_list_contraposition_dev.csv"
     model_type = 't5-large'  # same as model_name_or_path
     checkpoint_num = "checkpoint-2839"
     dataset_path = './output_result/'  ## if the task is sen2rdf, set the dataset_path to 'data/webnlg_challenge_2017_sen2rdf/'
@@ -19,29 +16,46 @@ class Config:
     lower_threshold = 50
     upper_threshold = 80
     coverage = 0.8
-    augment_tag = "sts-roberta"  # sts-roberta or vae or prefix
+    augment_tag = "contraposition" # contraposition, all
+    if augment_tag == "contraposition":
+        # train_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_list_contraposition_train.csv"
+        train_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/Synthetic_xfm_t5wtense_contraposition_list_text2text_train.csv"
+        eval_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_list_contraposition_dev.csv"
+        test_data_path = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_list_contraposition_train.csv"
+    elif augment_tag == "all":
+        train_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/Synthetic_xfm_t5wtense_logical_equivalence_list_text2text_train.csv"
+        eval_data_file = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_validation_v5.csv"
+        test_data_path = "/data/qbao775/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning/output_result/Synthetic_xfm_t5wtense_logical_equivalence_train_v5.csv"
+    
+    
     paraphrased_tag = False
     num_return_sequences = 5  # 5
-    if flag == "finetune_gpt2" and rdf2sen_augment_data_tag != True and paraphrased_tag == False:
+    if flag == "finetune_gpt2" and rdf2sen_augment_data_tag != True and paraphrased_tag == False and augment_tag == "all":
         directory_name = "model_gpt2"
         output_dir = dataset_path+directory_name
         model_path = dataset_path+directory_name+"/"+checkpoint_num
         output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"test_result.csv"
         evaluate_output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"evaluate_test_result.csv"  ## dataset_path + directory_name + "/" + checkpoint_num + "/" + "evaluate_total_test_result.csv"
-    elif flag == "finetune_gpt2_large" and rdf2sen_augment_data_tag != True and paraphrased_tag == False:
+    elif flag == "finetune_gpt2_large" and rdf2sen_augment_data_tag != True and paraphrased_tag == False and augment_tag == "all":
         directory_name = "model_gpt2_large"
         output_dir = dataset_path+directory_name
         model_path = dataset_path+directory_name+"/"+checkpoint_num
         output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"test_result.csv"
         evaluate_output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"evaluate_test_result.csv"  ## dataset_path + directory_name + "/" + checkpoint_num + "/" + "evaluate_total_test_result.csv"
-    elif flag == "finetune_t5_base" and rdf2sen_augment_data_tag != True and paraphrased_tag == False:
+    elif flag == "finetune_t5_base" and rdf2sen_augment_data_tag != True and paraphrased_tag == False and augment_tag == "all":
         directory_name = "model_t5_base"
         output_dir = dataset_path+directory_name
         model_path = dataset_path+directory_name+"/"+checkpoint_num
         output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"test_result.csv"
         evaluate_output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"evaluate_test_result.csv"  ## dataset_path + directory_name + "/" + checkpoint_num + "/" + "evaluate_total_test_result.csv"
-    elif flag == "finetune_t5_large" and rdf2sen_augment_data_tag != True and paraphrased_tag == False:
-            directory_name = "model_t5_large"
+    elif flag == "finetune_t5_large" and rdf2sen_augment_data_tag != True and paraphrased_tag == False and augment_tag == "contraposition":
+            directory_name = "model_t5_large_contraposition"
+            output_dir = dataset_path+directory_name
+            model_path = dataset_path+directory_name+"/"+checkpoint_num
+            output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"test_result.csv"
+            evaluate_output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"evaluate_test_result.csv"  ## dataset_path + directory_name + "/" + checkpoint_num + "/" + "evaluate_total_test_result.csv"    
+    elif flag == "finetune_t5_large" and rdf2sen_augment_data_tag != True and paraphrased_tag == False and augment_tag == "all":
+            directory_name = "model_t5_large_all"
             output_dir = dataset_path+directory_name
             model_path = dataset_path+directory_name+"/"+checkpoint_num
             output_path = dataset_path+directory_name+"/"+checkpoint_num+"/"+"test_result.csv"

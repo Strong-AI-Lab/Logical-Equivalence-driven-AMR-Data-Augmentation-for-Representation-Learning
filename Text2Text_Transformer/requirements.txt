@@ -1,0 +1,14 @@
+numpy==1.18.1
+tqdm==4.42.1
+pandas==1.0.1
+apex==0.9.10dev
+ptvsd==4.3.2
+t5
+sentence_transformers==2.0.0
+tensorboardX==2.4
+torch==1.9.0
+transformers==4.9.2
+bert-score==0.3.10
+py-readability-metrics==1.4.5
+language-tool-python==2.5.3
+nltk==3.6.2

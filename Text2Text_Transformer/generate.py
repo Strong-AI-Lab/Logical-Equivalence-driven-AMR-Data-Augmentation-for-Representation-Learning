@@ -30,12 +30,13 @@ def load_examples_and_label(test_data_path, tokenizer):
     for sample in data_samples:
         # src_text.append(tokenizer.bos_token + sample[1] + tokenizer.additional_special_tokens[0])
         # src_text.append(sample[1] + ' prefix ')
-        if opt.flag in [
-                "finetune_gpt2_prefix"]:
-            src_text.append(sample[0] + ' prefix ')
-        else:
-            src_text.append(sample[0] + ' ')  # test without prefix
-        label_text.append(sample[1])
+        if str(sample[0]) != 'nan':
+            if opt.flag in [
+                    "finetune_gpt2_prefix"]:
+                src_text.append(sample[0] + ' prefix ')
+            else:
+                src_text.append(sample[0] + ' ')  # test without prefix
+            label_text.append(sample[1])
     samples = [[samp, tgr_t] for samp, tgr_t in zip(src_text, label_text)]
 
     return samples

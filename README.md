@@ -1,6 +1,6 @@
 # Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning
 
-We proposed a new AMR-based logic-driven data augmentation for contrastive learning intermediate training and then we conduct the downstream tasks require logical reasoning including logical reasoning reading comprehension tasks (ReClor and LogiQA) and natural language inference tasks (MNLI, MRPC, RTE, QNLI and QQP). Our method `AMR-LE-Ensemble` model and `AMR-LE (DeBERTa-v2-xxlarge-AMR-LE-Cont)` achieves `#2` and `#5` on the [ReClor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) respectively and we also release the model weights on huggingface/models.
+We proposed a new AMR-based logic-driven data augmentation for contrastive learning intermediate training and then we conduct the downstream tasks require logical reasoning including logical reasoning reading comprehension tasks (ReClor and LogiQA) and natural language inference tasks (MNLI, MRPC, RTE, QNLI and QQP). Our method `AMR-LE-Ensemble` model and `AMR-LE (DeBERTa-v2-xxlarge-AMR-LE-Cont)` achieves `#2` and `#5` on the [ReClor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) respectively and we also release the model weights on `Huggingface/models`.
 
 ## 🤗 Model weights
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition)

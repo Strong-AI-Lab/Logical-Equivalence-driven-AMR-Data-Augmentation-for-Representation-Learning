@@ -4,10 +4,15 @@ We proposed a new AMR-based logic-driven data augmentation for contrastive learn
 
 ## 🤗 Model weights
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition)
+
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation)
+
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication)
+
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication-Commutative](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication-Commutative)
+
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication-Commutative-Pos-Neg-1-2](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication-Commutative-Pos-Neg-1-2)
+
 [AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication-Commutative-Pos-Neg-1-3](https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition-Double-Negation-Implication-Commutative-Pos-Neg-1-3)
 
 ## To replicate our experiment result, you can follow the following steps.

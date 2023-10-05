@@ -83,6 +83,7 @@ def swappable_conditions_contraposition_2(g):
         split_new_condition = ":condition " + graph[start:end]
         # split_old_condition = graph[end+len(":condition "):len(graph)-2] + "\n" +":polarity -" + "\n"
         split_old_condition = graph[end + len(":condition "):len(graph) - 2]
+        pattern = r':degree \([^)]+\)'      
 
         if ":polarity -" not in split_new_condition and ":polarity -" not in split_old_condition:
             split_new_condition = split_new_condition + ":polarity -)"
@@ -90,12 +91,16 @@ def swappable_conditions_contraposition_2(g):
         elif ":polarity -" in split_new_condition and ":polarity -" in split_old_condition:
             split_new_condition = split_new_condition.replace(":polarity -","") + ")"
             split_old_condition = split_old_condition.replace(":polarity -","") + "\n"
+            split_new_condition = re.sub(pattern, '', split_new_condition)
+            split_old_condition = re.sub(pattern, '', split_old_condition)          
         elif ":polarity -" not in split_new_condition and ":polarity -" in split_old_condition:
             split_new_condition = split_new_condition + ":polarity -)"
             split_old_condition = split_old_condition.replace(":polarity -","") + "\n"
+            split_old_condition = re.sub(pattern, '', split_old_condition)          
         elif ":polarity -" in split_new_condition and ":polarity -" not in split_old_condition:
             split_new_condition = split_new_condition.replace(":polarity -","") + ")"
-            split_old_condition = split_old_condition + "\n" +":polarity -" + "\n"
+            split_new_condition = re.sub(pattern, '', split_new_condition)
+            split_old_condition = split_old_condition + "\n" +":polarity -" + "\n"          
 
         new_contructed_graph = split_old_condition + split_new_condition + ")"
         # decoded_g = penman.decode(new_contructed_graph)

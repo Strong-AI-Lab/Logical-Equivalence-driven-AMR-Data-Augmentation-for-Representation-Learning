@@ -3,6 +3,8 @@
 We proposed a new AMR-based logic-driven data augmentation for contrastive learning intermediate training and then we conduct the downstream tasks require logical reasoning including logical reasoning reading comprehension tasks (ReClor and LogiQA) and natural language inference tasks (MNLI, MRPC, RTE, QNLI and QQP). Our `AMR-LDA` model (AMR-LDA Prompt Augmentation+GPT4) and `AMR-LDA (DeBERTa-v2-xxlarge-AMR-LDA-Cont)` lead the [ReClor leaderboard](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347). 
 <!-- and we also release the model weights on `Huggingface/models`.-->
 
+<img src="./reclor.jpg" width="600" />
+
 <!--
 ## 🤗 Model weights
 We released model weights that have been trained on our AMR-LDA augmented data. It is welcome to load them and train them on the downstream tasks that require logical reasoning and natural language inference tasks. Please note that AMR-LE was the old name for our model. We rename our model's name as AMR-LDA. The model weight does not change.

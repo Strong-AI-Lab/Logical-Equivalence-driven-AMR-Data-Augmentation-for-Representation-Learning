@@ -124,3 +124,26 @@ CUDA_VISIBLE_DEVICES=3 python run_multiple_choice.py \
     --warmup_proportion 0.1 \
     --weight_decay 0.01
   ```
+
+## Citation
+
+If the paper and code are helpful, please kindly cite our paper:
+```
+@inproceedings{Bao24amrlda,
+  author    = {Qiming Bao and
+               Alex Yuxuan Peng and
+               Zhenyun Deng and
+               Wanjun Zhong and
+               Gaël Gendron and
+               Neşet Tan and
+               Nathan Young and
+               Yang Chen and
+               Yonghua Zhu and
+               Michael Witbrock and
+               Jiamou Liu},
+  title     = {Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning},
+  booktitle = {Findings of ACL},
+  publisher = {{ACL}},
+  year      = {2024}
+}
+```

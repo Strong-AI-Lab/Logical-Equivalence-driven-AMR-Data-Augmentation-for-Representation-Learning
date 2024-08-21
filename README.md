@@ -129,21 +129,31 @@ CUDA_VISIBLE_DEVICES=3 python run_multiple_choice.py \
 
 If the paper and code are helpful, please kindly cite our paper:
 ```
-@inproceedings{Bao24amrlda,
-  author    = {Qiming Bao and
-               Alex Yuxuan Peng and
-               Zhenyun Deng and
-               Wanjun Zhong and
-               Gaël Gendron and
-               Neşet Tan and
-               Nathan Young and
-               Yang Chen and
-               Yonghua Zhu and
-               Michael Witbrock and
-               Jiamou Liu},
-  title     = {Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning},
-  booktitle = {Findings of ACL},
-  publisher = {{ACL}},
-  year      = {2024}
+@inproceedings{bao-etal-2024-abstract,
+    title = "{A}bstract {M}eaning {R}epresentation-Based Logic-Driven Data Augmentation for Logical Reasoning",
+    author = "Bao, Qiming  and
+      Peng, Alex  and
+      Deng, Zhenyun  and
+      Zhong, Wanjun  and
+      Gendron, Gael  and
+      Pistotti, Timothy  and
+      Tan, Neset  and
+      Young, Nathan  and
+      Chen, Yang  and
+      Zhu, Yonghua  and
+      Denny, Paul  and
+      Witbrock, Michael  and
+      Liu, Jiamou",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.353",
+    pages = "5914--5934",
+    abstract = "Combining large language models with logical reasoning enhances their capacity to address problems in a robust and reliable manner. Nevertheless, the intricate nature of logical reasoning poses challenges when gathering reliable data from the web to build comprehensive training datasets, subsequently affecting performance on downstream tasks. To address this, we introduce a novel logic-driven data augmentation approach, AMR-LDA. AMR-LDA converts the original text into an Abstract Meaning Representation (AMR) graph, a structured semantic representation that encapsulates the logical structure of the sentence, upon which operations are performed to generate logically modified AMR graphs. The modified AMR graphs are subsequently converted back into text to create augmented data. Notably, our methodology is architecture-agnostic and enhances both generative large language models, such as GPT-3.5 and GPT-4, through prompt augmentation, and discriminative large language models through contrastive learning with logic-driven data augmentation. Empirical evidence underscores the efficacy of our proposed method with improvement in performance across seven downstream tasks, such as reading comprehension requiring logical reasoning, textual entailment, and natural language inference. Furthermore, our method leads on the ReClor leaderboard. The source code and data are publicly available",
 }
 ```
